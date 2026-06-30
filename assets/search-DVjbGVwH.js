@@ -1,4 +1,4 @@
-import{c}from"./knowledge-BtoNYTHe.js";/**
+import{c}from"./index-CWYTB3B6.js";/**
  * @license lucide-vue-next v0.294.0 - ISC
  *
  * This source code is licensed under the ISC license.
