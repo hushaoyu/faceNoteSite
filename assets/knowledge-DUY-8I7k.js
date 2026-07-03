@@ -1,9 +1,9 @@
-import{c as I,z as E,k as g,s as w}from"./index-C71X7627.js";/**
+import{c as M,z as I,k as g,s as k}from"./index-DO9msXek.js";/**
  * @license lucide-vue-next v0.294.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const Rn=I("HeartIcon",[["path",{d:"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z",key:"c3ymky"}]]),M=`---
+ */const Dn=M("HeartIcon",[["path",{d:"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z",key:"c3ymky"}]]),E=`---
 title: "Prompt Engineering 提示词工程：原理、技巧与实战"
 category: "AI"
 tags: ["prompt", "llm", "chatgpt", "engineering", "few-shot", "chain-of-thought"]
@@ -2526,7 +2526,7 @@ import('./module.js').then(module => {
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加 DNS 解析、TCP 握手、HTTP 请求、渲染流程、JavaScript 执行和面试问答
-`,H=`---
+`,F=`---
 title: "前端打包优化深度解析：从代码分割到性能监控"
 category: "Build"
 tags: ["optimization", "bundle", "performance", "webpack", "vite"]
@@ -3584,7 +3584,7 @@ module.exports = {
     ├── 压缩优化
     │     ├── TerserPlugin（JS 压缩）
     │     ├── CSSMinimizerPlugin（CSS 压缩）
-    │     └── Gzip/Brotli`,F=`---
+    │     └── Gzip/Brotli`,H=`---
 title: "Webpack Chunk 深度解析：代码分割策略与最佳实践"
 category: "Build"
 tags: ["webpack", "chunk", "splitting", "code-splitting", "bundle"]
@@ -5292,7 +5292,7 @@ difficulty: "简单"
 
 - **现代项目**: 使用 Flexbox 或 Grid
 - **需要兼容**: 使用定位 + transform
-- **简单场景**: 使用 margin: 0 auto（水平居中）`,_=`---
+- **简单场景**: 使用 margin: 0 auto（水平居中）`,B=`---
 title: "Flexbox 布局详解：从基础到高级技巧"
 category: "CSS"
 tags: ["flexbox", "layout", "responsive", "css3"]
@@ -6267,7 +6267,7 @@ Flexbox 布局流程：
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加核心概念、高级技巧、响应式设计和面试问答`,B=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加核心概念、高级技巧、响应式设计和面试问答`,_=`---
 title: "隐藏元素的方式"
 category: "CSS"
 tags: ["hide", "visibility", "display"]
@@ -7977,7 +7977,7 @@ items.map(item => toString.call(item));
 - **TypeScript 中的类型系统**：TypeScript 的静态类型是编译期概念，与 JS 运行时的动态类型判断完全不同。\`typeof\` 在 TS 中既可以作类型保护（Type Guard），也可以作类型查询（Type Query）。
 - **暂存性死区（TDZ）与 typeof**：\`let\` / \`const\` 声明的变量在初始化前使用 \`typeof\` 会抛出 \`ReferenceError\`（而 \`var\` 和未声明变量返回 "undefined"），这是 ES6 的重要区别。
 - **BigInt 的兼容性**：BigInt 不能与普通 Number 混用运算（\`1n + 1\` 抛异常），需要显式转换。
-- **ES2024 Records & Tuples 提案**：引入不可变的复合类型（类似 Object/Array 但不可变且按值比较），将彻底改变现有的类型体系。`,q=`---
+- **ES2024 Records & Tuples 提案**：引入不可变的复合类型（类似 Object/Array 但不可变且按值比较），将彻底改变现有的类型体系。`,G=`---
 title: "防抖与节流：从原理到实战的完整解析"
 category: "JavaScript"
 tags: ["debounce", "throttle", "optimization", "performance", "event-handling"]
@@ -8711,7 +8711,7 @@ const debounced = _.debounce(fn, 300, { maxWait: 1000 });
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加高级特性、实战场景、完整实现和面试问答
-`,X=`---
+`,q=`---
 title: "深拷贝与浅拷贝：从原理到实战的完整解析"
 category: "JavaScript"
 tags: ["copy", "deep", "shallow", "clone", "structured-clone", "circular-reference"]
@@ -10240,7 +10240,7 @@ Promise.resolve()
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加调用栈、任务队列、Node.js 事件循环和面试问答
-`,J=`---
+`,X=`---
 title: "前端国际化实现：从基础到企业级方案"
 category: "JavaScript"
 tags: ["i18n", "internationalization", "localization", "react", "vue"]
@@ -11086,7 +11086,853 @@ function getKeys(obj, parentKey = '') {
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加动态加载、高级特性、多语言路由和面试问答`,G=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加动态加载、高级特性、多语言路由和面试问答`,J=`---
+title: "JavaScript 内存管理：堆、栈与垃圾回收完全指南"
+category: "JavaScript"
+tags: ["内存", "堆", "栈", "垃圾回收", "V8", "内存泄漏"]
+difficulty: "中等"
+---
+
+# JavaScript 内存管理：堆、栈与垃圾回收完全指南
+
+## 一、内存模型总览
+
+### 1.1 程序的内存布局
+
+JavaScript 引擎在运行时将内存划分为多个区域（以 V8 为例）：
+
+\`\`\`
+┌──────────────────────────┐
+│         栈 (Stack)        │  ← 存储基本类型值、函数调用帧
+│    先进后出 (LIFO)        │
+├──────────────────────────┤
+│         堆 (Heap)         │  ← 存储引用类型对象
+│    无序、动态分配          │
+├──────────────────────────┤
+│    代码段 (Code Segment)  │  ← 存储机器码
+├──────────────────────────┤
+│    常量池 (Constant Pool) │  ← 存储字符串常量等
+└──────────────────────────┘
+\`\`\`
+
+**核心区别：**
+
+| 维度 | 栈 (Stack) | 堆 (Heap) |
+|------|-----------|-----------|
+| **数据结构** | 先进后出（LIFO） | 无序分配 |
+| **存储内容** | 基本类型值 + 执行上下文 | 对象、闭包变量 |
+| **分配方式** | 编译器自动分配 | 运行时动态分配 |
+| **释放方式** | 函数执行完毕自动弹出 | GC 自动回收 |
+| **访问速度** | 极快（纳秒级） | 较慢（微秒级，含 GC 开销） |
+| **大小限制** | 固定（~1MB / 线程） | 大（~1.4GB 默认 64 位） |
+| **生命周期** | 与函数调用同步 | 取决于引用关系 |
+
+> **面试关键词**：栈用于存储「执行上下文」和「基本类型」，堆用于存储「对象」。函数调用帧也在栈上。
+
+---
+
+## 二、栈（Stack）的深入理解
+
+### 2.1 栈的结构与工作方式
+
+栈是一种**线性结构**，遵循**后进先出（LIFO, Last In First Out）** 原则：
+
+\`\`\`javascript
+// 用数组模拟栈的操作
+const stack = [];
+
+// 入栈（push）—— 相当于函数调用
+stack.push(1);    // [1]
+stack.push(2);    // [1, 2]
+stack.push(3);    // [1, 2, 3]
+
+// 出栈（pop）—— 相当于函数返回
+stack.pop();      // [1, 2] → 返回 3
+stack.pop();      // [1]    → 返回 2
+stack.pop();      // []     → 返回 1
+\`\`\`
+
+### 2.2 函数调用栈（Call Stack）
+
+\`\`\`javascript
+function baz() {
+  console.log('baz');
+}
+
+function bar() {
+  console.log('bar');
+  baz();
+}
+
+function foo() {
+  console.log('foo');
+  bar();
+}
+
+foo();
+
+// 调用栈的变化：
+// 1. 全局上下文入栈
+// 2. foo() 入栈 → foo 上下文
+// 3. bar() 入栈 → bar 上下文
+// 4. baz() 入栈 → baz 上下文
+// 5. baz() 执行完毕 → 出栈
+// 6. bar() 执行完毕 → 出栈
+// 7. foo() 执行完毕 → 出栈
+// 8. 全局上下文出栈（程序结束/事件循环等待）
+\`\`\`
+
+### 2.3 栈帧（Stack Frame）的结构
+
+每个函数调用创建一个栈帧，包含：
+
+\`\`\`
+┌──────────────────────────────┐
+│       返回地址               │  ← 函数执行完后回到哪里
+├──────────────────────────────┤
+│       局部变量                │  ← 函数内声明的变量
+├──────────────────────────────┤
+│       参数                    │  ← 传入的参数值
+├──────────────────────────────┤
+│       临时值                  │  ← 中间计算结果
+├──────────────────────────────┤
+│       this 引用               │  ← 当前 this 指向
+└──────────────────────────────┘
+\`\`\`
+
+\`\`\`javascript
+function add(a, b) {
+  const result = a + b; // 局部变量 result 在栈上
+  return result;
+}
+
+const sum = add(3, 5);
+// add 的栈帧：
+// ┌─────────────────────┐
+// │ return address      │
+// ├─────────────────────┤
+// │ result = 8          │  ← 局部变量
+// ├─────────────────────┤
+// │ a = 3, b = 5        │  ← 参数
+// └─────────────────────┘
+\`\`\`
+
+### 2.4 栈溢出（Stack Overflow）
+
+\`\`\`javascript
+// ❌ 无限递归导致栈溢出
+function infiniteRecursion() {
+  return infiniteRecursion();
+}
+
+// infiniteRecursion(); // RangeError: Maximum call stack size exceeded
+
+// ✅ 尾调用优化（TCO, Tail Call Optimization）
+// ES6 严格模式下，如果函数最后一步是调用自身且无额外操作
+// 引擎可以优化为不增加栈帧
+'use strict';
+function tailRecursion(n, acc = 1) {
+  if (n <= 1) return acc;
+  return tailRecursion(n - 1, n * acc); // 尾调用
+}
+// ⚠️ 目前只有 Safari 实现了尾调用优化，V8 仍在讨论
+
+// 栈大小的实际测试
+let depth = 0;
+function measureStack() {
+  depth++;
+  measureStack();
+}
+try {
+  measureStack();
+} catch (e) {
+  console.log('栈深度:', depth); // Chrome ≈ 11000-14000 左右
+}
+\`\`\`
+
+**V8 栈大小在不同环境的差异：**
+
+| 环境 | 栈大小（默认） | 最大递归深度（估算） |
+|------|--------------|-------------------|
+| Chrome 桌面 | ~984KB | ~11000 |
+| Node.js | ~984KB | ~11000 |
+| 移动端 Chrome | ~512KB | ~5500 |
+| Node.js (--stack-size=2048) | ~2MB | ~22000 |
+
+> **面试加分**：知道 ES6 尾调用优化（TCO）且能解释为什么 V8 未实现（因为 tail call 会破坏开发工具的堆栈追踪）
+
+---
+
+## 三、堆（Heap）的深入理解
+
+### 3.1 堆空间结构（V8）
+
+V8 将堆内存划分为几个区域（分代收集的前提）：
+
+\`\`\`
+V8 堆空间
+├── 新生代（Young Generation）—— 存活时间短
+│   ├── From 空间（活跃对象）
+│   └── To 空间（Scavenge 复制目标）
+│
+├── 老生代（Old Generation）—— 存活时间长
+│   ├── 标记-清扫（Mark-Sweep）
+│   └── 标记-整理（Mark-Compact）
+│
+├── 大对象区（Large Object Space）
+│   ├── 超大对象直接分配到这里
+│   └── 不参与常规 GC
+│
+├── 代码区（Code Space）
+│   ├── 存放 JIT 编译后的代码
+│   └── 提前编译代码
+│
+└── 元数据区（Map Space / Cell Space）
+    ├── Hidden Class（Map）
+    └── 常量单元
+\`\`\`
+
+### 3.2 对象在堆中的分配
+
+\`\`\`javascript
+// 创建对象时，V8 在堆中分配空间
+const obj = {        // obj（栈）→ {name, age}（堆）
+  name: 'Alice',
+  age: 30
+};
+
+// 内存示意图：
+// 栈（变量 obj）   堆（对象数据）
+// ┌──────────┐    ┌──────────────┐
+// │ 0x3F2A   │───→│ name: 'Alice'│
+// └──────────┘    │ age: 30      │
+//                  └──────────────┘
+\`\`\`
+
+### 3.3 基本类型在栈上存储
+
+\`\`\`javascript
+// 基本类型直接存储在栈上
+let a = 10;       // 栈：a = 10
+let b = a;        // 栈：b = 10（值的拷贝）
+b = 20;           // 栈：b = 20 | a = 10（互不影响）
+
+// 栈内存示意：
+// ┌────────────┐
+// │ a: 10      │
+// │ b: 10 → 20 │
+// └────────────┘
+
+// 引用类型：栈存地址，堆存数据
+let obj1 = { val: 10 }; // 栈：obj1 = 0x100 | 堆：0x100 → { val: 10 }
+let obj2 = obj1;        // 栈：obj2 = 0x100（引用复制）
+obj2.val = 20;          // 堆：0x100 → { val: 20 }
+
+// obj1.val === 20 — 因为指向同一个堆地址！
+\`\`\`
+
+---
+
+## 四、闭包的内存模型
+
+闭包是理解 JS 内存的**关键**，它跨越了栈和堆的界限：
+
+\`\`\`javascript
+function createCounter() {
+  let count = 0; // ↑ 正常情况下，函数返回后 count 出栈销毁
+  
+  return function() {
+    count++;      // 但这里引用了 count
+    return count;
+  };
+}
+
+const counter = createCounter();
+console.log(counter()); // 1
+console.log(counter()); // 2
+console.log(counter()); // 3
+
+// 发生了什么？
+// 1. createCounter() 执行时，count 在栈上
+// 2. 发现 count 被内部函数引用 → 发生「栈到堆提升」
+// 3. count 从栈复制到堆上，通过 Closure 对象引用
+// 4. createCounter 栈帧弹出，但堆上的 count 仍在
+// 5. counter 函数每次调用，从堆上读取/修改 count
+
+// 闭包的内存模型：
+// 栈：
+// ┌──────────────────────┐
+// │ counter → 0xFF       │──┐
+// └──────────────────────┘  │
+// 堆：                     │
+// ┌──────────────────────┐ │
+// │ Closure 对象          │←┘
+// │ ├─ count: 3          │
+// │ └─ (内部函数引用)     │
+// └──────────────────────┘
+\`\`\`
+
+> **面试加分**：说出「栈到堆提升（Stack to Heap Promotion）」和「Closure 对象」这两个概念，说明理解深度
+
+**闭包的内存泄漏风险：**
+
+\`\`\`javascript
+// ❌ 闭包导致大对象泄漏
+function createLeaky() {
+  const largeData = new Array(1000000).fill('data');
+  
+  return function() {
+    // 只用了 largeData 的一个小信息
+    console.log(largeData.length);
+  };
+}
+
+const leaky = createLeaky();
+// largeData 因为被闭包引用而无法被 GC 回收！
+// 即使闭包只用了 largeData.length
+
+// ✅ 解决方法：仅保留需要的部分
+function createFixed() {
+  const largeData = new Array(1000000).fill('data');
+  const length = largeData.length; // 只提取需要的值
+  
+  return function() {
+    console.log(length);
+  };
+  // largeData 不再被引用 → 可回收
+}
+\`\`\`
+
+---
+
+## 五、垃圾回收（Garbage Collection）
+
+### 5.1 GC 的必要性
+
+\`\`\`javascript
+// 每次 new 都分配堆内存
+function createManyObjects() {
+  for (let i = 0; i < 10000; i++) {
+    const obj = { id: i, data: new Array(100) };
+    // 每次循环创建新对象，如果不可达就被 GC 回收
+  }
+}
+// 没有 GC → 内存很快耗尽
+// C/C++ 需要手动 free/delete
+// JavaScript 通过 GC 自动管理
+\`\`\`
+
+### 5.2 可达性（Reachability）
+
+GC 判断对象是否存活的**核心标准**：对象是否**可达**。
+
+\`\`\`
+GC Roots（根对象）
+├── 全局对象（window / globalThis）
+├── 当前调用栈上的变量和参数
+├── 正在执行中的函数（闭包变量）
+└── 微任务队列中引用的对象
+
+从 GC Roots 出发，能遍历到的对象 → 「存活」
+从 GC Roots 出发，遍历不到的 → 「垃圾」
+\`\`\`
+
+\`\`\`javascript
+let obj = { data: 'hello' };
+obj = null; // 原来的对象不再从 GC Root 可达 → 可回收
+
+// 循环引用不影响 GC
+function circularRef() {
+  const a = {};
+  const b = {};
+  a.ref = b;
+  b.ref = a;
+  // a 和 b 互相引用
+}
+// 函数执行完毕后，a 和 b 从 GC Root 不可达 → 一起被回收
+// （与引用计数不同，现代 GC 的「标记-清扫」不受循环引用影响）
+\`\`\`
+
+### 5.3 V8 的分代式 GC（Generational GC）
+
+#### 5.3.1 新生代（Young Generation）
+
+\`\`\`javascript
+// 使用 Scavenge 算法（Cheney 算法）
+// 空间换时间：使用 From 和 To 两个半区
+
+// 流程：
+// 1. 新对象分配到 From 空间
+// 2. From 空间快满时 → Scavenge GC
+// 3. 标记 From 中的存活对象
+// 4. 复制存活对象到 To 空间（并整理紧致）
+// 5. 清空 From 空间
+// 6. 交换 From 和 To 角色
+// 7. 对象经历过一次 GC 仍存活 → 晋升到老生代
+
+// ┌─────┐  GC 前  ┌─────┐
+// │From │         │ To  │
+// │A B C│         │     │
+// │D E  │         │     │
+// └─────┘         └─────┘
+//       ⬇  Scavenge
+// ┌─────┐  GC 后  ┌─────┐
+// │ To  │         │From │
+// │A B C│         │     │
+// │D E  │         │     │
+// └─────┘         └─────┘
+\`\`\`
+
+**新生代晋升条件：**
+
+\`\`\`javascript
+// 1. 对象经历过一次 Scavenge 仍存活
+// 2. To 空间使用率超过 25%（为防止过度晋升，实际阈值略有不同）
+\`\`\`
+
+#### 5.3.2 老生代（Old Generation）
+
+\`\`\`javascript
+// 老生代使用两种算法：
+
+// 1. 标记-清扫（Mark-Sweep）—— 主要
+//    - 遍历所有 GC Root，标记可达对象
+//    - 清扫未标记的对象（直接释放）
+//    - ⚠️ 会产生内存碎片
+
+// 2. 标记-整理（Mark-Compact）—— 偶尔触发
+//    - 标记存活对象后，将对象移到连续内存
+//    - 消除碎片
+//    - ⚠️ 速度较慢，仅在碎片严重时触发
+
+// V8 触发 GC 的时机：
+// - 新生代：From 空间使用率达到阈值
+// - 老生代：标记的碎片超过限制
+// - 全量 GC：内存接近耗尽
+// - 空闲时间：浏览器空闲期执行
+\`\`\`
+
+### 5.4 V8 的优化：增量标记与并行 GC
+
+\`\`\`javascript
+// 传统的标记-清扫有一个问题：全停顿（Stop The World）
+// 标记阶段不能执行 JS，导致卡顿
+
+// V8 优化方案：
+
+// 1. 增量标记（Incremental Marking） — Chrome ≥ 2011
+//    - 将标记分为多个小步骤
+//    - 每个步骤执行 ~1ms
+//    - 穿插在 JS 执行间隙
+//    - 使用写屏障（Write Barrier）追踪标记期间的对象变更
+
+// 2. 并行 GC（Parallel GC） — Chrome ≥ 2014
+//    - 主线程和辅助线程并行标记
+//    - 无锁同步，预分配任务
+
+// 3. 并发标记（Concurrent Marking） — Chrome ≥ 2019
+//    - 标记在后台线程执行
+//    - 主线程完全不受影响
+//    - V8 v7.0+ 默认启用
+
+// 效果对比：
+// Scavenge GC:      ~0.1-1ms（对用户无感知）
+// 全量 GC（旧）:     ~100-500ms（可感知卡顿）
+// 增量 GC（现代）:   ~1-5ms × N 次（感知不到）
+\`\`\`
+
+> **面试加分**：能说出「增量标记+写屏障」是现代 GC 避免全停顿的关键机制
+
+### 5.5 V8 内存限制
+
+| 环境 | 堆内存上限（默认） | 栈大小 |
+|------|------------------|--------|
+| 32 位 Node.js | ~0.7GB | ~512KB |
+| 64 位 Node.js | ~1.4GB | ~984KB |
+| 浏览器（32 位） | ~1.0GB | ~512KB |
+| 浏览器（64 位） | ~1.4GB | ~984KB |
+
+\`\`\`javascript
+// Node.js 查看/修改内存限制
+// node --max-old-space-size=4096 app.js  # 设置老生代 4GB
+// node --max-new-space-size=1024 app.js  # 设置新生代 1GB
+// node --max-semi-space-size=128 app.js  # 设置半空间 128MB
+
+// 运行时查看内存使用
+const used = process.memoryUsage();
+console.log({
+  rss: Math.round(used.rss / 1024 / 1024) + ' MB',       // 常驻集大小
+  heapTotal: Math.round(used.heapTotal / 1024 / 1024) + ' MB', // 堆总大小
+  heapUsed: Math.round(used.heapUsed / 1024 / 1024) + ' MB',  // 已用堆
+  external: Math.round(used.external / 1024 / 1024) + ' MB',  // C++ 对象占用
+});
+\`\`\`
+
+---
+
+## 六、内存泄漏的常见场景
+
+### 6.1 全局变量意外泄漏
+
+\`\`\`javascript
+// ❌ 未声明的变量变为全局变量
+function leak() {
+  leaked = 'I am global'; // 没有 let/const/var
+}
+leak();
+console.log(window.leaked); // 'I am global' — 永远无法回收
+
+// ❌ this 指向全局
+function LeakyConstructor() {
+  this.data = new Array(100000);
+}
+LeakyConstructor(); // 当成普通函数调用，this 指向 window
+console.log(window.data); // 泄漏到全局
+
+// ✅ 严格模式阻止
+'use strict';
+function safe() {
+  leaked = 'error'; // ReferenceError
+}
+\`\`\`
+
+### 6.2 定时器未清理
+
+\`\`\`javascript
+// ❌ setInterval 引用了 DOM 元素，即使 DOM 被移除
+function startTimer() {
+  const element = document.getElementById('app');
+  const heavyData = new Array(1000000);
+  
+  setInterval(() => {
+    element.innerHTML = Date.now(); // 引用 element 和 heavyData
+  }, 1000);
+}
+
+startTimer();
+// 即使 #app 被移除，定时器仍存在
+// element 和 heavyData 都无法被回收
+
+// ✅ 清理定时器
+function startTimerFixed() {
+  const element = document.getElementById('app');
+  const heavyData = new Array(1000000);
+  
+  const timerId = setInterval(() => {
+    if (!document.contains(element)) {
+      clearInterval(timerId); // DOM 移除后清理
+      return;
+    }
+    element.innerHTML = Date.now();
+  }, 1000);
+  
+  return timerId; // 让调用方也能清理
+}
+\`\`\`
+
+### 6.3 事件监听器未移除
+
+\`\`\`javascript
+// ❌ 事件监听器持有对象引用
+class PageWidget {
+  constructor() {
+    this.data = new Array(10000);
+    window.addEventListener('resize', this.onResize);
+  }
+  
+  onResize = () => {
+    console.log(this.data.length);
+  };
+  
+  destroy() {
+    // 忘了移除监听器！
+  }
+}
+
+// ✅ 显式移除
+class PageWidgetFixed {
+  constructor() {
+    this.data = new Array(10000);
+    this.boundOnResize = this.onResize.bind(this);
+    window.addEventListener('resize', this.boundOnResize);
+  }
+  
+  onResize() {
+    console.log(this.data.length);
+  }
+  
+  destroy() {
+    window.removeEventListener('resize', this.boundOnResize);
+  }
+}
+\`\`\`
+
+### 6.4 DOM 引用泄漏
+
+\`\`\`javascript
+// ❌ 保留对已移除 DOM 节点的引用
+const elements = [];
+
+function processElements() {
+  const nodes = document.querySelectorAll('.item');
+  nodes.forEach(node => {
+    elements.push(node);
+    node.addEventListener('click', () => {
+      console.log('clicked');
+    });
+  });
+}
+
+// 即使 .item 被从 DOM 移除
+// elements 数组仍然持有引用
+// 事件监听器也持有引用
+// → 整个 DOM 节点都无法被回收！
+
+// ✅ 使用 WeakRef（ES2021）或及时清理
+\`\`\`
+
+### 6.5 闭包泄漏
+
+\`\`\`javascript
+// ❌ 大对象被闭包意外持有
+function createSelector() {
+  const hugeArray = new Array(1000000).fill('data');
+  
+  return {
+    getLength: function() {
+      return hugeArray.length;
+    },
+    getSlice: function(start, end) {
+      return hugeArray.slice(start, end); // 返回了一个大数组
+    }
+  };
+}
+
+const selector = createSelector();
+// hugeArray 一直被selector上的方法引用，无法GC
+
+// ✅ 在不需要时释放
+function createSelectorFixed() {
+  let hugeArray = new Array(1000000).fill('data');
+  
+  return {
+    getLength: function() {
+      return hugeArray.length;
+    },
+    free: function() {
+      hugeArray = null; // 显式释放
+    }
+  };
+}
+\`\`\`
+
+### 6.6 内存泄漏检测工具
+
+| 工具 | 用途 | 平台 |
+|------|------|------|
+| Chrome DevTools → Memory | 堆快照对比、定位泄漏对象 | 浏览器 |
+| Performance 面板 | 录制内存变化趋势 | 浏览器 |
+| \`performance.memory\` | 实时查看内存使用 | 浏览器 |
+| \`process.memoryUsage()\` | 实时查看 Node.js 内存 | Node.js |
+| Chrome DevTools → Detached Elements | 查找已分离的 DOM 节点 | 浏览器 |
+| Node.js --inspect | 在 Chrome 中调试 Node 内存 | Node.js |
+
+\`\`\`javascript
+// Node.js 内存监控
+function logMemory() {
+  const usage = process.memoryUsage();
+  console.log({
+    heapUsed: \`\${Math.round(usage.heapUsed / 1024 / 1024)} MB\`,
+    heapTotal: \`\${Math.round(usage.heapTotal / 1024 / 1024)} MB\`,
+    external: \`\${Math.round(usage.external / 1024 / 1024)} MB\`,
+    rss: \`\${Math.round(usage.rss / 1024 / 1024)} MB\`
+  });
+}
+
+// 手动触发 GC（需要 --expose-gc 标志）
+// node --expose-gc app.js
+if (global.gc) {
+  global.gc();
+  logMemory();
+}
+\`\`\`
+
+---
+
+## 七、性能优化实践
+
+### 7.1 减少 GC 压力的代码习惯
+
+\`\`\`javascript
+// ❌ 频繁创建临时对象
+function bad(items) {
+  return items.map(item => {
+    return {            // 每次迭代都创建新对象
+      original: item,
+      doubled: item * 2,
+      timestamp: Date.now()
+    };
+  });
+}
+
+// ✅ 对象池复用
+class ObjectPool {
+  constructor(factory, reset) {
+    this.factory = factory;
+    this.reset = reset;
+    this.pool = [];
+  }
+  
+  acquire() {
+    return this.pool.pop() || this.factory();
+  }
+  
+  release(obj) {
+    this.reset(obj);
+    if (this.pool.length < 100) {
+      this.pool.push(obj);
+    }
+  }
+}
+
+// ❌ 在热路径中使用 try/catch
+function hotPath(items) {
+  items.forEach(item => {
+    try {
+      process(item); // try/catch 阻止 V8 优化
+    } catch (e) {
+      handleError(e);
+    }
+  });
+}
+
+// ✅ 只在非热路径进行错误处理
+function hotPath(items) {
+  items.forEach(item => {
+    process(item);
+  });
+}
+\`\`\`
+
+### 7.2 避免内存碎片
+
+\`\`\`javascript
+// ❌ 频繁增长和缩小数组（导致内存碎片）
+let arr = [];
+for (let i = 0; i < 10000; i++) {
+  arr.push(i);
+}
+for (let i = 0; i < 9999; i++) {
+  arr.pop(); // 数组缩容不会释放内存
+}
+
+// ✅ 预分配数组大小
+const arr2 = new Array(10000);
+for (let i = 0; i < 10000; i++) {
+  arr2[i] = i;
+}
+// 使用完后
+arr2.length = 0; // 让内容可被 GC
+\`\`\`
+
+### 7.3 WeakMap / WeakSet 的妙用
+
+\`\`\`javascript
+// WeakMap 的「弱引用」特性：不影响 GC
+
+// 场景：为 DOM 元素关联数据
+// ❌ 普通 Map 会阻止 DOM 回收
+const map = new Map();
+function associateData(element, data) {
+  map.set(element, data); // DOM 移除后，Map 仍持有引用
+}
+
+// ✅ WeakMap — 元素被移除后，关联数据自动回收
+const weakMap = new WeakMap();
+function associateDataSafe(element, data) {
+  weakMap.set(element, data); // DOM 移除 → 条目自动删除
+}
+
+// 应用：私有数据存储
+const privateData = new WeakMap();
+class MyClass {
+  constructor(name) {
+    privateData.set(this, { name });
+  }
+  getName() {
+    return privateData.get(this).name;
+  }
+}
+// 实例销毁后，privateData 中的条目自动清理
+\`\`\`
+
+### 7.4 内存性能量化参考
+
+| 操作 | 分配 | GC 触发 | 耗时 |
+|------|------|---------|------|
+| \`let a = 1\` | 栈（4-8 bytes） | 不触发 | ~0.001μs |
+| \`{ x: 1 }\` | 堆（~48 bytes） | 新生代 | ~0.2μs |
+| \`new Array(1000)\` | 堆（~4KB） | 新生代 | ~3μs |
+| \`new Array(1000000)\` | 堆（~4MB） | 可能触发老生代 | ~50μs |
+| \`'a'.repeat(100000)\` | 堆（~100KB + 指针） | 新生代 | ~5μs |
+| 全量 GC（1GB 堆） | — | 老生代 | ~5-50ms（增量标记） |
+| Scavenge GC | — | 新生代 | ~0.1-1ms |
+
+---
+
+## 八、面试要点
+
+### 8.1 高频问题层级
+
+| 层级 | 问题 | 期望 |
+|------|------|------|
+| 入门 | 基本类型和引用类型在内存中如何存放？ | 栈和堆的概念 |
+| 中等 | 闭包的内存模型？什么是内存泄漏？常见场景有哪些？ | 闭包与 GC 关系、几种泄漏场景 |
+| 进阶 | V8 的分代垃圾回收如何工作？如何排查内存泄漏？ | 新生代/老生代、工具链 |
+| 深入 | 增量标记如何避免全停顿？写屏障是什么？ | 引擎级理解与优化机制 |
+
+### 8.2 合格 vs 优秀
+
+**合格回答**：
+- 基本类型在栈、对象在堆
+- 闭包会导致栈到堆提升
+- 垃圾回收是自动的、不可控的
+- 知道常见的 2-3 种内存泄漏场景
+
+**优秀回答**：
+- 能画出函数调用栈的入栈出栈过程
+- 能解释 V8 的新生代 Scavenge 和老生代 Mark-Sweep 的区别
+- 知道增量标记与写屏障
+- 能用 Chrome DevTools Memory 面板分析堆快照
+- 能解释 WeakMap 的弱引用如何解决内存泄漏
+- 知道闭包的「栈到堆提升」和 Closure 对象的概念
+
+### 8.3 常见追问
+
+1. **JavaScript 的内存为什么分为栈和堆？** 栈效率高（连续内存、指针位移直接寻址），堆灵活（动态分配、大块数据）。基本类型大小固定适合栈，对象大小动态适合堆。
+2. **闭包为什么会导致内存泄漏？** 闭包使得内部函数引用的变量从栈提升到堆，如果闭包长期存在，这些变量也无法释放。
+3. **V8 内存为什么有 1.4GB 的限制？** 历史原因：V8 的 GC 设计为 1.4GB 以下可在可接受时间内完成全量 GC。64 位系统上可通过 \`--max-old-space-size\` 修改。
+4. **如何排查内存泄漏？** Chrome DevTools → Memory → Take Heap Snapshot（前后对比） + Performance 面板录制 + Detached Elements 面板。
+5. **WeakMap 和 Map 的区别？** WeakMap 的 key 必须是对象且是弱引用，不影响 GC，没有 size 属性、不能遍历。
+6. **Node.js 中的 Buffer 分配在哪里？** Buffer 分配在 V8 堆外部（C++ 层面的 \`ArrayBuffer\`），不占用 V8 堆内存，但通过 \`process.memoryUsage().external\` 查看。
+
+---
+
+## 九、扩展延伸
+
+### 相关话题
+
+- **[闭包与作用域](closure.md)** — 闭包的内存模型是理解堆栈分界的核心案例
+- **[深浅拷贝](deep-shallow-copy.md)** — 理解堆栈后，才真正理解引用拷贝与值拷贝的区别
+- **[事件循环](event-loop.md)** — 微任务队列中的引用也会影响 GC 判定
+- **[Promise 与异步](promise-async-await.md)** — Promise 的回调闭包同样涉及栈到堆的提升
+
+### 延伸思考
+
+- **发现内存泄漏的「3 段法」**：Performance 面板录制，关注 JS Heap 曲线是否持续上升不下降；Memory 面板堆快照对比，找 Delta 最大的对象；Sources 面板定位引用该对象的保留路径（Retaining Path）。
+- **浏览器 vs Node 内存策略**：浏览器更在意内存释放（标签页切换可回收），Node 作为服务端更在意吞吐量（内存可适当放宽）。服务端通常将 \`--max-old-space-size\` 设为系统内存的 75%。
+- **Rust/WASM 的内存模型**：WASM 有独立的线性内存，不经过 V8 堆，需手动管理。这也是 WASM 性能优化的关键点。
+- **ES2024 的 WeakRef / FinalizationRegistry**：提供细粒度观察 GC 的方式，但规范明确警告「不要依赖 GC 的执行时机」。`,K=`---
 title: "Node.js 能力详解：从入门到架构设计"
 category: "JavaScript"
 tags: ["nodejs", "backend", "server", "event-loop", "stream", "cluster"]
@@ -12155,7 +13001,7 @@ Node.js 请求处理流程：
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加事件循环、进程管理、微服务架构和面试问答`,K=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加事件循环、进程管理、微服务架构和面试问答`,$=`---
 title: "Promise 与 async/await：异步编程的完整演进"
 category: "JavaScript"
 tags: ["Promise", "async/await", "异步", "微任务", "事件循环"]
@@ -13050,7 +13896,7 @@ async function clean() {
 - **Promise 的局限**：Promise 天然不支持取消、不支持重试、不支持背压（backpressure）。这些场景需要 RxJS 等响应式编程库。
 - **浏览器 vs Node.js**：Node.js 从 v10+ 开始对 async/await 做了深度优化，性能与手写回调已非常接近。浏览器端的主要瓶颈在 V8 Promise 的创建和垃圾回收。
 - **Top-level await**：ES2022 引入的模块顶层 await，彻底改变了模块加载的顺序模型。
-- **Future 演进**：TC39 提案中的 \`await.defer\`、\`Promise.withResolvers\` 等新特性预示着异步编程进一步简化。`,$=`---
+- **Future 演进**：TC39 提案中的 \`await.defer\`、\`Promise.withResolvers\` 等新特性预示着异步编程进一步简化。`,Q=`---
 title: "原型链与 JavaScript 继承：从引擎到实践的完整指南"
 category: "JavaScript"
 tags: ["原型链", "继承", "__proto__", "prototype", "class", "ES6"]
@@ -13684,7 +14530,7 @@ console.log(f instanceof F);            // false — 原型链断了！
 
 - **"类"与"原型"之争**：ES6 class 让 JS 有了类语法，但底层仍是原型链。理解二者之间的"语法糖与现实"关系，是区分"会用"和"懂"的关键里程碑。
 - **Mixin 模式**：JS 单继承的限制可以通过 Mixin 弥补，\`Object.assign(Child.prototype, Mixin1, Mixin2)\` 可实现多继承效果。
-- **2020+ 趋势**：类字段声明、私有字段（\`#private\`）、static 块等新特性让 class 表达力更强，但底层的原型机制始终不变。`,Q=`---
+- **2020+ 趋势**：类字段声明、私有字段（\`#private\`）、static 块等新特性让 class 表达力更强，但底层的原型机制始终不变。`,Y=`---
 title: "Reflect 对象详解：ES6 元编程的基石"
 category: "JavaScript"
 tags: ["reflect", "proxy", "meta-programming", "es6", "object-operations"]
@@ -14491,7 +15337,7 @@ Proxy + Reflect 工作流程：
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加设计思想、核心方法详解、实战案例和面试问答`,Y=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加设计思想、核心方法详解、实战案例和面试问答`,Z=`---
 title: "this 绑定机制：从默认绑定到箭头函数的完整解析"
 category: "JavaScript"
 tags: ["this", "bind", "call", "apply", "arrow-function", "lexical-this"]
@@ -15288,7 +16134,7 @@ this 绑定规则
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加绑定优先级、call/apply/bind 实现、陷阱分析和面试问答
-`,Z=`---
+`,nn=`---
 title: "var、let、const 的区别：从作用域到内存模型的完整解析"
 category: "JavaScript"
 tags: ["var", "let", "const", "scope", "hoisting", "temporal-dead-zone", "block-scope"]
@@ -15929,7 +16775,7 @@ const:
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加作用域链、暂时性死区原理、内存模型和面试问答`,nn=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加作用域链、暂时性死区原理、内存模型和面试问答`,en=`---
 title: "虚拟列表实现：从原理到生产级优化"
 category: "JavaScript"
 tags: ["virtual-list", "performance", "scroll", "dom", "react", "vue"]
@@ -16894,7 +17740,7 @@ handleDragEnd = (e, newIndex) => {
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加动态高度实现、生产级优化、React/Vue 实战和面试问答`,en=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加动态高度实现、生产级优化、React/Vue 实战和面试问答`,tn=`---
 title: "跨域问题与 CORS 解决方案深度解析"
 category: "Network"
 tags: ["cors", "cross-origin", "proxy", "preflight", "same-origin"]
@@ -17650,7 +18496,7 @@ CORS 请求完整流程：
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加同源策略原理、预检请求流程、凭证请求、多方案对比和面试问答
-`,tn=`---
+`,on=`---
 title: "HTTP 缓存机制：强缓存与协商缓存的完整解析"
 category: "Network"
 tags: ["http", "cache", "performance", "optimization", "cache-control", "etag"]
@@ -18578,7 +19424,7 @@ HTTP 缓存体系
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加强缓存/协商缓存详解、缓存流程、刷新机制、策略实践和面试问答`,on=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加强缓存/协商缓存详解、缓存流程、刷新机制、策略实践和面试问答`,rn=`---
 title: "HTTP 协议详解：从请求响应到缓存机制"
 category: "Network"
 tags: ["http", "protocol", "request", "response", "cache", "http2"]
@@ -19547,7 +20393,7 @@ HTTP 请求响应流程：
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加请求响应结构、状态码详解、头部字段、缓存机制、HTTP/2 和面试问答`,rn=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加请求响应结构、状态码详解、头部字段、缓存机制、HTTP/2 和面试问答`,an=`---
 title: "TCP/IP 协议深度解析：从三次握手到拥塞控制"
 category: "Network"
 tags: ["tcp", "ip", "protocol", "handshake", "congestion"]
@@ -20514,7 +21360,7 @@ TCP 核心机制：
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加协议栈架构、状态机、可靠传输、流量控制、拥塞控制和面试问答
-`,an=`---
+`,sn=`---
 title: "SSE 与轮询深度解析：实时通信方案对比与实战"
 category: "Network"
 tags: ["sse", "polling", "long-polling", "websocket", "real-time"]
@@ -21326,7 +22172,7 @@ eventSource.onmessage = (event) => {
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加原理分析、高级特性、实战案例、性能优化和面试问答
-`,sn=`---
+`,cn=`---
 title: "XSS 攻击与防护深度解析：原理、类型与实战"
 category: "Network"
 tags: ["xss", "security", "attack", "sanitization", "csp"]
@@ -22171,7 +23017,7 @@ XSS 攻击与防护体系
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加攻击原理、攻击向量、绕过技巧、框架安全机制和面试问答
-`,cn=`---
+`,ln=`---
 title: "职业规划回答技巧：明确、可行、与公司对齐"
 category: "Other"
 tags: ["interview", "career", "plan", "communication"]
@@ -22601,7 +23447,7 @@ function validateCareerPlan(plan) {
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,ln=`---
+**版本**：v2.0（深入版）`,un=`---
 title: "Git 操作详解：基础、进阶与实战"
 category: "Other"
 tags: ["git", "version-control", "workflow", "best-practices"]
@@ -23323,7 +24169,7 @@ Git 操作详解
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,un=`---
+**版本**：v2.0（深入版）`,pn=`---
 title: "离职原因回答技巧：诚实、积极、有远见"
 category: "Other"
 tags: ["interview", "resign", "behavioral", "communication"]
@@ -23729,7 +24575,7 @@ function validateResignReason(reason) {
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,pn=`---
+**版本**：v2.0（深入版）`,dn=`---
 title: "自我介绍回答技巧：结构化、量化、差异化"
 category: "Other"
 tags: ["interview", "self-intro", "behavioral", "communication"]
@@ -24152,7 +24998,7 @@ function validateSelfIntro(intro) {
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,dn=`---
+**版本**：v2.0（深入版）`,mn=`---
 title: "React 源码核心：Fiber 架构、响应式原理、Diff 算法"
 category: "React"
 tags: ["react", "fiber", "diff", "reactive", "virtual-dom", "concurrent-mode"]
@@ -25745,7 +26591,7 @@ function updateMemoComponent(current, workInProgress, Component, ...) {
 > - [React Design Principles](https://react.dev/community/design-principles) — 官方设计原则
 > - [React Fiber Architecture (ACDL)](https://github.com/acdlite/react-fiber-architecture) — Dan Abramov 的同事写的经典文章
 > - [React 并发模式介绍](https://react.dev/blog/2022/03/29/react-v18) — React 18 发布说明
-> - [Inside Fiber: React 的 reconciler 内部实现](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react) — InDepth 的深度源码分析`,mn=`---
+> - [Inside Fiber: React 的 reconciler 内部实现](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react) — InDepth 的深度源码分析`,fn=`---
 title: "Vue 组件间通信：从父子到跨层级的完整方案"
 category: "Vue"
 tags: ["component", "communication", "props", "emit", "provide", "inject", "pinia", "event-bus"]
@@ -26629,7 +27475,7 @@ store.login(credentials);
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加目录结构、Vue2/Vue3 对比、Pinia 实战、面试问答和选型建议`,fn=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加目录结构、Vue2/Vue3 对比、Pinia 实战、面试问答和选型建议`,gn=`---
 title: "Vue3 响应式原理：Proxy 代理、依赖收集与触发更新"
 category: "Vue"
 tags: ["reactivity", "proxy", "effect", "track", "trigger", "ref", "reactive"]
@@ -27552,7 +28398,7 @@ Proxy 代理层
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度源码级解析版本，增加目录结构、源码分析、面试问答和最佳实践`,gn=`---
+> - 2026-07-01: 从基础版升级为深度源码级解析版本，增加目录结构、源码分析、面试问答和最佳实践`,hn=`---
 title: "Vue Mixins 的使用与替代方案：从 Mixins 到 Composables"
 category: "Vue"
 tags: ["mixins", "composition", "reuse", "composables", "vue2", "vue3"]
@@ -28381,7 +29227,7 @@ export function useUser() {
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加 Mixins 问题分析、Composables 实现、迁移指南和面试问答`,hn=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加 Mixins 问题分析、Composables 实现、迁移指南和面试问答`,vn=`---
 title: "Vue2 与 Vue3 的全面对比：从响应式到架构设计"
 category: "Vue"
 tags: ["vue2", "vue3", "comparison", "composition-api", "proxy", "reactivity"]
@@ -29221,7 +30067,7 @@ npx vue-codemod
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度对比版本，增加响应式原理、性能优化、迁移指南和面试问答`,vn=`---
+> - 2026-07-01: 从基础版升级为深度对比版本，增加响应式原理、性能优化、迁移指南和面试问答`,bn=`---
 title: "面试题目录"
 description: "前端面试知识库目录，方便查找和定位"
 version: "2.0.0"
@@ -29275,6 +30121,7 @@ knowledgeBase/
 | [原型链与 JavaScript 继承：从引擎到实践的完整指南](JavaScript/prototype-inheritance.md) | 中等 | 原型链, 继承, __proto__, prototype, class |
 | [Promise 与 async/await：异步编程的完整演进](JavaScript/promise-async-await.md) | 中等 | Promise, async/await, 异步, 微任务, 事件循环 |
 | [JavaScript 数据类型与类型检测：从内存布局到判断原理](JavaScript/data-types-typeof.md) | 中等 | 数据类型, typeof, instanceof, Object.prototype.toString, 类型转换 |
+| [JavaScript 内存管理：堆、栈与垃圾回收完全指南](JavaScript/memory-heap-stack.md) | 中等 | 内存, 堆, 栈, 垃圾回收, V8, 内存泄漏 |
 
 ### CSS
 
@@ -29379,5 +30226,5 @@ knowledgeBase/
 ## 更新日志
 
 - **2025-07-01**: 全面升级所有知识库文档至 v2.0 深入版，新增 Browser/css-reflow-repaint.md，更新 AI 和 Other 分类下所有文档
-- **2026-06-24**: 识别 todo/images 下的图片，创建大量知识库文档，包括 JavaScript、CSS、Vue、Network、Build、Other 等分类`,bn=/^---\s*\n([\s\S]*?)\n---\s*\n/;function yn(n){const e={};return n.split(`
-`).forEach(t=>{const i=t.match(/^(\w+):\s*(.+)$/);if(i){const s=i[1];let o=i[2].trim();o.startsWith('"')&&o.endsWith('"')?o=o.slice(1,-1):o.startsWith("[")&&o.endsWith("]")&&(o=JSON.parse(o)),e[s]=o}}),e}function Sn(n){const e=n.match(bn);let r={title:"",category:"",tags:[],difficulty:"medium",filePath:"",lastModified:""},t=n;if(e){const s=yn(e[1]);r={title:s.title||"",category:s.category||"",tags:s.tags||[],difficulty:s.difficulty||"medium",filePath:"",lastModified:""},t=n.slice(e[0].length)}const i=xn(t);return{meta:r,content:t,toc:i}}function Cn(n){return n.toLowerCase().replace(/[^a-z0-9\u4e00-\u9fa5]+/g,"")}function xn(n){const e=/^(#{2,3})\s+(.+)$/gm,r=[];let t;for(;(t=e.exec(n))!==null;){const i=t[1].length,s=t[2].trim(),o=Cn(s);r.push({id:o,text:s,level:i})}return r}function Pn(n){const e=n.split(/\r?\n/),r=[];let t="";return e.forEach(i=>{const s=i.match(/^###\s+(.+)$/);if(s){t=s[1].trim();return}const o=i.match(/^\|\s*\[(.+?)\]\((.+?)\)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*$/);if(o){const d=o[1],u=o[2],p=o[3].trim(),b={简单:"easy",中等:"medium",高:"hard"}[p]||"medium",y=o[4].split(",").map(h=>h.trim()).filter(Boolean);r.push({title:d,category:t,tags:y,difficulty:b,filePath:u,lastModified:""})}}),r}function Tn(n,e,r){if(!e.trim())return[];const t=e.toLowerCase(),i=[];return n.forEach(s=>{let o=0;const d=[];s.title.toLowerCase().includes(t)&&(o+=50,d.push({text:s.title,highlight:x(s.title,t)})),s.tags.forEach(p=>{p.toLowerCase().includes(t)&&(o+=20,d.push({text:p,highlight:x(p,t)}))});const u=r.get(s.filePath);if(u){const p=u.toLowerCase();if(p.includes(t)){o+=30;const v=p.indexOf(t),b=Math.max(0,v-30),y=Math.min(u.length,v+t.length+30),h=u.slice(b,y);d.push({text:h,highlight:x(h,t)})}}o>0&&i.push({document:s,matches:d,score:o})}),i.sort((s,o)=>o.score-s.score)}function x(n,e){const r=new RegExp(`(${e})`,"gi");return n.replace(r,'<mark class="bg-accent-500 text-white px-0.5 rounded">$1</mark>')}const P="knowledge_base_favorites";function S(){try{const n=localStorage.getItem(P);return n?JSON.parse(n):[]}catch{return[]}}function wn(n){const e=S();e.some(t=>t.filePath===n.filePath)||(e.push(n),localStorage.setItem(P,JSON.stringify(e)))}function kn(n){const e=S().filter(r=>r.filePath!==n);localStorage.setItem(P,JSON.stringify(e))}function k(n){return S().some(e=>e.filePath===n)}const jn="FaceNoteReadStats",m="readStats",An=1;function T(){return new Promise((n,e)=>{const r=indexedDB.open(jn,An);r.onupgradeneeded=()=>{const t=r.result;t.objectStoreNames.contains(m)||t.createObjectStore(m,{keyPath:"filePath"})},r.onsuccess=()=>n(r.result),r.onerror=()=>e(new Error("IndexedDB 打开失败"))})}async function On(){try{const n=await T();return await new Promise((e,r)=>{const s=n.transaction(m,"readonly").objectStore(m).getAll();s.onsuccess=()=>e(s.result),s.onerror=()=>r(new Error("读取阅读统计失败"))})}catch{return[]}}async function In(n){try{const e=await T();return await new Promise((r,t)=>{const o=e.transaction(m,"readonly").objectStore(m).get(n);o.onsuccess=()=>r(o.result??void 0),o.onerror=()=>t(new Error("读取阅读统计失败"))})}catch{return}}async function En(n){const e=await T(),r=await In(n),t=((r==null?void 0:r.totalReadCount)??0)+1;return await new Promise((i,s)=>{const u=e.transaction(m,"readwrite").objectStore(m).put({filePath:n,totalReadCount:t,lastReadTimestamp:Date.now()});u.onsuccess=()=>i(t),u.onerror=()=>s(new Error("保存阅读统计失败"))})}const Dn=E("knowledge",()=>{const n=g([]),e=g(new Map),r=g(null),t=g(null),i=g([]),s=g(!1),o=g(new Map);async function d(){const a=await On(),l=new Map;a.forEach(c=>l.set(c.filePath,c.totalReadCount)),o.value=l}function u(a){return o.value.get(a)??0}async function p(a){const l=await En(a);o.value.set(a,l)}const v=w(()=>{const a=new Map;n.value.forEach(c=>{a.set(c.category,(a.get(c.category)||0)+1)});const l={"JavaScript/TypeScript":"Code",CSS:"Palette",Vue:"Box",React:"Atom",Network:"Globe",Browser:"Monitor",Build:"Package",Other:"FileQuestion",AI:"Brain",Security:"Shield",Performance:"Zap",SystemDesign:"Network",Algorithms:"Binary",Architecture:"Layers"};return Array.from(a.entries()).map(([c,f])=>({name:c,label:c,icon:l[c]||"FileText",count:f}))}),b=w(()=>{let a=[...n.value];return r.value&&(a=a.filter(l=>l.category===r.value)),t.value&&(a=a.filter(l=>l.difficulty===t.value)),a.sort((l,c)=>l.title.localeCompare(c.title))});async function y(){s.value=!0;try{const a=Object.assign({"../knowledgeBase/AI/prompt-engineering.md":M,"../knowledgeBase/Browser/css-reflow-repaint.md":R,"../knowledgeBase/Browser/url-lifecycle.md":D,"../knowledgeBase/Build/build-optimization.md":H,"../knowledgeBase/Build/webpack-chunk.md":F,"../knowledgeBase/CSS/bfc.md":N,"../knowledgeBase/CSS/element-centering.md":L,"../knowledgeBase/CSS/flexbox-layout.md":_,"../knowledgeBase/CSS/hide-element.md":B,"../knowledgeBase/CSS/reflow-repaint.md":V,"../knowledgeBase/JavaScript/closure.md":W,"../knowledgeBase/JavaScript/data-types-typeof.md":U,"../knowledgeBase/JavaScript/debounce-throttle.md":q,"../knowledgeBase/JavaScript/deep-shallow-copy.md":X,"../knowledgeBase/JavaScript/event-loop.md":z,"../knowledgeBase/JavaScript/i18n.md":J,"../knowledgeBase/JavaScript/nodejs-capabilities.md":G,"../knowledgeBase/JavaScript/promise-async-await.md":K,"../knowledgeBase/JavaScript/prototype-inheritance.md":$,"../knowledgeBase/JavaScript/reflect.md":Q,"../knowledgeBase/JavaScript/this-binding.md":Y,"../knowledgeBase/JavaScript/var-let-const.md":Z,"../knowledgeBase/JavaScript/virtual-list.md":nn,"../knowledgeBase/Network/cors.md":en,"../knowledgeBase/Network/http-cache.md":tn,"../knowledgeBase/Network/http-protocol.md":on,"../knowledgeBase/Network/mcp-principle.md":rn,"../knowledgeBase/Network/sse-polling.md":an,"../knowledgeBase/Network/xss-attack.md":sn,"../knowledgeBase/Other/career-plan.md":cn,"../knowledgeBase/Other/git-operations.md":ln,"../knowledgeBase/Other/resign-reasons.md":un,"../knowledgeBase/Other/self-introduction.md":pn,"../knowledgeBase/React/react-core-source.md":dn,"../knowledgeBase/Vue/component-communication.md":mn,"../knowledgeBase/Vue/reactivity-principle.md":fn,"../knowledgeBase/Vue/vue-mixins.md":gn,"../knowledgeBase/Vue/vue2-vs-vue3.md":hn,"../knowledgeBase/index.md":vn}),l=a["../knowledgeBase/index.md"]||"";n.value=Pn(l),n.value.forEach(c=>{const f=`../knowledgeBase/${c.filePath}`,C=a[f];C?e.value.set(c.filePath,C):e.value.set(c.filePath,"")}),i.value=S()}catch(a){console.error("Failed to load documents:",a)}finally{s.value=!1}}function h(a){const l=e.value.get(a);if(!l)return null;const c=Sn(l);c.meta.filePath=a;const f=n.value.find(C=>C.filePath===a);return f&&(c.meta.category=f.category,c.meta.lastModified=f.lastModified),c}function j(a){return Tn(n.value,a,e.value)}function A(a){k(a.filePath)?kn(a.filePath):wn(a),i.value=S()}function O(a){return k(a)}return{documents:n,contentMap:e,currentCategory:r,currentDifficulty:t,favorites:i,isLoading:s,readStatsMap:o,categories:v,filteredDocuments:b,loadDocuments:y,loadReadStats:d,getReadCount:u,recordRead:p,getDocumentContent:h,search:j,toggleFavorite:A,isDocFavorite:O}});export{Rn as H,Dn as u};
+- **2026-06-24**: 识别 todo/images 下的图片，创建大量知识库文档，包括 JavaScript、CSS、Vue、Network、Build、Other 等分类`,yn=/^---\s*\n([\s\S]*?)\n---\s*\n/;function Sn(n){const e={};return n.split(`
+`).forEach(t=>{const i=t.match(/^(\w+):\s*(.+)$/);if(i){const s=i[1];let o=i[2].trim();o.startsWith('"')&&o.endsWith('"')?o=o.slice(1,-1):o.startsWith("[")&&o.endsWith("]")&&(o=JSON.parse(o)),e[s]=o}}),e}function Cn(n){const e=n.match(yn);let r={title:"",category:"",tags:[],difficulty:"medium",filePath:"",lastModified:""},t=n;if(e){const s=Sn(e[1]);r={title:s.title||"",category:s.category||"",tags:s.tags||[],difficulty:s.difficulty||"medium",filePath:"",lastModified:""},t=n.slice(e[0].length)}const i=Pn(t);return{meta:r,content:t,toc:i}}function xn(n){return n.toLowerCase().replace(/[^a-z0-9\u4e00-\u9fa5]+/g,"")}function Pn(n){const e=/^(#{2,3})\s+(.+)$/gm,r=[];let t;for(;(t=e.exec(n))!==null;){const i=t[1].length,s=t[2].trim(),o=xn(s);r.push({id:o,text:s,level:i})}return r}function Tn(n){const e=n.split(/\r?\n/),r=[];let t="";return e.forEach(i=>{const s=i.match(/^###\s+(.+)$/);if(s){t=s[1].trim();return}const o=i.match(/^\|\s*\[(.+?)\]\((.+?)\)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*$/);if(o){const d=o[1],u=o[2],p=o[3].trim(),b={简单:"easy",中等:"medium",高:"hard"}[p]||"medium",y=o[4].split(",").map(h=>h.trim()).filter(Boolean);r.push({title:d,category:t,tags:y,difficulty:b,filePath:u,lastModified:""})}}),r}function kn(n,e,r){if(!e.trim())return[];const t=e.toLowerCase(),i=[];return n.forEach(s=>{let o=0;const d=[];s.title.toLowerCase().includes(t)&&(o+=50,d.push({text:s.title,highlight:x(s.title,t)})),s.tags.forEach(p=>{p.toLowerCase().includes(t)&&(o+=20,d.push({text:p,highlight:x(p,t)}))});const u=r.get(s.filePath);if(u){const p=u.toLowerCase();if(p.includes(t)){o+=30;const v=p.indexOf(t),b=Math.max(0,v-30),y=Math.min(u.length,v+t.length+30),h=u.slice(b,y);d.push({text:h,highlight:x(h,t)})}}o>0&&i.push({document:s,matches:d,score:o})}),i.sort((s,o)=>o.score-s.score)}function x(n,e){const r=new RegExp(`(${e})`,"gi");return n.replace(r,'<mark class="bg-accent-500 text-white px-0.5 rounded">$1</mark>')}const P="knowledge_base_favorites";function S(){try{const n=localStorage.getItem(P);return n?JSON.parse(n):[]}catch{return[]}}function wn(n){const e=S();e.some(t=>t.filePath===n.filePath)||(e.push(n),localStorage.setItem(P,JSON.stringify(e)))}function jn(n){const e=S().filter(r=>r.filePath!==n);localStorage.setItem(P,JSON.stringify(e))}function w(n){return S().some(e=>e.filePath===n)}const An="FaceNoteReadStats",m="readStats",On=1;function T(){return new Promise((n,e)=>{const r=indexedDB.open(An,On);r.onupgradeneeded=()=>{const t=r.result;t.objectStoreNames.contains(m)||t.createObjectStore(m,{keyPath:"filePath"})},r.onsuccess=()=>n(r.result),r.onerror=()=>e(new Error("IndexedDB 打开失败"))})}async function Mn(){try{const n=await T();return await new Promise((e,r)=>{const s=n.transaction(m,"readonly").objectStore(m).getAll();s.onsuccess=()=>e(s.result),s.onerror=()=>r(new Error("读取阅读统计失败"))})}catch{return[]}}async function In(n){try{const e=await T();return await new Promise((r,t)=>{const o=e.transaction(m,"readonly").objectStore(m).get(n);o.onsuccess=()=>r(o.result??void 0),o.onerror=()=>t(new Error("读取阅读统计失败"))})}catch{return}}async function En(n){const e=await T(),r=await In(n),t=((r==null?void 0:r.totalReadCount)??0)+1;return await new Promise((i,s)=>{const u=e.transaction(m,"readwrite").objectStore(m).put({filePath:n,totalReadCount:t,lastReadTimestamp:Date.now()});u.onsuccess=()=>i(t),u.onerror=()=>s(new Error("保存阅读统计失败"))})}const Fn=I("knowledge",()=>{const n=g([]),e=g(new Map),r=g(null),t=g(null),i=g([]),s=g(!1),o=g(new Map);async function d(){const a=await Mn(),l=new Map;a.forEach(c=>l.set(c.filePath,c.totalReadCount)),o.value=l}function u(a){return o.value.get(a)??0}async function p(a){const l=await En(a);o.value.set(a,l)}const v=k(()=>{const a=new Map;n.value.forEach(c=>{a.set(c.category,(a.get(c.category)||0)+1)});const l={"JavaScript/TypeScript":"Code",CSS:"Palette",Vue:"Box",React:"Atom",Network:"Globe",Browser:"Monitor",Build:"Package",Other:"FileQuestion",AI:"Brain",Security:"Shield",Performance:"Zap",SystemDesign:"Network",Algorithms:"Binary",Architecture:"Layers"};return Array.from(a.entries()).map(([c,f])=>({name:c,label:c,icon:l[c]||"FileText",count:f}))}),b=k(()=>{let a=[...n.value];return r.value&&(a=a.filter(l=>l.category===r.value)),t.value&&(a=a.filter(l=>l.difficulty===t.value)),a.sort((l,c)=>l.title.localeCompare(c.title))});async function y(){s.value=!0;try{const a=Object.assign({"../knowledgeBase/AI/prompt-engineering.md":E,"../knowledgeBase/Browser/css-reflow-repaint.md":R,"../knowledgeBase/Browser/url-lifecycle.md":D,"../knowledgeBase/Build/build-optimization.md":F,"../knowledgeBase/Build/webpack-chunk.md":H,"../knowledgeBase/CSS/bfc.md":N,"../knowledgeBase/CSS/element-centering.md":L,"../knowledgeBase/CSS/flexbox-layout.md":B,"../knowledgeBase/CSS/hide-element.md":_,"../knowledgeBase/CSS/reflow-repaint.md":V,"../knowledgeBase/JavaScript/closure.md":W,"../knowledgeBase/JavaScript/data-types-typeof.md":U,"../knowledgeBase/JavaScript/debounce-throttle.md":G,"../knowledgeBase/JavaScript/deep-shallow-copy.md":q,"../knowledgeBase/JavaScript/event-loop.md":z,"../knowledgeBase/JavaScript/i18n.md":X,"../knowledgeBase/JavaScript/memory-heap-stack.md":J,"../knowledgeBase/JavaScript/nodejs-capabilities.md":K,"../knowledgeBase/JavaScript/promise-async-await.md":$,"../knowledgeBase/JavaScript/prototype-inheritance.md":Q,"../knowledgeBase/JavaScript/reflect.md":Y,"../knowledgeBase/JavaScript/this-binding.md":Z,"../knowledgeBase/JavaScript/var-let-const.md":nn,"../knowledgeBase/JavaScript/virtual-list.md":en,"../knowledgeBase/Network/cors.md":tn,"../knowledgeBase/Network/http-cache.md":on,"../knowledgeBase/Network/http-protocol.md":rn,"../knowledgeBase/Network/mcp-principle.md":an,"../knowledgeBase/Network/sse-polling.md":sn,"../knowledgeBase/Network/xss-attack.md":cn,"../knowledgeBase/Other/career-plan.md":ln,"../knowledgeBase/Other/git-operations.md":un,"../knowledgeBase/Other/resign-reasons.md":pn,"../knowledgeBase/Other/self-introduction.md":dn,"../knowledgeBase/React/react-core-source.md":mn,"../knowledgeBase/Vue/component-communication.md":fn,"../knowledgeBase/Vue/reactivity-principle.md":gn,"../knowledgeBase/Vue/vue-mixins.md":hn,"../knowledgeBase/Vue/vue2-vs-vue3.md":vn,"../knowledgeBase/index.md":bn}),l=a["../knowledgeBase/index.md"]||"";n.value=Tn(l),n.value.forEach(c=>{const f=`../knowledgeBase/${c.filePath}`,C=a[f];C?e.value.set(c.filePath,C):e.value.set(c.filePath,"")}),i.value=S()}catch(a){console.error("Failed to load documents:",a)}finally{s.value=!1}}function h(a){const l=e.value.get(a);if(!l)return null;const c=Cn(l);c.meta.filePath=a;const f=n.value.find(C=>C.filePath===a);return f&&(c.meta.category=f.category,c.meta.lastModified=f.lastModified),c}function j(a){return kn(n.value,a,e.value)}function A(a){w(a.filePath)?jn(a.filePath):wn(a),i.value=S()}function O(a){return w(a)}return{documents:n,contentMap:e,currentCategory:r,currentDifficulty:t,favorites:i,isLoading:s,readStatsMap:o,categories:v,filteredDocuments:b,loadDocuments:y,loadReadStats:d,getReadCount:u,recordRead:p,getDocumentContent:h,search:j,toggleFavorite:A,isDocFavorite:O}});export{Dn as H,Fn as u};
