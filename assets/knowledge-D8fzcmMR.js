@@ -1,9 +1,9 @@
-import{c as M,z as O,l as g,s as k}from"./index-CovcdZ8O.js";/**
+import{c as I,z as M,l as g,s as k}from"./index-CrHtULfr.js";/**
  * @license lucide-vue-next v0.294.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const Bn=M("HeartIcon",[["path",{d:"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z",key:"c3ymky"}]]),E=`---
+ */const _n=I("HeartIcon",[["path",{d:"M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z",key:"c3ymky"}]]),O=`---
 title: "Prompt Engineering 提示词工程：原理、技巧与实战"
 category: "AI"
 tags: ["prompt", "llm", "chatgpt", "engineering", "few-shot", "chain-of-thought"]
@@ -535,7 +535,7 @@ function validatePrompt(prompt) {
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,R=`---
+**版本**：v2.0（深入版）`,E=`---
 title: "CSS 重排（Reflow）与重绘（Repaint）深度解析"
 category: "Browser"
 tags: ["css", "reflow", "repaint", "重排", "重绘", "浏览器渲染", "性能优化", "渲染流水线"]
@@ -3135,7 +3135,7 @@ import('./module.js').then(module => {
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加 DNS 解析、TCP 握手、HTTP 请求、渲染流程、JavaScript 执行和面试问答
-`,F=`---
+`,L=`---
 title: "前端打包优化深度解析：从代码分割到性能监控"
 category: "Build"
 tags: ["optimization", "bundle", "performance", "webpack", "vite"]
@@ -5182,7 +5182,7 @@ Chunk 体系架构
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加 Chunk 类型、SplitChunks 原理、动态导入、缓存策略和面试问答
-`,B=`---
+`,F=`---
 title: "BFC 块级格式化上下文：从原理到实战"
 category: "CSS"
 tags: ["bfc", "layout", "float", "margin"]
@@ -5772,7 +5772,7 @@ BFC 工作流程：
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加核心概念、布局规则、BFC 与 IFC 对比和面试问答`,L=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加核心概念、布局规则、BFC 与 IFC 对比和面试问答`,B=`---
 title: "元素居中的方式"
 category: "CSS"
 tags: ["centering", "layout", "flexbox"]
@@ -6970,7 +6970,7 @@ difficulty: "简单"
 | 保留布局空间 | visibility: hidden |
 | 动画效果 | opacity: 0 或 clip-path |
 | 可访问性隐藏 | position: absolute + 移出 |
-| 可折叠内容 | height: 0 + overflow: hidden |`,V=`---
+| 可折叠内容 | height: 0 + overflow: hidden |`,U=`---
 title: "重排与重绘"
 category: "CSS"
 tags: ["reflow", "repaint", "performance"]
@@ -7066,7 +7066,7 @@ for (let i = 0; i < 100; i++) {
 | DOM 修改 | 批量操作、使用 Fragment |
 | 样式修改 | 使用 transform、opacity |
 | 布局查询 | 集中读取、缓存结果 |
-| 动画 | 使用 CSS 动画、GPU 加速 |`,U=`---
+| 动画 | 使用 CSS 动画、GPU 加速 |`,V=`---
 title: "闭包的概念、原理与深度应用"
 category: "JavaScript"
 tags: ["closure", "scope", "lexical", "memory", "encapsulation"]
@@ -7921,7 +7921,7 @@ setCount(prev => prev + 1);
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加词法作用域、内存模型、框架应用和面试问答
-`,J=`---
+`,q=`---
 title: "JavaScript 数据类型与类型检测：从内存布局到判断原理"
 category: "JavaScript"
 tags: ["数据类型", "typeof", "instanceof", "Object.prototype.toString", "类型转换"]
@@ -9320,7 +9320,7 @@ const debounced = _.debounce(fn, 300, { maxWait: 1000 });
 
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加高级特性、实战场景、完整实现和面试问答
-`,q=`---
+`,J=`---
 title: "深拷贝与浅拷贝：从原理到实战的完整解析"
 category: "JavaScript"
 tags: ["copy", "deep", "shallow", "clone", "structured-clone", "circular-reference"]
@@ -11695,7 +11695,7 @@ function getKeys(obj, parentKey = '') {
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加动态加载、高级特性、多语言路由和面试问答`,K=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加动态加载、高级特性、多语言路由和面试问答`,$=`---
 title: "JavaScript 内存管理：堆、栈与垃圾回收完全指南"
 category: "JavaScript"
 tags: ["内存", "堆", "栈", "垃圾回收", "V8", "内存泄漏"]
@@ -12541,7 +12541,7 @@ class MyClass {
 - **发现内存泄漏的「3 段法」**：Performance 面板录制，关注 JS Heap 曲线是否持续上升不下降；Memory 面板堆快照对比，找 Delta 最大的对象；Sources 面板定位引用该对象的保留路径（Retaining Path）。
 - **浏览器 vs Node 内存策略**：浏览器更在意内存释放（标签页切换可回收），Node 作为服务端更在意吞吐量（内存可适当放宽）。服务端通常将 \`--max-old-space-size\` 设为系统内存的 75%。
 - **Rust/WASM 的内存模型**：WASM 有独立的线性内存，不经过 V8 堆，需手动管理。这也是 WASM 性能优化的关键点。
-- **ES2024 的 WeakRef / FinalizationRegistry**：提供细粒度观察 GC 的方式，但规范明确警告「不要依赖 GC 的执行时机」。`,$=`---
+- **ES2024 的 WeakRef / FinalizationRegistry**：提供细粒度观察 GC 的方式，但规范明确警告「不要依赖 GC 的执行时机」。`,K=`---
 title: "Node.js 能力详解：从入门到架构设计"
 category: "JavaScript"
 tags: ["nodejs", "backend", "server", "event-loop", "stream", "cluster"]
@@ -24607,6 +24607,3198 @@ XSS 攻击与防护体系
 > **更新日志**
 > - 2026-07-01: 从基础版升级为深度解析版本，增加攻击原理、攻击向量、绕过技巧、框架安全机制和面试问答
 `,pn=`---
+title: "Next.js App Router 完全指南：路由篇"
+category: "React"
+tags: ["Next.js", "App Router", "路由", "React Server Components", "布局", "并行路由"]
+difficulty: "中等"
+series: "Next.js 从入门到深入"
+seriesPart: 1
+---
+
+# Next.js App Router 完全指南：路由篇
+
+> 基于 Next.js v16.x（App Router）
+
+## 一、Next.js 路由体系概览
+
+### 1.1 Page Router vs App Router
+
+Next.js 提供了两套路由系统：
+
+| 特性 | Page Router (\`pages/\`) | App Router (\`app/\`) |
+|------|----------------------|--------------------|
+| **引入版本** | 初始（v1） | v13.4+（稳定） |
+| **基础** | React 组件 | **React Server Components** |
+| **布局** | 手动实现（_app.tsx） | 原生嵌套布局 |
+| **数据加载** | \`getServerSideProps\` / \`getStaticProps\` | 直接在组件中 \`async/await\` |
+| **加载状态** | 需手动实现 | \`loading.tsx\` 自动支持 |
+| **错误处理** | 需手动实现 | \`error.tsx\` 自动支持 |
+| **流式渲染** | ❌ 不支持 | ✅ 原生支持（Streaming） |
+| **路由类型** | 基于文件系统 | 基于文件系统（增强） |
+
+> **面试关键词**：「App Router 基于 React Server Components」是理解 Next.js 现代化的关键起点
+
+### 1.2 文件即路由
+
+App Router 采用**文件系统路由**：文件夹路径 = URL 路径，文件决定 UI 内容。
+
+\`\`\`
+app/
+├── page.tsx              →  /
+├── layout.tsx            →  共享布局
+├── loading.tsx           →  加载界面
+├── error.tsx             →  错误界面
+├── not-found.tsx         →  404 页面
+├── about/
+│   └── page.tsx          →  /about
+├── blog/
+│   ├── page.tsx          →  /blog
+│   └── [slug]/
+│       └── page.tsx      →  /blog/:slug
+└── dashboard/
+    └── (overview)/
+        └── page.tsx      →  /dashboard（路由组，不影响 URL）
+\`\`\`
+
+---
+
+## 二、特殊文件体系
+
+### 2.1 文件名即约定
+
+App Router 的每个文件夹路径下都可以放置以下**特殊文件**，每个文件承担一个渲染阶段：
+
+\`\`\`
+当前路由层级
+     │
+     ▼
+┌─────────────┐
+│  layout.tsx  │  ← 布局（持久化，不重新挂载）
+├─────────────┤
+│ template.tsx │  ← 模板（每次导航重新挂载）
+├─────────────┤
+│ error.tsx   │  ← 错误边界（捕获子组件异常）
+├─────────────┤
+│ loading.tsx │  ← 加载界面（Suspense fallback）
+├─────────────┤
+│ page.tsx    │  ← 页面主要内容
+├─────────────┤
+│ not-found.tsx│ ← 404 页面
+└─────────────┘
+\`\`\`
+
+**执行/渲染层级顺序：**
+
+\`\`\`
+Layout (parent)
+  └── Template (parent)
+       └── Error Boundary (parent)
+            └── Loading (parent → Suspense)
+                 └── Error Boundary (current)
+                      └── Loading (current → Suspense)
+                           └── Page (current)
+\`\`\`
+
+### 2.2 layout.tsx —— 布局（持久化共享）
+
+\`\`\`tsx
+// app/layout.tsx — 根布局（必需）
+// 只有根布局需要包含 <html> 和 <body>
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="zh-CN">
+      <body>
+        <header>全局导航</header>
+        <main>{children}</main>
+        <footer>页脚</footer>
+      </body>
+    </html>
+  );
+}
+\`\`\`
+
+**布局的核心特性：**
+
+\`\`\`typescript
+// 1. 嵌套布局 —— 子目录的 layout 会自动嵌入父 layout 的 children 位置
+// app/layout.tsx（根布局） → app/dashboard/layout.tsx → page.tsx
+
+// 2. 持久化 —— 布局在页面间导航时不会重新挂载
+// 导航 /dashboard → /dashboard/settings 时，dashboard/layout.tsx 保持不变
+// 因此布局中的状态（如 React state）会保持
+
+// 3. 布局可以获取数据（Server Component）
+// 因为是服务端组件，可以直接 async/await
+export default async function DashboardLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  const user = await getUser(); // 服务端直接请求
+  return (
+    <div>
+      <aside>{user.name} 的控制台</aside>
+      {children}
+    </div>
+  );
+}
+\`\`\`
+
+### 2.3 template.tsx —— 模板（每次重新挂载）
+
+\`\`\`tsx
+// app/(marketing)/template.tsx
+// template 和 layout 的区别：
+// - layout：导航时保持状态，不重新挂载
+// - template：每次导航都重新创建实例
+
+export default function MarketingTemplate({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  const [count, setCount] = useState(0); // 每次导航都会重置为 0
+  return (
+    <div>
+      <p>访问次数（仅本次）：{count}</p>
+      <button onClick={() => setCount(c + 1)}>+1</button>
+      {children}
+    </div>
+  );
+}
+\`\`\`
+
+**layout vs template 选择决策：**
+
+| 场景 | 选 layout | 选 template |
+|------|-----------|-------------|
+| 导航栏/侧边栏 | ✅ 持久化状态 | ❌ 每次重建 |
+| 页面过渡动画 | ❌ 无卸载事件 | ✅ 每次挂载可触发入场动画 |
+| 分析追踪 | ❌ 不触发重新挂载 | ✅ useEffect 每次运行 |
+| 依赖页面数据的头部导航 | ❌ 可能过期 | ✅ 每次获取最新 |
+
+### 2.4 loading.tsx —— 加载界面
+
+\`\`\`tsx
+// app/dashboard/loading.tsx
+// 自动包裹当前层级及子层级的 page.tsx 在 React Suspense 中
+
+export default function Loading() {
+  return (
+    <div className="flex items-center justify-center min-h-screen">
+      <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-500" />
+    </div>
+  );
+}
+\`\`\`
+
+\`\`\`tsx
+// 更精细的控制：直接在 page 中使用 Suspense
+
+// app/dashboard/page.tsx
+import { Suspense } from 'react';
+import { UserProfile, RecentOrders, LoadingSkeleton } from './components';
+
+export default function DashboardPage() {
+  return (
+    <div>
+      <h1>控制台</h1>
+      
+      {/* loading.tsx 是页面级的 Suspense */}
+      {/* 你也可以在页面内部分拆出多个 Suspense */}
+      
+      <Suspense fallback={<LoadingSkeleton />}>
+        <UserProfile />         {/* 独立流式加载 */}
+      </Suspense>
+      
+      <Suspense fallback={<LoadingSkeleton />}>
+        <RecentOrders />        {/* 独立流式加载 */}
+      </Suspense>
+    </div>
+  );
+}
+\`\`\`
+
+**loading.tsx 的工作原理：**
+
+\`\`\`
+┌──────────────────────────────────────┐
+│ layout.tsx                           │
+│  ┌────────────────────────────────┐  │
+│  │ loading.tsx（Suspense fallback）│  │
+│  │  ┌──────────────────────────┐  │  │
+│  │  │ Suspense                 │  │  │
+│  │  │   ┌──────────────────┐   │  │  │
+│  │  │   │ page.tsx (async) │   │  │  │
+│  │  │   │   await fetch()  │   │  │  │
+│  │  │   └──────────────────┘   │  │  │
+│  │  └──────────────────────────┘  │  │
+│  └────────────────────────────────┘  │
+└──────────────────────────────────────┘
+
+当 page.tsx 在等待异步数据时，loading.tsx 作为 Suspense 的 fallback 显示
+数据就绪后，page.tsx 替换 loading.tsx
+\`\`\`
+
+### 2.5 error.tsx —— 错误处理
+
+\`\`\`tsx
+'use client'; // error.tsx 必须是客户端组件！
+
+// app/dashboard/error.tsx
+export default function Error({
+  error,        // 错误对象
+  reset,        // 重置函数（尝试重新渲染）
+}: {
+  error: Error & { digest?: string };
+  reset: () => void;
+}) {
+  return (
+    <div className="error-container">
+      <h2>出错了！</h2>
+      <p className="text-red-500">{error.message}</p>
+      <button
+        onClick={() => reset()} // 尝试重新渲染
+        className="btn-primary"
+      >
+        重试
+      </button>
+    </div>
+  );
+}
+\`\`\`
+
+**error.tsx 的工作原理：**
+
+\`\`\`tsx
+// 底层实现 ≈ React Error Boundary 的封装
+// error.tsx 会自动被包裹在 ErrorBoundary 中
+
+// 关键特性：
+// 1. error.tsx 只捕获其层级及子层级的错误
+// 2. 同级 layout.tsx 的错误不会被 error.tsx 捕获（layout 在上层）
+// 3. error.tsx 必须是客户端组件（'use client'）
+// 4. reset() 会尝试重新渲染子组件树
+
+// 嵌套错误边界的好处：
+// app/dashboard/error.tsx         → 捕获 dashboard 下的错误
+// app/dashboard/settings/error.tsx → 捕获 settings 下的错误
+// 粒度控制：settings 的错误不影响 dashboard 的正常显示
+\`\`\`
+
+**正确理解嵌套层级：**
+
+\`\`\`
+app/layout.tsx                    ← 不受 app/error.tsx 保护
+  app/error.tsx                   ← 保护 app/page.tsx 及子路由
+    app/page.tsx
+  app/dashboard/layout.tsx        ← 不受 app/dashboard/error.tsx 保护
+    app/dashboard/error.tsx       ← 保护 app/dashboard/page.tsx
+      app/dashboard/page.tsx
+\`\`\`
+
+### 2.6 not-found.tsx —— 404 页面
+
+\`\`\`tsx
+// app/not-found.tsx — 全局 404（路由不匹配时）
+// app/blog/not-found.tsx — 局部 404（blog 区域内触发 notFound() 时）
+
+import Link from 'next/link';
+
+export default function NotFound() {
+  return (
+    <div>
+      <h2>页面不存在</h2>
+      <p>您访问的页面可能已被移除或不存在。</p>
+      <Link href="/">返回首页</Link>
+    </div>
+  );
+}
+\`\`\`
+
+**notFound 的两种触发方式：**
+
+\`\`\`typescript
+// 方式 1：路由不匹配 → 自动触发
+// 访问 /non-existent-path → app/not-found.tsx
+
+// 方式 2：手动调用 notFound() 函数
+import { notFound } from 'next/navigation';
+
+// app/blog/[slug]/page.tsx
+export default async function BlogPost({ params }: { params: { slug: string } }) {
+  const post = await getPost(params.slug);
+
+  if (!post) {
+    notFound(); // → 触发最近的 not-found.tsx
+  }
+
+  return <article>{post.content}</article>;
+}
+
+// 查找规则：
+// - 如果在 app/blog/[slug]/ 下调用 → 找 app/blog/[slug]/not-found.tsx
+// - 如果没有 → 找 app/blog/not-found.tsx
+// - 如果没有 → 找 app/not-found.tsx
+// - 如果还没有 → 浏览器默认 404
+\`\`\`
+
+---
+
+## 三、服务端组件与客户端组件
+
+### 3.1 核心区别
+
+| 维度 | 服务端组件（默认） | 客户端组件（'use client'） |
+|------|------------------|------------------------|
+| **渲染位置** | 服务器 | 浏览器 |
+| **JavaScript 体积** | 0（不发送到客户端） | 包含所有 JS 依赖 |
+| **数据获取** | 直接 \`async/await\` | useEffect / SWR / React Query |
+| **状态管理** | ❌ 无 useState | ✅ useState / useReducer |
+| **副作用** | ❌ 无 useEffect | ✅ useEffect / onClick 等 |
+| **访问后端** | 直接读数据库、文件系统 | 通过 API 请求 |
+| **可交互性** | ❌ 纯静态/动态内容 | ✅ 完整的浏览器交互 |
+
+### 3.2 'use client' 的使用原则
+
+\`\`\`tsx
+// 服务端组件（默认）— app/page.tsx
+// ✅ 可以直接 async/await
+// ✅ 不增加客户端 JS 体积
+export default async function HomePage() {
+  const posts = await getPosts(); // 服务端直接获取
+
+  return (
+    <div>
+      <h1>博客</h1>
+      {posts.map(post => (
+        <PostCard key={post.id} post={post} />
+      ))}
+    </div>
+  );
+}
+\`\`\`
+
+\`\`\`tsx
+'use client';
+// 客户端组件 — 只在需要浏览器交互时使用
+
+import { useState } from 'react';
+
+export function LikeButton({ postId }: { postId: string }) {
+  const [liked, setLiked] = useState(false);
+
+  return (
+    <button onClick={() => setLiked(!liked)}>
+      {liked ? '❤️ 已赞' : '🤍 点赞'}
+    </button>
+  );
+}
+\`\`\`
+
+**'use client' 的边界——组件树的"切割点"：**
+
+\`\`\`
+ServerComponent (默认, 无需标注)
+├── ServerChild (默认, 继续在服务端)
+├── ClientComponent ('use client') ← 从这里开始，整棵子树都是客户端组件
+│   ├── ClientChild (自动客户端，无需 'use client')
+│   └── ClientChild
+└── ServerChild2 (默认，仍在服务端)
+\`\`\`
+
+> **最佳实践**：尽可能让组件在服务端渲染，只在需要交互的地方用 \`'use client'\` 切一刀。把逻辑放在 Server Component，把交互交 Client Component。
+
+### 3.3 服务端组件不能用的 API
+
+\`\`\`tsx
+// ❌ 服务端组件禁止使用：
+import { useState, useEffect } from 'react';          // ❌ 状态/副作用
+import { useContext, createContext } from 'react';     // ❌ 上下文（部分情况）
+import { useRouter, usePathname, useSearchParams } from 'next/navigation'; // ❌ 客户端 hooks
+import { useSession } from 'next-auth/react';          // ❌ 客户端 hooks
+
+// ✅ 但是可以：
+import { notFound, redirect } from 'next/navigation'; // ✅ 服务端函数
+import { cookies, headers } from 'next/headers';       // ✅ 服务端 API
+import { readFile } from 'fs/promises';                // ✅ Node.js API
+import { db } from '@/lib/db';                          // ✅ 直接查数据库
+\`\`\`
+
+---
+
+## 四、路由导航
+
+### 4.1 四种导航方式
+
+\`\`\`tsx
+// 方式 1：<Link> 组件（推荐 —— 预获取 + 客户端导航）
+import Link from 'next/link';
+
+export default function Nav() {
+  return (
+    <nav>
+      <Link href="/about" className="nav-link">关于</Link>
+      <Link href={\`/blog/\${post.slug}\`} className="nav-link">
+        {post.title}
+      </Link>
+      {/* scroll={false} 禁用导航后的自动滚动到顶部 */}
+      <Link href="/dashboard" scroll={false}>控制台</Link>
+    </nav>
+  );
+}
+\`\`\`
+
+\`\`\`tsx
+'use client';
+// 方式 2：useRouter Hook（客户端组件——程序式导航）
+import { useRouter } from 'next/navigation';
+
+export function SubmitButton() {
+  const router = useRouter();
+
+  return (
+    <button
+      onClick={async () => {
+        const result = await submitForm();
+        if (result.success) {
+          router.push('/dashboard');       // 导航到新页面
+          // router.replace('/dashboard'); // 替换当前历史
+          // router.back();                // 回退
+          // router.forward();             // 前进
+          // router.refresh();             // 刷新当前路由（用服务端最新数据）
+        }
+      }}
+    >
+      提交
+    </button>
+  );
+}
+\`\`\`
+
+\`\`\`tsx
+// 方式 3：redirect 函数（服务端组件）
+import { redirect } from 'next/navigation';
+
+export default async function AdminPage() {
+  const user = await getCurrentUser();
+  
+  if (!user.isAdmin) {
+    redirect('/login'); // 服务端重定向（返回 307 响应）
+  }
+
+  return <div>管理面板</div>;
+}
+\`\`\`
+
+### 4.2 <Link> 的预获取（Prefetching）机制
+
+\`\`\`typescript
+// <Link> 的核心优势：自动预获取
+// - 当 <Link> 出现在视口（viewport）中时，Next.js 会自动预取链接页面的数据
+// - 预获取只在生产环境生效（开发环境不会）
+// - 可以显著降低页面切换的等待感
+
+// prefetch 行为：
+// 1. 静态路由：预取完整页面内容（包括数据）
+// 2. 动态路由：只预取第一层 loading 边界内容
+
+<Link href="/about" prefetch={true}>  {/* 默认 true */}
+<Link href="/about" prefetch={false}> {/* 禁用预获取 */}
+\`\`\`
+
+### 4.3 usePathname —— 当前路由判定
+
+\`\`\`tsx
+'use client';
+import { usePathname } from 'next/navigation';
+import Link from 'next/link';
+
+// 场景：导航高亮当前链接
+export function NavLink({ href, children }: { href: string; children: React.ReactNode }) {
+  const pathname = usePathname();
+  const isActive = pathname === href || pathname.startsWith(href + '/');
+
+  return (
+    <Link
+      href={href}
+      className={isActive ? 'nav-link active' : 'nav-link'}
+    >
+      {children}
+    </Link>
+  );
+}
+\`\`\`
+
+### 4.4 导航时浏览器滚动行为
+
+\`\`\`typescript
+// App Router 默认的滚动行为：
+// 1. 导航到新路由 → 滚动到顶部
+// 2. 前进/后退 → 保持之前位置
+
+// 禁用自动滚动到顶部：
+<Link href="/dashboard" scroll={false}>
+  控制台
+</Link>
+
+// 程序式导航禁用滚动：
+router.push('/dashboard', { scroll: false });
+\`\`\`
+
+> **面试加分**：Link 的预获取是 Next.js 性能优化的关键策略。生产环境中，视口内的 Link 会自动触发数据预加载，让页面切换几乎瞬间完成。
+
+---
+
+## 五、动态路由
+
+### 5.1 动态路由参数
+
+\`\`\`typescript
+// 文件结构：
+// app/blog/[slug]/page.tsx  → 访问 /blog/hello-world
+// app/blog/[category]/[slug]/page.tsx  → 访问 /blog/tech/react-intro
+
+// 参数通过 params 属性传递给页面
+export default async function BlogPost({
+  params,
+  searchParams, // 可选：URL 查询参数
+}: {
+  params: { slug: string };
+  searchParams?: { [key: string]: string | string[] | undefined };
+}) {
+  const post = await getPost(params.slug);
+
+  return (
+    <article>
+      <h1>{post.title}</h1>
+      {searchParams?.preview === 'true' && (
+        <p className="preview-banner">预览模式</p>
+      )}
+      <div>{post.content}</div>
+    </article>
+  );
+}
+\`\`\`
+
+### 5.2 动态路由参数类型
+
+| 类型 | 文件模式 | 匹配 URL | 示例 |
+|------|---------|---------|------|
+| 基本动态 | \`[slug]\` | 单段 | \`/blog/hello\` |
+| 捕获所有 | \`[...slug]\` | 多段 | \`/blog/2024/01/hello\` → \`{ slug: ['2024','01','hello'] }\` |
+| 可选捕获 | \`[[...slug]]\` | 多段或空 | \`/blog\` 或 \`/blog/a/b\` → \`{ slug: undefined \\| ['a','b'] }\` |
+
+\`\`\`tsx
+// app/blog/[...slug]/page.tsx — 捕获所有
+export default function CatchAllPage({ params }: {
+  params: { slug: string[] };
+}) {
+  // 访问 /blog/2024/01/post-1
+  // params.slug = ['2024', '01', 'post-1']
+  return <div>Path: {params.slug.join(' / ')}</div>;
+}
+
+// app/blog/[[...slug]]/page.tsx — 可选捕获（包含根路径）
+export default function OptionalCatchAll({ params }: {
+  params: { slug?: string[] };
+}) {
+  // 访问 /blog → params.slug = undefined
+  // 访问 /blog/2024 → params.slug = ['2024']
+  return <div>{params.slug ? params.slug.join('/') : '博客首页'}</div>;
+}
+\`\`\`
+
+### 5.3 generateStaticParams —— 静态生成
+
+\`\`\`typescript
+// 配合静态生成（SSG），提前生成所有动态路由
+export async function generateStaticParams() {
+  const posts = await getAllPosts();
+
+  return posts.map((post) => ({
+    slug: post.slug,
+  }));
+}
+
+// 在构建时生成：/blog/hello-world, /blog/react-guide, ...
+// 未在此列表中的路由 → 按需生成（ISR 或 SSR）/ 返回 404
+\`\`\`
+
+### 5.4 generateMetadata —— 动态路由的 SEO
+
+\`\`\`typescript
+import type { Metadata } from 'next';
+
+export async function generateMetadata({
+  params,
+}: {
+  params: { slug: string };
+}): Promise<Metadata> {
+  const post = await getPost(params.slug);
+
+  return {
+    title: post.title,
+    description: post.excerpt,
+    openGraph: {
+      title: post.title,
+      images: [post.coverImage],
+    },
+  };
+}
+\`\`\`
+
+---
+
+## 六、路由组
+
+### 6.1 路由组的作用
+
+路由组使用 **\`(folderName)\`** 语法，将文件夹标记为**逻辑分组**，**不影响 URL 路径**。
+
+\`\`\`
+app/
+├── (marketing)/              ← 路由组：不会出现在 URL 中
+│   ├── layout.tsx            ← 专属布局（如营销风格页脚）
+│   ├── page.tsx              →  /
+│   └── pricing/
+│       └── page.tsx          →  /pricing
+│
+├── (dashboard)/              ← 路由组：不同布局
+│   ├── layout.tsx            ← 专属布局（含侧边栏）
+│   ├── settings/
+│   │   └── page.tsx          →  /dashboard/settings
+│   └── profile/
+│       └── page.tsx          →  /dashboard/profile
+│
+└── layout.tsx                ← 根布局（全局，删除后每组需自建）
+\`\`\`
+
+**路由组的核心用途：**
+
+\`\`\`typescript
+// 1. 按逻辑分组代码（不影响 URL）
+// app/(docs)/getting-started/page.tsx → /getting-started
+// app/(api-docs)/reference/page.tsx   → /reference
+
+// 2. 同一层级不同布局
+// app/(marketing)/layout.tsx  → 无侧边栏的营销布局
+// app/(dashboard)/layout.tsx  → 带侧边栏的仪表盘布局
+
+// 3. 创建多个根布局（需删除 app/layout.tsx）
+// app/(site)/layout.tsx     → 包含 <html>/<body>
+// app/(admin)/layout.tsx    → 包含 <html>/<body>
+\`\`\`
+
+### 6.2 路由组注意事项
+
+\`\`\`typescript
+// ⚠️ 路由组不会影响 URL，但会影响路由解析的层级关系
+// ⚠️ 多个根布局共存时，每个布局都必须有 <html>/<body>
+// ⚠️ 不同路由组中的同名路由会冲突（如两个 (group)/page.tsx 都会匹配 /）
+
+// 命名约定：使用有意义的组名
+// ✅ app/(marketing)/layout.tsx     — 营销站点布局
+// ✅ app/(dashboard)/layout.tsx     — 控制台布局
+// ❌ app/(group1)/layout.tsx        — 无意义命名
+\`\`\`
+
+---
+
+## 七、平行路由
+
+### 7.1 基本概念
+
+平行路由使用 **\`@folderName\`** 语法，在**同一个布局中同时渲染多个页面**，类似 Vue 的具名插槽。
+
+\`\`\`
+app/
+├── layout.tsx              ← 定义 parallel route 插槽
+├── page.tsx                → /
+├── @analytics/             ← analytics 插槽
+│   ├── page.tsx            → /（analytics）
+│   └── views/
+│       └── page.tsx        → /views（analytics）
+├── @settings/              ← settings 插槽
+│   ├── page.tsx            → /（settings）
+│   └── profile/
+│       └── page.tsx        → /profile（settings）
+\`\`\`
+
+\`\`\`tsx
+// app/layout.tsx — 平行路由的布局
+export default function RootLayout({
+  children,            // ← page.tsx
+  analytics,           // ← @analytics/page.tsx
+  settings,            // ← @settings/page.tsx
+}: {
+  children: React.ReactNode;
+  analytics: React.ReactNode;
+  settings: React.ReactNode;
+}) {
+  return (
+    <html>
+      <body>
+        <header>全局导航</header>
+        <main>{children}</main>
+        <aside>
+          {analytics}     {/* 独立渲染 analytics 内容 */}
+          {settings}      {/* 独立渲染 settings 内容 */}
+        </aside>
+      </body>
+    </html>
+  );
+}
+\`\`\`
+
+### 7.2 平行路由的独立状态
+
+\`\`\`typescript
+// 每个插槽拥有独立的：
+// - 加载状态（loading.tsx）
+// - 错误处理（error.tsx）
+// - 路由状态
+
+// 插槽 A 加载中，插槽 B 已渲染完成
+// → A 显示 loading，B 正常显示
+// ← 互不影响！
+\`\`\`
+
+### 7.3 子导航与 default.tsx
+
+\`\`\`tsx
+// 平行路由的子导航问题：
+
+// 场景：用户访问 /settings/profile
+// 1. 通过 <Link> 导航 → ✅ 正常，平行路由保持状态
+// 2. 通过浏览器地址栏直接访问 /settings/profile
+//    → 刷新整个页面
+//    → 所有插槽都会重新渲染
+
+// ⚠️ 直接访问 /settings/profile 时，如果 @analytics 没有对应 profiles/page.tsx
+// 就会报 404！
+
+// 解决方案：default.tsx —— 为每个插槽提供"找不到对应路由"时的降级界面
+
+// app/@analytics/default.tsx
+export default function Default() {
+  return <div>分析面板（默认视图）</div>;
+}
+\`\`\`
+
+**default.tsx 的查找规则：**
+
+\`\`\`
+访问 /settings/profile
+├── @analytics/settings/profile → ❌ 不存在
+│   └── app/@analytics/default.tsx → ✅ 显示默认内容
+│
+├── @settings/settings/profile → ✅ 存在，正常渲染
+│
+└── children → 取 app/settings/profile/page.tsx → ✅
+\`\`\`
+
+### 7.4 条件渲染
+
+\`\`\`tsx
+// 平行路由 + 路由组 = 条件渲染
+
+// 场景：根据用户角色显示不同的 dashboard
+export default function DashboardLayout({
+  admin,
+  user,
+}: {
+  admin: React.ReactNode;
+  user: React.ReactNode;
+}) {
+  const { role } = useCurrentUser();
+
+  return (
+    <div>
+      {role === 'admin' ? admin : user}
+    </div>
+  );
+}
+\`\`\`
+
+---
+
+## 八、拦截路由
+
+### 8.1 拦截路由的作用
+
+拦截路由允许你在**当前路由拦截其他路由**，并在当前上下文中展示，同时保持目标路由的独立 URL。
+
+\`\`\`
+app/
+├── feed/
+│   └── page.tsx            → /feed（信息流）
+├── photo/
+│   └── [id]/
+│       └── page.tsx        → /photo/123（照片详情页）
+└── feed/
+    └── (..)photo/
+        └── [id]/
+            └── page.tsx    → 在 /feed 页面拦截 /photo/123
+\`\`\`
+
+### 8.2 拦截层级（⚠️ 匹配的是 URL 层级，而非文件目录层级）
+
+这是拦截路由最容易混淆的地方。Next.js 官方文档明确说明：
+
+> The \`(..)\` convention is based on *route segments*, not the file-system.
+
+**路由组 \`(name)\` 和平行路由 \`@name\` 不参与层级计算**，因为它们不会出现在 URL 中。
+
+\`\`\`typescript
+// (.)       → 同级（同 URL 层级）
+// (..)      → 上一级（上一 URL 层级）
+// (..)(..)  → 上两级
+// (...)     → 根目录
+
+// ✅ 参与层级计算
+// - 普通文件夹 blog/           —— 1 层
+// - 动态路由 [slug]/           —— 1 层
+// - 捕获所有 [...slug]/        —— 1 层
+
+// ❌ 不参与层级计算（不计入）
+// - 路由组 (marketing)/        —— 忽略
+// - 平行路由 @modal/           —— 忽略
+\`\`\`
+
+**核心算法：** 从拦截路由文件出发，沿着文件路径向上走，遇到非 URL 文件夹（路由组/平行路由）跳过，遇到 URL 文件夹则计数，然后根据 \`(.)\` / \`(..)\` 标记决定从 URL 树中的哪个位置挂载后续路径。
+
+\`\`\`typescript
+// ===== 示例 1：标准情况（原始文档例子正确） =====
+//
+// app/
+// ├── feed/
+// │   └── page.tsx            → /feed
+// ├── photo/
+// │   └── [id]/
+// │       └── page.tsx        → /photo/123
+// └── feed/
+//     └── (..)photo/
+//         └── [id]/
+//             └── page.tsx
+//
+// 解析过程：
+// ① 路径：feed → (..)photo → [id]
+// ② feed 贡献 1 个 URL 段
+// ③ (..) 表示在此基础上上一级 → 回到根 /
+// ④ photo/[id] 匹配 → /photo/123 ✓
+
+// ===== 示例 2：路由组不影响计算 =====
+//
+// app/
+// ├── (marketing)/
+// │   ├── feed/
+// │   │   └── page.tsx        → /feed
+// │   ├── photo/
+// │   │   └── [id]/
+// │   │       └── page.tsx    → /photo/123
+// │   └── feed/
+// │       └── (..)photo/
+// │           └── [id]/
+// │               └── page.tsx
+//
+// 解析过程：
+// ① 路径：(marketing) → feed → (..)photo → [id]
+// ② (marketing) 不贡献 URL 段（路由组，忽略）
+// ③ feed 贡献 1 个 URL 段
+// ④ (..) 上一级 → 回到根 /
+// ⑤ photo/[id] → /photo/123 ✓
+// 
+// 结论：URL 层级计算与无路由组时完全一致，(..) 依然正确
+
+// ===== 示例 3：平行路由不影响计算 =====
+//
+// app/
+// ├── feed/
+// │   └── page.tsx             → /feed
+// ├── photo/
+// │   └── [id]/
+// │       └── page.tsx         → /photo/123
+// ├── @modal/
+// │   └── (..)photo/
+// │       └── [id]/
+// │           └── page.tsx     ← @modal 是插槽，不占 URL 层级
+// └── layout.tsx
+//
+// 官方文档原话：
+// "@modal is a slot and **not** a segment. This means that the photo
+//  route is only one segment level higher, despite being two file-system
+//  levels higher."
+//
+// 解析过程（文件系统上是 2 级：@modal → (..)photo，但 URL 上只跳 1 级）：
+// ① 路径：@modal → (..)photo → [id]
+// ② @modal 不贡献 URL 段（平行路由，忽略）
+// ③ (..) 从根级上一级... 但已经在根级了
+// ④ 实际上 (..)photo 在平行路由插槽中，插槽内容在与 layout 同级的
+//    URL 树中挂载。(..) 表示从 layout 同级位置往上走
+// ⑤ 结果：/photo/123 ✓
+
+// ===== 示例 4：(.) 同层拦截的实际场景 =====
+//
+// app/
+// ├── blog/
+// │   ├── [slug]/
+// │   │   ├── page.tsx            → /blog/hello
+// │   │   └── (.)comments/
+// │   │       └── page.tsx        → 拦截 /blog/hello/comments
+// │   └── archive/
+// │       └── page.tsx            → /blog/archive
+//
+// 解析：
+// ① blog → [slug] → (.)comments
+// ② blog = 1 层，[slug] = 1 层（共 2 层）
+// ③ (.) 表示同级 → 替换 [slug] 为 comments
+// ④ 结果：/blog/hello/comments ✓
+//
+// 对比 (..)：如果在同样位置放 (..)archive
+// ① blog → [slug] → (..)archive
+// ② (..) 表示上 1 级 → 到 blog 层
+// ③ archive → /blog/archive ✓
+\`\`\`
+
+**层级计算决策表：**
+
+| 拦截路由文件位置 | 要拦截的 URL | 应使用标记 | 说明 |
+|----------------|------------|-----------|------|
+| \`app/feed/\` | \`/photo/123\` | \`(..)photo/[id]\` | feed→上1级→根→photo |
+| \`app/(m)/feed/\` | \`/photo/123\` | \`(..)photo/[id]\` | 路由组忽略，同标准情况 |
+| \`app/@modal/\` | \`/photo/123\` | \`(..)photo/[id]\` | 平行路由忽略，同标准情况 |
+| \`app/blog/[slug]/\` | \`/blog/hello/comments\` | \`(.)comments\` | 同层级替换 |
+| \`app/blog/[slug]/\` | \`/blog/archive\` | \`(..)archive\` | 上1级到blog |
+| \`app/blog/[slug]/\` | \`/\` | \`(..)(..)page\` | 上2级到根 |
+
+### 8.3 典型场景
+
+\`\`\`tsx
+// 场景：社交信息流中的图片浏览
+// - 点击图片 → 在当前页弹模态框（拦截路由）
+// - 模态框的 URL = /photo/123（真实的独立页面 URL）
+// - 分享 /photo/123 → 其他人看到的是完整照片页
+// - 关闭模态框 → 回到信息流位置
+
+// 这种模式结合了：
+// - 良好的用户体验（不跳转、保持上下文）
+// - 良好的 SEO（照片有独立 URL）
+// - 良好的分享性（URL 是可分享的）
+\`\`\`
+
+> **面试加分**：截取路由是实现"模态框 + 独立 URL"双模式的最佳实践，解决了 SPA 模态框无法分享 URL 的问题。
+
+---
+
+## 九、路由处理程序（Route Handlers）
+
+### 9.1 什么是路由处理程序
+
+路由处理程序（Route Handlers）是 Next.js App Router 中**创建 API 端点**的方式。在前端项目中，当你的页面需要数据接口，但又不想单独部署一个后端服务时，路由处理程序就是最直接的方案。
+
+\`\`\`
+app/
+├── api/
+│   ├── users/
+│   │   ├── route.ts        →  GET/POST /api/users
+│   │   └── [id]/
+│   │       └── route.ts    →  GET/PUT/DELETE /api/users/123
+│   ├── auth/
+│   │   └── login/
+│   │       └── route.ts    →  POST /api/auth/login
+│   └── rss.xml/
+│       └── route.ts        →  GET /rss.xml（返回 XML）
+\`\`\`
+
+**核心规则：\`page.tsx\` 与 \`route.ts\` 不能共存于同一层级**。因为一个路由段不能同时返回页面 UI 和 API 响应。
+
+\`\`\`typescript
+// ❌ 错误：同一目录下 page 和 route 不能共存
+// app/api/data/
+// ├── page.tsx        → 渲染页面
+// └── route.ts        → 返回 JSON  → 冲突！
+
+// ✅ 正确：分开层级
+// app/api/data/route.ts    → 处理 API
+// app/data/page.tsx        → 渲染页面
+\`\`\`
+
+### 9.2 基础用法
+
+\`\`\`typescript
+// app/api/hello/route.ts
+// 支持：GET, POST, PUT, PATCH, DELETE, HEAD, OPTIONS
+
+export async function GET(request: Request) {
+  return Response.json({ message: 'Hello World' });
+}
+
+export async function POST(request: Request) {
+  const body = await request.json();
+  return Response.json({ received: body }, { status: 201 });
+}
+\`\`\`
+
+### 9.3 Request 与 Response
+
+Next.js 在 Web 标准 API 之上提供了扩展：
+
+\`\`\`typescript
+// NextRequest — 基于 Web Request API 的扩展
+import { NextRequest, NextResponse } from 'next/server';
+
+export async function GET(request: NextRequest) {
+  // nextUrl — URL 操作扩展
+  const searchParams = request.nextUrl.searchParams;
+  const query = searchParams.get('q');
+  
+  // 快捷读取 cookies
+  const token = request.cookies.get('token');
+  
+  // 快捷读取 headers
+  const userAgent = request.headers.get('user-agent');
+  
+  return NextResponse.json({
+    query,
+    hasToken: !!token,
+    userAgent,
+  });
+}
+\`\`\`
+
+**NextRequest 的 nextUrl vs Web URL API：**
+
+\`\`\`typescript
+export async function GET(request: NextRequest) {
+  // Web URL API 标准方式
+  const url = new URL(request.url);
+  const q1 = url.searchParams.get('q');
+  
+  // NextRequest.nextUrl 方式（更便捷）
+  const q2 = request.nextUrl.searchParams.get('q');
+  const pathname = request.nextUrl.pathname;
+  const isDev = request.nextUrl.hostname === 'localhost';
+  
+  // nextUrl 支持修改后重新构建
+  request.nextUrl.searchParams.set('ref', 'api');
+  const newUrl = request.nextUrl.toString(); // 包含 ref 参数
+  
+  return NextResponse.json({ pathname, q: q2 });
+}
+\`\`\`
+
+### 9.4 路由参数与查询参数
+
+\`\`\`typescript
+// app/api/products/[category]/[id]/route.ts
+export async function GET(
+  request: NextRequest,
+  { params }: { params: { category: string; id: string } }
+) {
+  // 路由参数（路径参数）
+  const { category, id } = params;
+  
+  // 查询参数（URL 上的 ?key=value）
+  const searchParams = request.nextUrl.searchParams;
+  const includeReviews = searchParams.get('includeReviews');
+  const page = searchParams.get('page') || '1';
+
+  const product = await getProduct(category, id);
+
+  return NextResponse.json({
+    product,
+    query: { includeReviews, page },
+  });
+}
+
+// 访问 /api/products/electronics/42?includeReviews=true&page=2
+// params: { category: 'electronics', id: '42' }
+// searchParams: { includeReviews: 'true', page: '2' }
+\`\`\`
+
+### 9.5 Cookie 与 Headers 处理
+
+\`\`\`typescript
+// 方式 1：通过 NextRequest / NextResponse
+import { NextRequest, NextResponse } from 'next/server';
+
+export async function GET(request: NextRequest) {
+  // 读取
+  const token = request.cookies.get('session');
+  const allCookies = request.cookies.getAll();
+
+  const response = NextResponse.json({ authenticated: !!token });
+
+  // 设置 Cookie
+  response.cookies.set('session', 'abc123', {
+    httpOnly: true,
+    secure: true,
+    maxAge: 60 * 60 * 24, // 1 天
+    path: '/',
+  });
+
+  // 删除 Cookie
+  response.cookies.delete('old-token');
+
+  return response;
+}
+
+// 方式 2：通过 next/headers 包（服务端组件和路由处理程序都可以用）
+import { cookies, headers } from 'next/headers';
+
+export async function GET() {
+  const cookieStore = await cookies(); // 或直接用 cookies()（无需 await 的场景）
+  const token = cookieStore.get('session');
+
+  const headersList = await headers();
+  const referer = headersList.get('referer');
+  const userAgent = headersList.get('user-agent');
+
+  return NextResponse.json({
+    hasToken: !!token,
+    from: referer,
+    ua: userAgent,
+  });
+}
+\`\`\`
+
+### 9.6 重定向
+
+\`\`\`typescript
+import { redirect } from 'next/navigation'; // 注意不是 next/server！
+import { NextResponse } from 'next/server';
+
+export async function GET() {
+  // 方式 1：next/navigation 的 redirect（推荐，会抛异常）
+  // redirect('/login'); // 用于特定条件
+
+  // 方式 2：NextResponse.redirect
+  return NextResponse.redirect(new URL('/login', request.url));
+  
+  // 方式 3：NextResponse.rewrite（URL 不变，但返回不同内容）
+  // return NextResponse.rewrite(new URL('/fallback', request.url));
+}
+\`\`\`
+
+### 9.7 请求体与 FormData
+
+\`\`\`typescript
+// JSON 请求体
+export async function POST(request: NextRequest) {
+  try {
+    const body = await request.json();
+    // body 已自动解析为 JavaScript 对象
+    const { name, email } = body;
+    
+    const user = await createUser({ name, email });
+    return NextResponse.json(user, { status: 201 });
+  } catch (error) {
+    return NextResponse.json(
+      { error: 'Invalid JSON' },
+      { status: 400 }
+    );
+  }
+}
+
+// FormData 请求体
+export async function PUT(request: NextRequest) {
+  const formData = await request.formData();
+  
+  const name = formData.get('name') as string;
+  const avatar = formData.get('avatar') as File; // 文件上传
+  const roles = formData.getAll('roles'); // 多值字段
+
+  // 处理文件
+  const buffer = Buffer.from(await avatar.arrayBuffer());
+  const savedPath = await saveFile(buffer, avatar.name);
+
+  return NextResponse.json({ name, avatarPath: savedPath });
+}
+\`\`\`
+
+### 9.8 设置 CORS
+
+\`\`\`typescript
+// 使用 NextResponse 设置跨域头
+export async function GET(request: NextRequest) {
+  const response = NextResponse.json({ data: 'public' });
+
+  response.headers.set('Access-Control-Allow-Origin', '*');
+  response.headers.set('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+  response.headers.set('Access-Control-Allow-Headers', 'Content-Type, Authorization');
+
+  return response;
+}
+
+// OPTIONS 请求（预检请求）
+export async function OPTIONS(request: NextRequest) {
+  return new NextResponse(null, {
+    status: 204,
+    headers: {
+      'Access-Control-Allow-Origin': '*',
+      'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization',
+      'Access-Control-Max-Age': '86400', // 缓存预检结果 24h
+    },
+  });
+}
+
+// ⚠️ 如需全局 CORS，建议用中间件统一处理，而不是在每个 route.ts 中重复设置
+\`\`\`
+
+### 9.9 缓存行为
+
+\`\`\`typescript
+// ⚠️ 路由处理程序的缓存策略与 page 不同
+
+// 情况 1：GET 请求默认缓存
+// 使用 Response.json() 或 NextResponse.json() 的 GET 请求会被缓存
+// 开发模式下不缓存，生产模式才生效
+// 测试：npm run build && npm run start
+
+// 情况 2：设置 revalidate 控制缓存时间
+export const revalidate = 10; // 至少 10 秒后才会重新验证
+
+export async function GET() {
+  const data = await fetch('https://api.example.com/data');
+  const result = await data.json();
+  
+  return NextResponse.json({
+    ...result,
+    timestamp: Date.now(), // 缓存期内 timestamp 不变
+  });
+}
+// 10 秒后首次请求触发重新验证，后台更新缓存
+// 缓存未更新前仍返回旧数据（stale-while-revalidate）
+
+// 情况 3：动态函数退出缓存
+export async function GET(request: NextRequest) {
+  // 以下任意一个操作都会使该路由处理程序退出缓存：
+  const headersList = await headers();    // 使用 headers → 动态
+  const cookieStore = await cookies();    // 使用 cookies → 动态
+  const { searchParams } = request.nextUrl; // 读取查询参数 → 动态
+
+  return NextResponse.json({ time: Date.now() }); // 每次请求都会变化
+}
+
+// 情况 4：完全退出缓存
+export const dynamic = 'force-dynamic';
+
+export async function GET() {
+  return NextResponse.json({ now: Date.now() }); // 每次都不缓存
+}
+\`\`\`
+
+### 9.10 响应非 UI 内容（XML / RSS / 流）
+
+\`\`\`typescript
+// 返回 RSS XML
+// app/rss.xml/route.ts
+export async function GET() {
+  const siteUrl = 'https://example.com';
+  const posts = await getAllPosts();
+
+  const rssXml = \`<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>\${siteUrl}</link>
+    \${posts.map(post => \`
+    <item>
+      <title>\${post.title}</title>
+      <link>\${siteUrl}/blog/\${post.slug}</link>
+      <pubDate>\${new Date(post.date).toUTCString()}</pubDate>
+    </item>\`).join('')}
+  </channel>
+</rss>\`;
+
+  return new Response(rssXml, {
+    headers: {
+      'Content-Type': 'application/xml; charset=utf-8',
+      'Cache-Control': 'public, max-age=3600',
+    },
+  });
+}
+
+// Streaming（如 OpenAI 打字效果）
+export async function POST(request: NextRequest) {
+  const { prompt } = await request.json();
+  
+  // 创建 ReadableStream
+  const encoder = new TextEncoder();
+  const stream = new ReadableStream({
+    async start(controller) {
+      const response = await fetch('https://api.openai.com/v1/chat/completions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          model: 'gpt-4',
+          messages: [{ role: 'user', content: prompt }],
+          stream: true,
+        }),
+      });
+
+      const reader = response.body?.getReader();
+      if (!reader) return;
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        controller.enqueue(value); // 逐块推送
+      }
+      controller.close();
+    },
+  });
+
+  return new Response(stream, {
+    headers: {
+      'Content-Type': 'text/event-stream',
+      'Cache-Control': 'no-cache',
+      'Connection': 'keep-alive',
+    },
+  });
+}
+\`\`\`
+
+---
+
+## 十、中间件（Middleware）
+
+### 10.1 什么是中间件
+
+中间件允许你在**每个请求被路由处理之前**执行代码。它位于项目的**根目录**（与 \`app/\` 同级），命名为 \`middleware.ts\`。
+
+\`\`\`
+my-project/
+├── middleware.ts          ← 在这里！
+├── app/
+│   ├── page.tsx
+│   ├── dashboard/
+│   │   └── page.tsx
+│   └── api/
+│       └── route.ts
+└── next.config.ts
+\`\`\`
+
+### 10.2 基础用法
+
+\`\`\`typescript
+// middleware.ts
+import { NextResponse } from 'next/server';
+import type { NextRequest } from 'next/server';
+
+export function middleware(request: NextRequest) {
+  console.log(\`[Middleware] \${request.method} \${request.nextUrl.pathname}\`);
+  
+  return NextResponse.next(); // 继续处理请求
+}
+
+// 匹配配置（重要！默认匹配所有请求）
+export const config = {
+  matcher: [
+    // 匹配 /dashboard 开头的所有路径
+    '/dashboard/:path*',
+    // 排除静态资源和 API 健康检查
+    '/((?!api/health|_next/static|_next/image|favicon.ico).*)',
+  ],
+};
+\`\`\`
+
+### 10.3 matcher 配置详解
+
+\`\`\`typescript
+// middleware.ts
+export const config = {
+  matcher: [
+    // 匹配单个路径
+    '/about',           // 只匹配 /about
+    
+    // 通配符匹配
+    '/dashboard/:path*', // /dashboard, /dashboard/settings, /dashboard/settings/profile
+    
+    // 多路径匹配
+    '/api/:function*',  // /api/users, /api/auth/login
+    
+    // 排除特定路径（用正则）
+    '/((?!api/auth|_next/static).*)',
+    // 匹配所有除了 /api/auth/* 和静态资源
+    
+    // 精确排除
+    '/((?!_next/static|_next/image|favicon.ico).*)',
+    // Next.js 建议至少排除这些静态资源
+  ],
+};
+
+// ⚠️ matcher 必须是静态字符串，不能使用变量
+// ⚠️ matcher 在构建时计算，不支持动态值
+
+// 备选方案：在函数内用条件语句（更灵活，但性能略差）
+export function middleware(request: NextRequest) {
+  const { pathname } = request.nextUrl;
+  
+  // 排除静态资源
+  if (
+    pathname.startsWith('/_next') ||
+    pathname.startsWith('/api/health') ||
+    pathname === '/favicon.ico'
+  ) {
+    return NextResponse.next();
+  }
+  
+  // 只有特定路径执行中间件逻辑
+  if (pathname.startsWith('/dashboard')) {
+    return authMiddleware(request);
+  }
+  
+  return NextResponse.next();
+}
+\`\`\`
+
+### 10.4 典型场景：鉴权
+
+\`\`\`typescript
+// middleware.ts — 全站鉴权
+import { NextResponse } from 'next/server';
+import type { NextRequest } from 'next/server';
+
+export function middleware(request: NextRequest) {
+  const { pathname } = request.nextUrl;
+  const token = request.cookies.get('session')?.value;
+  const isLoggedIn = !!token;
+
+  // 需要登录才能访问的路径
+  const protectedPaths = ['/dashboard', '/profile', '/settings'];
+  const isProtected = protectedPaths.some(path => pathname.startsWith(path));
+
+  if (isProtected && !isLoggedIn) {
+    // 未登录 → 重定向到登录页，并记录来源
+    const loginUrl = new URL('/login', request.url);
+    loginUrl.searchParams.set('redirect', pathname);
+    return NextResponse.redirect(loginUrl);
+  }
+
+  // 已登录访问登录页 → 重定向到首页
+  if (isLoggedIn && pathname.startsWith('/login')) {
+    return NextResponse.redirect(new URL('/dashboard', request.url));
+  }
+
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: ['/dashboard/:path*', '/profile/:path*', '/login'],
+};
+\`\`\`
+
+### 10.5 实战：频率限制（Rate Limiting）
+
+\`\`\`typescript
+// middleware.ts — 限流（每分钟最多 3 次请求）
+import { NextResponse } from 'next/server';
+import type { NextRequest } from 'next/server';
+
+const rateLimitMap = new Map<string, { count: number; resetTime: number }>();
+
+export function middleware(request: NextRequest) {
+  // 仅对 API 路由做限流
+  if (!request.nextUrl.pathname.startsWith('/api')) {
+    return NextResponse.next();
+  }
+
+  const ip = request.headers.get('x-forwarded-for') ?? 
+             request.headers.get('x-real-ip') ?? 
+             'unknown';
+  const now = Date.now();
+  const windowMs = 60 * 1000; // 1 分钟窗口
+  const maxRequests = 3;       // 最多 3 次
+
+  const record = rateLimitMap.get(ip);
+
+  if (!record || now > record.resetTime) {
+    // 新窗口
+    rateLimitMap.set(ip, { count: 1, resetTime: now + windowMs });
+    return NextResponse.next();
+  }
+
+  if (record.count >= maxRequests) {
+    // 超过限制
+    return new NextResponse('Too Many Requests', {
+      status: 429,
+      headers: {
+        'Retry-After': String(Math.ceil((record.resetTime - now) / 1000)),
+      },
+    });
+  }
+
+  record.count++;
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: ['/api/:path*'],
+};
+
+// ⚠️ 注意：生产环境应用 Redis 或数据库存储，Map 在多个实例间不共享
+\`\`\`
+
+### 10.6 中间件的执行顺序
+
+\`\`\`
+请求进入
+    │
+    ▼
+① headers（next.config.js）
+    │
+    ▼
+② redirects（next.config.js）
+    │
+    ▼
+③ 中间件（middleware.ts）
+   ├── rewrites 处理
+   ├── redirects 处理
+   ├── headers 设置
+   └── ...
+    │
+    ▼
+④ beforeFiles（next.config.js 中的 rewrites）
+    │
+    ▼
+⑤ 基于文件系统的路由
+   ├── public/ 静态文件
+   ├── _next/static/（构建资源）
+   ├── pages/（Page Router）
+   └── app/（App Router）
+    │
+    ▼
+⑥ afterFiles（next.config.js 中的 rewrites）
+    │
+    ▼
+⑦ 动态路由（如 /blog/[slug]）
+    │
+    ▼
+⑧ fallback rewrites（next.config.js）
+    │
+    ▼
+    响应返回
+\`\`\`
+
+### 10.7 中间件代码组织（项目大型化时的拆分）
+
+\`\`\`typescript
+// ❸ 最佳实践：高阶函数组合
+// middleware.ts
+import { NextResponse } from 'next/server';
+import type { NextRequest } from 'next/server';
+
+// 中间件拆分为独立的函数
+
+// 1. 鉴权中间件
+function authMiddleware(request: NextRequest): NextResponse | null {
+  const token = request.cookies.get('session');
+  if (!token && request.nextUrl.pathname.startsWith('/dashboard')) {
+    return NextResponse.redirect(new URL('/login', request.url));
+  }
+  return null; // 继续下一个中间件
+}
+
+// 2. 限流中间件
+function rateLimitMiddleware(request: NextRequest): NextResponse | null {
+  if (!request.nextUrl.pathname.startsWith('/api')) return null;
+  // ... 限流逻辑
+  return null;
+}
+
+// 3. 国际化中间件
+function i18nMiddleware(request: NextRequest): NextResponse | null {
+  const { pathname } = request.nextUrl;
+  const defaultLocale = 'zh-CN';
+  // ... 语言检测逻辑
+  return null;
+}
+
+// 4. 日志中间件
+function loggingMiddleware(request: NextRequest): void {
+  console.log(\`[\${new Date().toISOString()}] \${request.method} \${request.nextUrl.pathname}\`);
+}
+
+// 主中间件：控制执行顺序
+export function middleware(request: NextRequest) {
+  loggingMiddleware(request);       // 1. 日志（不影响请求）
+  
+  const auth = authMiddleware(request);      // 2. 鉴权
+  if (auth) return auth;
+  
+  const rateLimit = rateLimitMiddleware(request); // 3. 限流
+  if (rateLimit) return rateLimit;
+  
+  const i18n = i18nMiddleware(request);      // 4. 国际化
+  if (i18n) return i18n;
+  
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: '/((?!_next/static|_next/image|favicon.ico).*)',
+};
+\`\`\`
+
+### 10.8 中间件的限制与注意事项
+
+\`\`\`typescript
+// ⚠️ 中间件的运行环境是 Edge Runtime
+// 这意味着：
+// - ❌ 不能使用 Node.js 原生 API（fs, path, crypto 等）
+// - ❌ 不能使用 process.env（运行时用 NextRequest 携带 env）
+// - ❌ 不能直接查询数据库
+// - ✅ 可以使用 Web API（fetch, URL, Request, Response 等）
+// - ✅ 可以读写 cookie
+// - ✅ 可以重定向、重写 URL
+
+// ⚠️ 中间件不是路由处理程序的替代品：
+// - 中间件：请求预处理（鉴权、重定向、header 修改）
+// - 路由处理程序：实际数据逻辑（数据库查询、业务处理）
+// - 两者各司其职，不要把所有逻辑都塞进中间件
+
+// ⚠️ 性能考量：
+// - 中间件在每个匹配请求时执行
+// - 应保持轻量：大量计算会延迟每个请求的响应
+// - 使用 matcher 精确匹配，减少不必要的执行
+\`\`\`
+
+---
+
+## 十一、面试要点
+
+### 11.1 高频问题层级
+
+| 层级 | 问题 | 期望 |
+|------|------|------|
+| 入门 | App Router 和 Page Router 的区别？特殊文件有哪些？路由处理程序怎么创建？ | 基本概念清晰 |
+| 中等 | layout 和 template 的区别？服务端组件和客户端组件的区别？中间件能做什么？ | 深入理解渲染机制 |
+| 进阶 | 平行路由的 default.tsx 解决的是什么问题？截取路由如何实现模态框 + URL？路由处理程序的缓存策略？ | 复杂路由场景的掌握 |
+| 深入 | 预获取机制如何在 Link 中实现？服务端组件如何流式传输？中间件在请求生命周期中的执行顺序？ | 底层性能机制理解 |
+
+### 11.2 合格 vs 优秀
+
+**合格回答**：
+- 知道 App Router 基于文件系统路由
+- 了解 layout/loading/error/page 等特殊文件
+- 理解 \`'use client'\` 的作用
+- 会用 \`<Link>\` 和 \`useRouter\` 导航
+- 知道在 \`route.ts\` 中定义 API 端点
+
+**优秀回答**：
+- 能清晰解释 layout 和 template 的挂载行为差异（持久 vs 重建）
+- 能说明服务端组件的流式渲染原理
+- 知道平行路由多插槽的独立状态管理
+- 理解截取路由的 \`(..)\` 语法匹配规则（基于 URL 层级而非文件层级）
+- 能讨论预获取机制在静态路由和动态路由上的不同行为
+- 理解路由处理程序的缓存行为（GET 默认缓存、revalidate、dynamic 退出缓存）
+- 知道中间件的执行顺序以及在 Edge Runtime 中的限制
+- 能结合 CWV 指标分析数据获取策略
+
+### 11.3 常见追问
+
+1. **App Router 和 Page Router 选哪个？** 新项目推荐 App Router，它拥有更好的性能、更简洁的数据获取方式。Page Router 仅建议在旧项目或需要极简迁移路径时使用。
+2. **layout.tsx 和 template.tsx 的区别是什么？** layout 持久化（导航时不重新挂载），template 每次导航重新创建。layout 适用于导航栏/侧边栏等持久 UI，template 适用于需要重置状态或动画的场景。
+3. **如何实现不同页面不同布局？** 使用路由组 \`(groupName)\`，在同一层级创建多个 layout.tsx。
+4. **服务端组件如何获取数据？** 直接用 \`async/await\`，不需要 useEffect/SWR。可以访问数据库、文件系统、后端 API 等。
+5. **error.tsx 为什么需要 'use client'？** 因为错误处理需要交互（重试按钮、状态重置），需要浏览器端的 useState 和事件处理。
+6. **平行路由什么时候用 default.tsx？** 当一个平行路由插槽在目标 URL 下没有对应的 page.tsx 时，default.tsx 作为降级显示，否则会返回 404。
+7. **route.ts 和 page.tsx 可以在同一目录中共存吗？** 不可以。同一路由段既返回页面又返回 API 响应会导致冲突。应分别放在不同层级或路径。
+8. **路由处理程序的 GET 请求默认缓存吗？** 是的。使用 Response.json() 的 GET 请求在生产环境会被缓存。可以通过 \`export const dynamic = 'force-dynamic'\` 退出缓存，或用 \`revalidate\` 设置缓存时间。
+9. **中间件和 API 路由有什么区别？** 中间件用于请求预处理（鉴权、重定向、header 修改），运行在 Edge Runtime；API 路由（route.ts）用于实际业务逻辑，可以访问 Node.js API 和数据库。
+10. **中间件的 matcher 配置有什么作用？** 限制中间件只对匹配的路径执行，提高性能。应在 matcher 中排除静态资源（_next/static, favicon.ico 等）。
+
+---
+
+## 十二、扩展延伸
+
+### 相关话题
+
+- **[Next.js App Router 完全指南：渲染篇](nextjs-rendering.md)** — 本系列第 2 篇，涵盖渲染类型、RSC、Suspense 与 Streaming、渲染策略、最佳实践
+- **Next.js 数据获取方案** — 本系列第 3 篇（待更新），涵盖 RSC 数据流、Server Actions、缓存策略（ISR、全站缓存、按需重验证）
+- **React Server Components 原理** — 理解 RSC 的序列化协议（RSC Payload）和流式传输是进阶必备
+- **[React 源码核心（Fiber、并发模式）](react-core-source.md)** — App Router 的流式渲染依赖 React 18+ 的 Suspense 和并发特性
+- **[shadcn/ui 使用指南](shadcn-ui-guide.md)** — Next.js + shadcn/ui 是当前主流的技术栈组合
+
+### 延伸思考
+
+- **Next.js v16 的变化**：从 v13 的 App Router 稳定版到 v16，路由体系持续增强，中间件（Middleware）、拦截路由（Intercepting Routes）、平行路由的稳定性大幅提升。
+- **Route Handlers 与 Server Actions**：两者都用于服务端逻辑。Route Handlers 适合创建传统 REST API 给外部客户端调用；Server Actions 更适合表单提交、数据变更后刷新 RSC 数据。Next.js 推荐在 App Router 中优先使用 Server Actions 处理数据变更。
+- **中间件 vs Route Handlers vs Server Actions**：三者的职责边界：中间件做"请求预处理"、Route Handlers 做"对外 API"、Server Actions 做"内部数据操作"。不要把它们的功能混用。
+- **与 Remix 的对比**：同为基于文件系统路由的全栈框架，Remix 更强调 Web 标准（Form、loader/action），Next.js 更强调 React 创新（RSC、Server Actions）。
+- **SSR → SSG → ISR → RSC**：Next.js 的数据获取策略经历了完整的演进，从 getServerSideProps 到 RSC + Server Actions 代表了 React 全栈开发的范式转变。
+`,dn=`---
+title: "Next.js App Router 完全指南：渲染篇"
+category: "React"
+tags: ["Next.js", "App Router", "渲染", "RSC", "SSR", "SSG", "ISR", "Streaming", "Suspense"]
+difficulty: "中等"
+series: "Next.js 从入门到深入"
+seriesPart: 2
+---
+
+# Next.js App Router 完全指南：渲染篇
+
+> 基于 Next.js v16.x（App Router）
+> 配套阅读：[路由篇](nextjs-app-router.md)
+
+## 一、渲染类型概览
+
+### 1.1 四种渲染方式
+
+Next.js 提供了四种不同的渲染方式，覆盖了从静态站点到动态内容的全部场景：
+
+| 渲染方式 | 英文 | 数据获取时机 | 输出内容 | 适用场景 |
+|---------|------|-------------|---------|---------|
+| **CSR** | Client-Side Rendering | 浏览器端 | 空 HTML + JS 加载后渲染 | 仪表盘、管理后台 |
+| **SSR** | Server-Side Rendering | 每次请求（服务端） | 服务端渲染完整 HTML | 动态内容、SEO 重要页面 |
+| **SSG** | Static Site Generation | 构建时 | 预先生成静态 HTML | 博客、文档站、营销页面 |
+| **ISR** | Incremental Static Regeneration | 构建时 + 按需 | 静态 HTML + 后台更新 | 电商商品页、新闻站 |
+
+\`\`\`mermaid
+graph LR
+    subgraph "数据获取时机"
+        A[构建时] -->|SSG/ISR| B[静态 HTML]
+        C[请求时] -->|SSR| D[动态 HTML]
+        E[浏览器端] -->|CSR| F[JS 渲染]
+    end
+    
+    B --> G[CDN 缓存]
+    D --> H[服务端响应]
+    F --> I[客户端渲染]
+\`\`\`
+
+### 1.2 CSR —— 客户端渲染
+
+**传统 SPA 模式**：服务端返回空的 HTML 骨架，所有内容依赖浏览器下载并执行 JavaScript 后进行渲染。
+
+\`\`\`tsx
+// 传统 CSR 模式（非 Next.js 特有）
+// 1. 浏览器请求页面 → 返回空 HTML
+// 2. 浏览器下载并解析 JS Bundle
+// 3. JS 执行，React 挂载，渲染真实内容
+// 4. 数据通过 API 获取（useEffect + fetch）
+
+function Dashboard() {
+  const [data, setData] = useState(null);
+  
+  useEffect(() => {
+    fetch('/api/dashboard')
+      .then(res => res.json())
+      .then(setData);
+  }, []);
+  
+  if (!data) return <Loading />;
+  return <DashboardView data={data} />;
+}
+\`\`\`
+
+**CSR 的优缺点：**
+
+| 维度 | 评价 |
+|------|------|
+| **首屏加载** | ❌ 慢（需要下载 JS → 执行 → 请求数据） |
+| **SEO** | ❌ 差（爬虫看不到内容） |
+| **服务端负载** | ✅ 低（静态文件托管即可） |
+| **交互体验** | ✅ 路由切换流畅（SPA） |
+| **Next.js 中的使用** | \`'use client'\` + 客户端数据获取 |
+
+> **Next.js 中的 CSR**：在 App Router 中，如果你刻意在客户端组件中用 \`useEffect + fetch\` 获取数据，就是 CSR 模式。但 Next.js 推荐优先使用服务端渲染能力，避免纯 CSR。
+
+### 1.3 SSR —— 服务端渲染
+
+**每次请求都在服务端渲染 HTML**：用户请求时，服务端获取数据、渲染组件、生成完整 HTML 返回浏览器。
+
+\`\`\`tsx
+// Next.js App Router 中的 SSR（默认动态渲染）
+// app/products/[id]/page.tsx
+
+export default async function ProductPage({ params }: { params: { id: string } }) {
+  // 每次请求都会执行（不会缓存）
+  const product = await fetch(\`https://api.example.com/products/\${params.id}\`, {
+    cache: 'no-store', // 强制不缓存 → SSR 行为
+  }).then(res => res.json());
+
+  return (
+    <div>
+      <h1>{product.name}</h1>
+      <p>{product.description}</p>
+      <PriceTag price={product.price} />
+    </div>
+  );
+}
+\`\`\`
+
+**SSR 在 App Router 中的实现方式：**
+
+\`\`\`typescript
+// 方式 1：使用 fetch 的 cache: 'no-store'
+fetch(url, { cache: 'no-store' });
+
+// 方式 2：使用动态函数（cookies、headers、searchParams）
+export default async function Page() {
+  const cookieStore = await cookies(); // 触发动态渲染
+  const data = await fetch(url);       // 不再缓存
+  return <div>{data}</div>;
+}
+
+// 方式 3：路由段配置
+export const dynamic = 'force-dynamic';
+
+// 方式 4：revalidate = 0
+export const revalidate = 0;
+\`\`\`
+
+**SSR 的优缺点：**
+
+| 维度 | 评价 |
+|------|------|
+| **SEO** | ✅ 好（服务端返回完整 HTML） |
+| **首屏加载** | ✅ 快（HTML 已包含内容） |
+| **数据实时性** | ✅ 每次请求最新数据 |
+| **服务端负载** | ❌ 高（每个请求都需渲染） |
+| **TTFB** | ❌ 较长（等待服务端渲染完） |
+
+> **面试关键词**：SSR 不等同于 App Router 的默认渲染模式。在 App Router 中，默认是**静态渲染**（尽可能缓存），只有用了动态 API 或 \`dynamic='force-dynamic'\` 才会变成 SSR。
+
+### 1.4 SSG —— 静态站点生成
+
+**构建时生成所有页面**：在 \`next build\` 时一次性渲染所有页面，输出静态 HTML。
+
+\`\`\`tsx
+// app/blog/[slug]/page.tsx — SSG
+
+// 1. 构建时生成所有可能的路径
+export async function generateStaticParams() {
+  const posts = await fetch('https://api.example.com/posts').then(res => res.json());
+  
+  return posts.map(post => ({
+    slug: post.slug,
+  }));
+  // 构建时生成：/blog/hello-world, /blog/react-guide, ...
+}
+
+// 2. 构建时获取数据并渲染
+export default async function BlogPost({ params }: { params: { slug: string } }) {
+  // 默认缓存行为（force-cache）→ 构建时获取一次
+  const post = await fetch(\`https://api.example.com/posts/\${params.slug}\`).then(res => res.json());
+
+  return (
+    <article>
+      <h1>{post.title}</h1>
+      <div>{post.content}</div>
+    </article>
+  );
+}
+\`\`\`
+
+**SSG 的触发条件：**
+
+\`\`\`typescript
+// SSG 是默认行为，当满足以下条件时：
+// 1. 页面没有使用动态 API（cookies、headers、searchParams）
+// 2. fetch 请求默认使用 force-cache
+// 3. 没有 export const dynamic = 'force-dynamic'
+// 4. 定义了 generateStaticParams（明确静态生成）
+// 5. 或者路由在构建时可完整确定
+
+// 查看构建输出：
+// λ  (Server)     → 动态渲染（SSR）
+// ○  (Static)     → 自动静态生成（自动 SSG）
+// ●  (SSG)        → 手动静态生成（有 generateStaticParams）
+\`\`\`
+
+**SSG 的优缺点：**
+
+| 维度 | 评价 |
+|------|------|
+| **速度** | ✅ 极快（CDN 直接返回 HTML） |
+| **SEO** | ✅ 好 |
+| **服务端负载** | ✅ 几乎为零（纯静态） |
+| **实时性** | ❌ 差（构建后内容不会变） |
+| **内容量** | ❌ 大量页面构建时间增长 |
+
+> **面试关键词**：App Router 中即使没有 \`generateStaticParams\`，只要页面是静态的（没有动态 API），Next.js 构建时也会自动尝试静态生成（显示 ○ Static）。
+
+### 1.5 ISR —— 增量静态再生
+
+**在 SSG 的基础上，以时间间隔或按需方式重新生成页面**：首次构建时生成静态页面，之后根据配置的时间间隔（\`revalidate\`）或在特定事件触发时，在后台重新生成新版本。
+
+\`\`\`tsx
+// app/products/[id]/page.tsx — ISR
+
+// 方式 1：基于时间的 ISR（revalidate）
+export default async function ProductPage({ params }: { params: { id: string } }) {
+  const product = await fetch(\`https://api.example.com/products/\${params.id}\`, {
+    next: { revalidate: 60 }, // 最多缓存 60 秒
+  }).then(res => res.json());
+
+  return (
+    <div>
+      <h1>{product.name}</h1>
+      <p>价格: ¥{product.price}</p>
+    </div>
+  );
+}
+
+// 方式 2：路由段级别 revalidate
+export const revalidate = 60; // 该页面所有数据至少缓存 60 秒
+\`\`\`
+
+\`\`\`typescript
+// 方式 3：按需重新验证（On-Demand ISR）—— 推荐
+import { revalidatePath, revalidateTag } from 'next/cache';
+
+// 在 Server Action 或 Route Handler 中触发
+export async function updateProduct(formData: FormData) {
+  'use server';
+  
+  // 更新数据库中的商品
+  await db.product.update(formData);
+  
+  // 方式 A：按路径重新验证
+  revalidatePath(\`/products/\${formData.get('id')}\`);
+  
+  // 方式 B：按标签重新验证（更精准）
+  revalidateTag('products');
+}
+
+// 配合 fetch 使用标签
+export default async function ProductPage({ params }: { params: { id: string } }) {
+  const product = await fetch(\`https://api.example.com/products/\${params.id}\`, {
+    next: { 
+      tags: ['products'], // 打标签
+    },
+  }).then(res => res.json());
+  
+  return <div>...</div>;
+}
+\`\`\`
+
+**ISR 的工作原理：**
+
+\`\`\`
+第一次请求 /products/1（构建时或首次访问时）
+    │
+    ▼
+服务端渲染 HTML，缓存，返回给客户端
+    │
+    ▼
+60 秒内再次请求 /products/1
+    │
+    ▼
+直接返回缓存的 HTML（立即响应）
+    │
+    ▼
+60 秒后的第一个请求
+    │
+    ▼
+返回旧缓存（stale）同时后台触发重新渲染
+    │
+    ▼
+新 HTML 生成后替换缓存（下次请求得到新内容）
+\`\`\`
+
+**ISR 的优缺点：**
+
+| 维度 | 评价 |
+|------|------|
+| **速度** | ✅ 快（CDN 缓存命中时） |
+| **实时性** | ✅ 较好（后台异步更新） |
+| **服务端负载** | ✅ 低（只在需要时重新生成） |
+| **构建速度** | ✅ 快（不需要构建所有页面） |
+| **复杂度** | ❌ 中等（需理解 stale-while-revalidate 模型） |
+
+**四种渲染方式的对比总结：**
+
+\`\`\`
+                构建时                    请求时                    浏览器
+                │                        │                        │
+SSG     ● ──────► 生成静态 HTML ────────► CDN 直接返回 ──────────► ▲ 极快
+                │                        │                        │
+ISR     ● ──────► 生成静态 HTML ────────► CDN 返回 + 后台更新 ───► ▲ 快
+                │                        │                        │
+SSR             │               ────────► 服务端渲染返回 ────────► ▲ 实时
+                │                        │                        │
+CSR             │                        │          ─────────────► ▼ 需加载 JS
+                │                        │                        │
+\`\`\`
+
+---
+
+## 二、React Server Components（RSC）
+
+### 2.1 什么是 RSC
+
+**React Server Components（RSC）是 React 18+ 引入的一种新型组件范式**，组件默认在服务端运行，输出一种特殊的序列化格式（RSC Payload）而非传统 HTML。
+
+RSC 是理解 Next.js App Router 整个渲染体系的**核心概念**——它是 App Router 区别于 Page Router 的根本原因。
+
+\`\`\`typescript
+// 传统认知误区：
+// ❌ "RSC = SSR" —— 完全错误
+// ❌ "RSC 就是服务端渲染" —— 不是一回事
+// ✅ "RSC 是一种在服务端运行的 React 组件，输出的是组件树描述（RSC Payload），而非 HTML"
+
+// SSR：React 组件 → HTML 字符串（传统服务端渲染）
+// RSC：React 组件 → RSC Payload（JSON-like 的虚拟 DOM 描述）
+\`\`\`
+
+### 2.2 RSC Payload —— 服务端组件的输出
+
+RSC 在服务端运行后，输出的不是 HTML，而是一种称为 **RSC Payload** 的特殊数据结构。
+
+\`\`\`typescript
+// RSC Payload 的结构（简化示意）
+// 它是一个压缩的、可流式传输的数据格式，包含：
+// 1. 服务端组件的渲染结果（虚拟 DOM 树描述）
+// 2. 客户端组件的"占位符"（"这里放一个客户端组件"的标记）
+// 3. 从服务端传递到客户端组件的 props
+// 4. 引用的 JavaScript 文件地址
+
+// 伪代码示意 RSC Payload：
+{
+  // 服务端已渲染的内容（直接可用）
+  html: '<header><h1>欢迎回来，小明</h1></header>',
+  
+  // 客户端组件的占位标记
+  placeholders: [
+    { id: 'c1', module: '/components/LikeButton.js', props: { postId: '123' } },
+    { id: 'c2', module: '/components/CommentForm.js', props: {} },
+  ],
+  
+  // Suspense 边界
+  suspense: [
+    { id: 's1', fallback: '<div>加载中...</div>' },
+  ],
+}
+\`\`\`
+
+**RSC Payload vs HTML 的关键区别：**
+
+| 维度 | SSR（HTML） | RSC Payload |
+|------|------------|-------------|
+| **格式** | HTML 字符串 | 序列化数据结构 |
+| **客户端恢复** | Hydration（水合） | 直接引用，无需水合 |
+| **流式传输** | ❌ 不支持 | ✅ 原生支持 |
+| **客户端组件** | 需完整 JS Bundle | 仅引用模块路径 |
+| **状态保持** | 水合后恢复 | 天然保持 |
+
+### 2.3 RSC 的核心价值
+
+\`\`\`typescript
+// 1. 零客户端 JS 体积
+// 服务端组件渲染的内容不会打包到客户端的 JS Bundle 中
+
+// ❌ 传统做法（所有组件都发到客户端）：
+import MarkdownRenderer from 'react-markdown';
+import SyntaxHighlighter from 'react-syntax-highlighter';
+
+// ✅ RSC 做法（仅在服务端运行，客户端零开销）：
+// app/blog/[slug]/page.tsx — 这是 Server Component（默认）
+import MarkdownRenderer from 'react-markdown';    // 不进入客户端 Bundle
+import SyntaxHighlighter from 'react-syntax-highlighter'; // 不进入客户端 Bundle
+
+export default async function BlogPost({ params }: { params: { slug: string } }) {
+  const content = await getContent(params.slug);
+  return <MarkdownRenderer content={content} />;  // 服务端渲染成 HTML，客户端看不到这些 import
+}
+
+// 2. 直接访问后端资源
+export default async function Page() {
+  const data = await db.query('SELECT * FROM users'); // 直接查数据库
+  const file = await fs.readFile('data.json', 'utf-8'); // 直接读文件系统
+  return <div>{data}</div>;
+}
+
+// 3. 自动代码分割
+// 服务端组件天然按组件粒度分割，无需 React.lazy()
+\`\`\`
+
+### 2.4 RSC 与 SSR 的协同
+
+**RSC 和 SSR 不是替代关系，而是协同关系**。在 Next.js App Router 中，两者配合工作的流程：
+
+\`\`\`
+请求进入
+    │
+    ▼
+┌─────────────────────────────────────────────────────────┐
+│ ① React Server Components（RSC）阶段                      │
+│    ├── 运行服务端组件（async/await 获取数据）                │
+│    └── 输出 RSC Payload（描述组件树的结构数据）              │
+└─────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────┐
+│ ② React Server Rendering（SSR）阶段                      │
+│    ├── 读取 RSC Payload                                  │
+│    └── 将 RSC Payload 渲染为 HTML（首次请求优化）           │
+└─────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────┐
+│ ③ 浏览器接收                                            │
+│    ├── 接收 HTML（立即显示内容）                           │
+│    └── 接收 RSC Payload（客户端 Recovery/水合）            │
+└─────────────────────────────────────────────────────────┘
+\`\`\`
+
+\`\`\`typescript
+// 关键理解：
+// - RSC：解决的是"减少客户端 JS 体积"和"直接访问后端"的问题
+// - SSR：解决的是"首屏 HTML"的问题（让爬虫和用户立即看到内容）
+// - 两者结合：既减少 JS 体积，又有完整的首屏 HTML
+
+// Next.js App Router 的渲染管线：
+// 服务端组件（RSC）→ RSC Payload → SSR 生成 HTML → 发送到客户端
+//                                                     →
+//                                            客户端接收 HTML（首屏）
+//                                            客户端接收 RSC Payload（恢复交互）
+\`\`\`
+
+> **面试加分**：RSC 是 React 团队推动的范式变革——它从根本上改变了"组件一定在客户端运行"的假设。理解 RSC Payload 的序列化机制，可以帮助你更好地理解 Suspense 和 Streaming 的工作方式。
+
+---
+
+## 三、服务端组件与客户端组件
+
+### 3.1 核心对比
+
+| 维度 | 服务端组件（默认） | 客户端组件（'use client'） |
+|------|------------------|------------------------|
+| **声明方式** | 无需声明（默认） | 文件顶部 \`'use client'\` |
+| **渲染环境** | 服务端 | 客户端（浏览器） |
+| **数据获取** | 直接 \`async/await\` | useEffect / SWR / TanStack Query |
+| **React Hooks** | ❌ 不可用 | ✅ 全部可用 |
+| **事件处理** | ❌ 不可用 | ✅ onClick / onSubmit 等 |
+| **状态管理** | ❌ 不可用 | ✅ useState / useReducer |
+| **副作用** | ❌ 不可用 | ✅ useEffect / useLayoutEffect |
+| **浏览器 API** | ❌ 不可用 | ✅ window / document / localStorage |
+| **客户端 JS 体积** | ✅ 零 | ❌ 包含所有依赖 |
+| **数据库/文件系统** | ✅ 直接访问 | ❌ 必须通过 API |
+
+### 3.2 组件树的分界
+
+\`\`\`tsx
+// 理解"分界"（Boundary）是关键——
+// 'use client' 定义了一个分界线，分界线之下的所有组件都是客户端组件
+
+// app/page.tsx — Server Component（默认）
+export default async function HomePage() {
+  const posts = await getPosts(); // 服务端获取数据
+
+  return (
+    <div>
+      <h1>博客站点</h1>
+      {posts.map(post => (
+        <PostCard key={post.id} post={post} />
+      ))}
+      <LikeButton /> {/* ← 这是客户端组件 */}
+    </div>
+  );
+}
+\`\`\`
+
+\`\`\`tsx
+// components/LikeButton.tsx — Client Component
+'use client';
+
+import { useState } from 'react';
+
+export default function LikeButton() {
+  const [liked, setLiked] = useState(false);
+  
+  return (
+    <button onClick={() => setLiked(!liked)}>
+      {liked ? '❤️' : '🤍'}
+    </button>
+  );
+}
+\`\`\`
+
+\`\`\`
+渲染分界图：
+
+ServerComponent（page.tsx — 服务端）
+│
+├── ServerChild（自动继承服务端）
+│   └── ServerGrandChild
+│
+├── ClientComponent（'use client' 分界） ← 自此以下全在客户端
+│   ├── ClientChild（自动客户端）
+│   │   └── ClientGrandChild
+│   └── ClientChild2
+│
+└── ServerChild2（仍在服务端）
+\`\`\`
+
+### 3.3 服务端组件向客户端组件传递 props
+
+服务端组件可以将数据作为 props 传给客户端组件，这是串联两端的主要桥梁：
+
+\`\`\`tsx
+// 服务端组件（获取数据）→ 客户端组件（渲染交互）
+// app/page.tsx — Server Component
+export default async function Page() {
+  // 服务端获取数据
+  const products = await getProducts();
+  const user = await getCurrentUser();
+
+  return (
+    <div>
+      {/* 数据通过 props 传递给客户端组件 */}
+      <ProductList 
+        products={products}      // ✅ 可序列化的数据才能传递
+        userName={user.name}     // ✅ 字符串没问题
+        onBuy={handleBuy}        // ❌ 函数不能从服务端传到客户端
+      />
+    </div>
+  );
+}
+\`\`\`
+
+\`\`\`tsx
+'use client';
+// components/ProductList.tsx — Client Component
+
+export default function ProductList({ 
+  products, 
+  userName 
+}: { 
+  products: Product[]; 
+  userName: string;
+}) {
+  const [cart, setCart] = useState<string[]>([]);
+
+  return (
+    <div>
+      <p>欢迎，{userName}</p> {/* 使用服务端传来的数据 */}
+      {products.map(p => (
+        <div key={p.id}>
+          <span>{p.name}</span>
+          <button onClick={() => setCart([...cart, p.id])}>
+            加入购物车
+          </button>
+        </div>
+      ))}
+    </div>
+  );
+}
+\`\`\`
+
+**序列化限制——从服务端传到客户端的数据必须是可序列化的：**
+
+\`\`\`typescript
+// ✅ 可以传递：
+// - string, number, boolean, null, undefined
+// - 普通对象、数组
+// - Date（会被序列化为字符串）
+// - Map, Set, BigInt（支持有限）
+
+// ❌ 不能传递：
+// - Function
+// - Class 实例
+// - Symbol
+// - React 组件（不能传组件本身作为值）
+// - 循环引用的对象
+\`\`\`
+
+### 3.4 'use client' 的放置策略
+
+\`\`\`typescript
+// 策略 1：尽可能靠下 —— 只在叶子组件使用 'use client'
+
+// ✅ 推荐：只有需要交互的按钮才是客户端组件
+// app/products/page.tsx — Server Component
+// components/AddToCartButton.tsx — Client Component
+
+// ❌ 不推荐：整个页面标记为客户端组件
+// 'use client'  ← 只为了用 onClick 就把整个页面变成客户端组件？
+// 那会失去 RSC 的所有优势！
+
+// 策略 2：服务端组件负责数据获取和布局，客户端组件负责交互
+//
+// 服务端组件：page.tsx — 获取数据、布局、SEO
+// └── 客户端组件：InteractiveSection — 用户交互、状态管理
+//     └── 客户端组件：Button — 事件处理
+//
+// 策略 3：用"包裹模式"将客户端组件封装为独立文件
+// components/
+// ├── wrapper/
+// │   ├── ClientButton.tsx    ← 'use client'
+// │   └── ClientSlider.tsx    ← 'use client'
+// └── page/
+//     ├── HeroSection.tsx     ← Server Component（引用上面的 wrapper）
+//     └── ProductGrid.tsx     ← Server Component
+\`\`\`
+
+### 3.5 Server-Only 与 Client-Only 的注意事项
+
+\`\`\`typescript
+// 服务端组件不能用的（运行时限制）：
+import { useState } from 'react';               // ❌
+import { useEffect } from 'react';              // ❌
+import { useContext } from 'react';             // ❌
+import { useRouter } from 'next/navigation';     // ❌
+import { usePathname } from 'next/navigation';   // ❌
+
+// 客户端组件不能用的（打包限制）：
+import { readFileSync } from 'fs';              // ❌ 浏览器无 fs
+import { db } from '@/lib/db';                   // ❌ 客户端无数据库
+import { headers } from 'next/headers';          // ❌ 客户端无 headers
+import { revalidatePath } from 'next/cache';     // ❌ 客户端无缓存控制
+\`\`\`
+
+> **面试加分**：面试中常问"服务端组件能不能用 useContext"——答案是**部分场景不能**。React Context 依赖于组件树在客户端运行时提供，而服务端组件不会在客户端运行。但如果 context 是纯服务端的（如 Server Context），理论上可以，不过 React 目前没有正式支持。
+
+---
+
+## 四、Suspense 与 Streaming
+
+### 4.1 Suspense 基础
+
+Suspense 是 React 18+ 提供的**声明式加载状态处理机制**。在 App Router 中，它被深度集成到路由系统中。
+
+\`\`\`tsx
+// 基础用法：用 Suspense 包裹异步组件
+import { Suspense } from 'react';
+
+export default function DashboardPage() {
+  return (
+    <div>
+      <h1>控制台</h1>
+      
+      {/* 在 UserProfile 加载完成前，显示 LoadingSkeleton */}
+      <Suspense fallback={<LoadingSkeleton />}>
+        <UserProfile />      {/* 这是一个 async 服务端组件 */}
+      </Suspense>
+      
+      {/* 多个 Suspense 边界彼此独立 */}
+      <Suspense fallback={<CardSkeleton />}>
+        <RecentOrders />
+      </Suspense>
+    </div>
+  );
+}
+
+// UserProfile 是一个 async 服务端组件
+async function UserProfile() {
+  const user = await fetch('https://api.example.com/user').then(res => res.json());
+  // 这个 await 会触发 Suspense 边界展示 fallback
+  return <div>{user.name} 的档案</div>;
+}
+\`\`\`
+
+**Suspense 的渲染流程：**
+
+\`\`\`
+页面加载
+    │
+    ▼
+┌─────────────────────────────────────────┐
+│ layout.tsx 渲染完毕                      │
+├─────────────────────────────────────────┤
+│ loading.tsx（页面级 Suspense fallback）   │
+│  ┌──────────────────────────────────┐   │
+│  │ <Suspense fallback={骨架屏}>      │   │
+│  │   ┌────────────────────────┐    │   │
+│  │   │ UserProfile（loading）   │    │   │
+│  │   └────────────────────────┘    │   │
+│  │ </Suspense>                     │   │
+│  │                                  │   │
+│  │ <Suspense fallback={骨架屏}>      │   │
+│  │   ┌────────────────────────┐    │   │
+│  │   │ RecentOrders（loading）  │    │   │
+│  │   └────────────────────────┘    │   │
+│  │ </Suspense>                     │   │
+│  └──────────────────────────────────┘   │
+└─────────────────────────────────────────┘
+
+UserProfile 数据就绪 →
+    │
+    ▼
+┌─────────────────────────────────────────┐
+│ UserProfile 内容替换骨架屏                │
+│ RecentOrders 仍在加载（继续显示骨架屏）    │
+└─────────────────────────────────────────┘
+
+RecentOrders 数据就绪 →
+    │
+    ▼
+┌─────────────────────────────────────────┐
+│ 所有组件加载完毕                          │
+└─────────────────────────────────────────┘
+\`\`\`
+
+### 4.2 loading.tsx —— 路由级的 Suspense
+
+\`loading.tsx\` 是 App Router 对 Suspense 的**路由级封装**，它会自动包裹当前层级的 \`page.tsx\` 在一个 Suspense 边界中。
+
+\`\`\`tsx
+// app/dashboard/loading.tsx
+// 自动成为 app/dashboard/page.tsx 的 Suspense fallback
+
+export default function DashboardLoading() {
+  return (
+    <div className="animate-pulse">
+      <div className="h-8 bg-gray-200 rounded w-1/3 mb-4" />
+      <div className="h-32 bg-gray-200 rounded mb-2" />
+      <div className="h-32 bg-gray-200 rounded mb-2" />
+    </div>
+  );
+}
+\`\`\`
+
+**loading.tsx 的限制：**
+
+\`\`\`typescript
+// loading.tsx 覆盖的是整个 page.tsx
+// 如果页面中有多个独立数据源，loading.tsx 会让所有内容一起等待
+// 解决方案：在 page.tsx 中使用多个 Suspense 边界实现"渐进式加载"
+
+// ✅ 推荐：在 page.tsx 中精细控制
+export default function Page() {
+  return (
+    <div>
+      <h1>页面标题（立即显示）</h1>
+      
+      <Suspense fallback={<ProfileSkeleton />}>
+        <SlowProfile />
+      </Suspense>
+      
+      <Suspense fallback={<ListSkeleton />}>
+        <SlowList />
+      </Suspense>
+    </div>
+  );
+}
+
+// ❌ loading.tsx 只能整体 fallback
+// app/dashboard/loading.tsx — 整个页面替换为骨架
+\`\`\`
+
+### 4.3 Streaming —— 流式传输
+
+**Streaming（流式传输）** 是 Suspense 在传输层的延伸。服务端**边渲染边发送**，浏览器**边接收边显示**，无需等待所有数据就绪。
+
+\`\`\`typescript
+// 传统 SSR：一次性返回（所有数据就绪才发送）
+// 请求 → 等 A 数据 → 等 B 数据 → 等 C 数据 → 完整 HTML → 浏览器显示
+
+// Streaming SSR：流式返回（谁先就绪谁先发送）
+// 请求 → A 就绪 → 发送 A → B 就绪 → 发送 B → C 就绪 → 发送 C
+//         浏览器立即显示 A → 追加 B → 追加 C
+\`\`\`
+
+**Streaming 在 Next.js 中的实现：**
+
+\`\`\`tsx
+// app/dashboard/page.tsx
+// Suspense 边界天然成为流式传输的"块"
+
+import { Suspense } from 'react';
+
+export default function DashboardPage() {
+  return (
+    <div>
+      {/* 这部分不是 Suspense → 先发送（阻塞内容） */}
+      <h1>控制台</h1>
+      <nav>导航栏</nav>
+      
+      {/* 每个 Suspense 块独立流式传输 */}
+      <Suspense fallback={<div>用户信息加载中...</div>}>
+        <UserProfile />     {/* 流式块 1 */}
+      </Suspense>
+      
+      <Suspense fallback={<div>订单加载中...</div>}>
+        <RecentOrders />    {/* 流式块 2 */}
+      </Suspense>
+      
+      <Suspense fallback={<div>推荐加载中...</div>}>
+        <Recommendations /> {/* 流式块 3 */}
+      </Suspense>
+    </div>
+  );
+}
+\`\`\`
+
+**Streaming 的视觉呈现效果：**
+
+\`\`\`
+时间线 →
+─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────
+     │     │     │     │     │     │     │     │     │     │     │
+     │     │     │     │     │     │     │     │     │     │     │
+   [导航栏]                                                     T=0.1s
+   [用户骨架]  [订单骨架]  [推荐骨架]                               T=0.1s
+     │     │     │     │     │     │     │     │     │     │     │
+   [用户信息  │     │     │     │     │     │     │     │     │  T=0.5s
+   👤 张三]    │     │     │     │     │     │     │     │     │
+     │     │     │     │     │     │     │     │     │     │     │
+   [用户信息] [订单列表  │     │     │     │     │     │     │  T=0.8s
+              📦 订单1]  │     │     │     │     │     │     │
+     │     │     │     │     │     │     │     │     │     │     │
+   [用户信息] [订单列表] [推荐内容  │     │     │     │     │  T=1.2s
+                         🎯 推荐A]  │     │     │     │     │
+     │     │     │     │     │     │     │     │     │     │     │
+   ───── 页面完整渲染完毕 ─────                                     T=1.2s
+\`\`\`
+
+### 4.4 Streaming 的优势
+
+| 维度 | 传统 SSR | Streaming SSR |
+|------|----------|---------------|
+| **TTFB** | 慢（需等所有数据就绪） | 快（第一时间发送非 Suspense 内容） |
+| **FCP** | 中等 | 快（尽早看到部分内容） |
+| **LCP** | 慢（最慢数据决定） | 快（各自独立，逐个呈现） |
+| **用户体验** | 白屏 → 完整页面 | 渐进呈现 → 感觉更快 |
+| **服务端资源** | 高（一次性计算） | 中等（逐步释放） |
+
+\`\`\`typescript
+// Next.js 中 Streaming 的配置
+// 默认在 App Router 中已启用
+
+// next.config.ts — 可选的 Streaming 相关配置
+const nextConfig = {
+  // Streaming 默认开启（无需额外配置）
+  // 以下是一些可能相关的性能选项
+  experimental: {
+    // ... 大部分 streaming 相关选项已在 v16 默认
+  },
+};
+
+module.exports = nextConfig;
+\`\`\`
+
+> **面试加分**：Streaming 的实现依赖于 React 18 的 \`renderToPipeableStream\`（Node.js）或 \`renderToReadableStream\`（Edge），替代了传统的 \`renderToString\`。这是 React 团队同时推进 RSC 和并发模式的结果。
+
+---
+
+## 五、服务端渲染策略
+
+### 5.1 三种渲染策略
+
+Next.js App Router 提供了三种服务端渲染策略，从性能优先到实时性优先排列：
+
+| 策略 | 数据获取时机 | 缓存行为 | 适合场景 |
+|------|-------------|---------|---------|
+| **静态渲染（Static）** | 构建时（或 ISR 时） | 全缓存 | 内容型、营销页面 |
+| **动态渲染（Dynamic）** | 每次请求时 | 不缓存 | 个性化、实时数据 |
+| **Streaming** | 分段渲染发送 | 配合 Suspense | 复杂页面、多数据源 |
+
+**这三种策略可以在同一个应用中混合使用**，甚至在同一个页面的不同组件中：
+
+\`\`\`tsx
+// 同一个页面中混合多种策略
+export default async function Page() {
+  return (
+    <div>
+      {/* 静态部分：构建时生成 */}
+      <StaticHeader />
+      
+      {/* 动态部分：每次请求渲染 */}
+      <Suspense fallback={<Loading />}>
+        <UserSpecificContent />
+      </Suspense>
+      
+      {/* Streaming 部分：独立流式发送 */}
+      <Suspense fallback={<SlowLoading />}>
+        <SlowApiComponent />
+      </Suspense>
+    </div>
+  );
+}
+\`\`\`
+
+### 5.2 静态渲染（Static Rendering）
+
+**静态渲染是 App Router 的默认行为**。没有使用动态 API 的路由段，在构建时自动渲染为静态内容。
+
+\`\`\`typescript
+// 触发静态渲染的条件（全部满足）：
+// 1. 没有使用 cookies() / headers() 等动态函数
+// 2. 没有使用 searchParams 等动态数据
+// 3. fetch 请求没有明确使用 cache: 'no-store'
+// 4. 路由段没有声明 dynamic = 'force-dynamic'
+
+// 静态渲染示例：
+export default async function AboutPage() {
+  // fetch 默认使用 force-cache（构建时请求一次）
+  const team = await fetch('https://api.example.com/team').then(res => res.json());
+
+  return (
+    <div>
+      <h1>关于我们</h1>
+      {team.members.map(m => <MemberCard key={m.id} member={m} />)}
+    </div>
+  );
+}
+// 构建输出：● /about（静态）
+\`\`\`
+
+**静态渲染的构建输出标识：**
+
+\`\`\`
+● /about                    → SSG（手动或自动静态生成）
+○ /about                    → 自动静态（无动态 API）
+λ /about                    → 动态渲染（有动态 API 或 force-dynamic）
+\`\`\`
+
+### 5.3 动态渲染（Dynamic Rendering）
+
+**动态渲染在每个请求时执行**，返回最新数据。
+
+\`\`\`typescript
+// 触发动态渲染的方式：
+
+// 方式 1：使用动态 API
+export default async function Page() {
+  const cookieStore = await cookies();      // → 动态
+  // 或
+  const headersList = await headers();       // → 动态
+  // 或
+  const { searchParams } = await params;     // → 动态（在动态路由中使用 params）
+  
+  return <div>动态内容</div>;
+}
+
+// 方式 2：fetch 使用 no-store
+export default async function Page() {
+  const data = await fetch('https://api.example.com/data', {
+    cache: 'no-store',                        // → 动态
+  });
+  return <div>...</div>;
+}
+
+// 方式 3：fetch 使用 next: { revalidate: 0 }
+export default async function Page() {
+  const data = await fetch('https://api.example.com/data', {
+    next: { revalidate: 0 },                  // → 动态（等同于 no-store）
+  });
+  return <div>...</div>;
+}
+
+// 方式 4：路由段配置
+export const dynamic = 'force-dynamic';
+// 或
+export const revalidate = 0;
+
+// 方式 5：使用 unstable_noStore
+import { unstable_noStore as noStore } from 'next/cache';
+
+export default async function Page() {
+  noStore();                                   // → 退出静态缓存
+  const data = await fetch('https://api.example.com/data');
+  return <div>...</div>;
+}
+\`\`\`
+
+**动态渲染的"动态传播"：**
+
+\`\`\`typescript
+// 关键理解：任何一个动态 API 的使用，会使其上游所有组件变成动态渲染
+// 但不会影响兄弟组件
+
+// app/layout.tsx — 默认静态
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return <html><body>{children}</body></html>;
+}
+
+// app/page.tsx — 动态（因为有 dynamic = 'force-dynamic'）
+export const dynamic = 'force-dynamic';
+
+export default async function HomePage() {
+  const data = await getLatestData(); // 每次请求都拉取最新数据
+  return <div>{data}</div>;
+}
+
+// 根 layout 仍然是静态的！
+// 只有 page.tsx 及其子树是动态渲染
+// ↓ 动态向子树方向传播，不向父级传播
+\`\`\`
+
+### 5.4 Partial Prerendering（PPR）—— 部分预渲染
+
+PPR 是 Next.js 正在实验的功能，**允许在一个页面上同时存在静态内容和动态内容**，将静态部分在构建时预渲染，动态部分在请求时实时渲染。
+
+\`\`\`tsx
+// PPR（实验性）—— 同一个页面的静态 + 动态组合
+
+// next.config.ts
+const nextConfig = {
+  experimental: {
+    ppr: true, // 启用 PPR
+  },
+};
+
+// app/product-page/page.tsx
+export default async function ProductPage() {
+  return (
+    <div>
+      {/* 静态外壳：在构建时预渲染 */}
+      <header>
+        <nav>主导航</nav>
+      </header>
+      
+      {/* Suspense 边界内的动态内容：请求时渲染 */}
+      <Suspense fallback={<ProductSkeleton />}>
+        <ProductGrid />  {/* 动态 */}
+      </Suspense>
+      
+      {/* 静态页脚 */}
+      <footer>
+        © 2024 公司信息
+      </footer>
+    </div>
+  );
+}
+\`\`\`
+
+\`\`\`typescript
+// PPR 的工作原理：
+// 1. 构建时：渲染所有非 Suspense 包裹的内容（静态外壳）
+// 2. 请求时：Streaming 渲染 Suspense 内的动态内容
+// 3. 最终呈现：静态外壳 + 动态内容流式填充
+
+// 可以理解为 PPR = SSG（静态外壳）+ Streaming（动态填充）
+\`\`\`
+
+> **面试加分**：PPR（部分预渲染）是 Next.js 渲染策略的最终形态——它消除了"全静态"或"全动态"的二元选择，让开发者可以精确控制页面的哪些部分预渲染、哪些部分实时更新。目前（v16）仍是实验性功能，但代表了前端渲染的未来方向。
+
+---
+
+## 六、组件渲染原理
+
+### 6.1 App Router 的整体渲染流程
+
+\`\`\`
+浏览器请求 /
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────────┐
+│ ① 服务端接收请求                                                   │
+│    ├── 中间件（middleware.ts）拦截处理                               │
+│    └── 匹配路由（app/page.tsx）                                    │
+└─────────────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────────┐
+│ ② RSC 阶段（React Server Components）                            │
+│    ├── 渲染根 layout.tsx（同步部分）                               │
+│    ├── 遇到 Suspense 边界 → 先发 fallback                          │
+│    ├── 执行 async 组件 → 等待异步数据                                │
+│    ├── 数据就绪 → 恢复渲染该 Suspense 内组件                        │
+│    ├── 遇到 'use client' 边界 → 标记为客户端组件占位                 │
+│    └── 输出 RSC Payload（组件树 + 数据 + 客户端组件标记）             │
+└─────────────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────────┐
+│ ③ SSR 阶段（Server-Side Rendering）                              │
+│    ├── 读取 RSC Payload                                         │
+│    ├── 将服务端组件渲染为 HTML 字符串                              │
+│    ├── 客户端组件位置插入占位符                                    │
+│    └── 输出完整 HTML（或流式 HTML）                               │
+└─────────────────────────────────────────────────────────────────┘
+    │
+    ▼
+┌─────────────────────────────────────────────────────────────────┐
+│ ④ 客户端阶段                                                    │
+│    ├── 浏览器接收 HTML → 立即显示（FCP/FMP）                      │
+│    ├── 下载客户端组件所需的 JS                                    │
+│    ├── Hydration（水合）→ 客户端组件恢复交互                       │
+│    ├── 接收 RSC Payload → 将 React 树与服务端输出对齐              │
+│    └── 页面可交互（TTI）                                         │
+└─────────────────────────────────────────────────────────────────┘
+\`\`\`
+
+### 6.2 客户端组件的水合（Hydration）
+
+**水合**是客户端在初次渲染后，让静态 HTML 恢复为可交互 React 组件树的过程。
+
+\`\`\`typescript
+// 传统 SSR 水合流程：
+// 1. 服务端返回完整 HTML（包含所有 UI）
+// 2. React 在客户端加载
+// 3. React 遍历 DOM 树，为每个节点附加事件监听器
+// 4. 客户端组件树与 DOM 树对齐
+// 5. 页面变得可交互
+
+// 问题：所有组件都需要水合，即使它们没有任何交互
+// 这就是 RSC 要解决的问题之一
+
+// App Router 中的水合优化：
+// 服务端组件 → 不需要水合（零 JS）
+// 客户端组件 → 需要水合（加载 JS + 附加事件）
+\`\`\`
+
+**水合的性能影响：**
+
+\`\`\`
+              ┌─────────────┐
+HTML 就绪 ───►│  FCP/FMP    │
+              └──────┬──────┘
+                     │
+          下载 JS Bundle
+                     │
+              ┌──────▼──────┐
+水合开始 ────►│  水合过程    │
+              └──────┬──────┘
+                     │
+              ┌──────▼──────┐
+水合完成 ────►│    TTI      │ ← 页面可交互
+              └─────────────┘
+
+// 水合越快，TTI 越早
+// 减少客户端组件 = 减少水合负担 = 更快 TTI
+\`\`\`
+
+### 6.3 导航时的渲染（客户端导航）
+
+App Router 的**客户端导航**与传统的 SPA 导航不同——它结合了服务端和客户端的能力：
+
+\`\`\`
+用户点击 <Link href="/blog/hello">
+    │
+    ▼
+┌──────────────────────────────────────────────┐
+│ ① 客户端判断                                  │
+│    ├── RSC Payload 是否已预获取（Link 预取）    │
+│    └── 是否需要请求服务端                       │
+└──────────────────────────────────────────────┘
+    │
+    ▼
+┌──────────────────────────────────────────────┐
+│ ② 请求新的 RSC Payload                        │
+│    ├── 向服务端发送请求（获取新的组件树描述）    │
+│    └── 服务端重新运行目标页面的服务端组件        │
+└──────────────────────────────────────────────┘
+    │
+    ▼
+┌──────────────────────────────────────────────┐
+│ ③ 客户端更新                                  │
+│    ├── 新的 RSC Payload 到达                   │
+│    ├── React 用新 Payload 更新组件树           │
+│    ├── 客户端组件状态保持（如 layout 中的 state）│
+│    └── DOM 高效更新（不需要重新水合）           │
+└──────────────────────────────────────────────┘
+\`\`\`
+
+\`\`\`typescript
+// 客户端导航的关键理解：
+// - 导航时不会返回完整 HTML！而是返回 RSC Payload
+// - 客户端用 RSC Payload 增量更新 React 树
+// - 布局（layout）保持挂载，状态不会丢失
+// - 客户端组件不会重新水合（除非它们的数据变了）
+
+// 这种机制的优势：
+// 1. ⚡ 导航快（只传输数据变化，不传完整 HTML）
+// 2. 💾 客户端状态保持（导航栏的展开状态不会丢）
+// 3. 🔄 服务端数据始终最新（RSC Payload 包含最新数据）
+\`\`\`
+
+### 6.4 渲染性能度量
+
+| 指标 | 全称 | Next.js 中的表现 |
+|------|------|-----------------|
+| **TTFB** | Time To First Byte | 静态渲染几乎为 0（CDN），动态渲染取决于服务端 |
+| **FCP** | First Contentful Paint | Streaming 模式可快速显示部分内容 |
+| **LCP** | Largest Contentful Paint | 取决于最慢的数据源，Suspense 可优化 |
+| **TTI** | Time To Interactive | 受客户端组件数量和 JS Bundle 大小影响 |
+| **INP** | Interaction to Next Paint | 客户端组件的水合时机和事件处理 |
+
+> **面试加分**：理解渲染管线（RSC → SSR → 客户端水合）比死记渲染策略更重要。面试中能画出这个管线图，说明对 Next.js 渲染有掌握深度。
+
+---
+
+## 七、最佳实践
+
+### 7.1 组件选型决策
+
+\`\`\`typescript
+// 面对一个组件，问自己三个问题：
+
+// Q1: 是否需要交互？（onClick, useState, useEffect）
+//   ├── 是 → 客户端组件
+//   └── 否 → 服务端组件
+
+// Q2: 是否需要浏览器 API？（window, document, localStorage）
+//   ├── 是 → 客户端组件
+//   └── 否 → 服务端组件
+
+// Q3: 是否需要特定 React Hooks？（useContext, useReducer 等）
+//   ├── 是 → 客户端组件
+//   └── 否 → 服务端组件
+
+// 如果三个都是"否"→ 默认服务端组件 ✅
+\`\`\`
+
+### 7.2 数据获取策略
+
+\`\`\`typescript
+// 策略 1：尽可能在服务端获取数据
+// ✅ 直接在服务端组件中 fetch/await
+// ✅ 使用 next: { revalidate } 控制缓存
+// ✅ 使用 next: { tags } 配合 revalidateTag 按需更新
+
+// 策略 2：根据实时性要求选择渲染策略
+// ┌─────────────┬──────────────┬──────────────────┐
+// │ 数据特点     │ 推荐策略      │ 示例              │
+// ├─────────────┼──────────────┼──────────────────┤
+// │ 极少变化     │ SSG          │ 公司介绍、法律页面 │
+// │ 定期变化     │ ISR          │ 博客、商品目录     │
+// │ 用户相关     │ SSR / 动态    │ 个人资料、订单     │
+// │ 高度实时     │ 客户端获取    │ 股票行情、聊天     │
+// └─────────────┴──────────────┴──────────────────┘
+
+// 策略 3：并行请求，串行渲染
+export default async function Page() {
+  // 并行发起请求（同时开始）
+  const [user, posts, notifications] = await Promise.all([
+    fetch('/api/user').then(r => r.json()),
+    fetch('/api/posts').then(r => r.json()),
+    fetch('/api/notifications').then(r => r.json()),
+  ]);
+  
+  return <Dashboard user={user} posts={posts} notifications={notifications} />;
+}
+\`\`\`
+
+### 7.3 合理使用 Suspense
+
+\`\`\`typescript
+// ✅ 推荐：精细控制 Suspense 粒度
+export default function Page() {
+  return (
+    <div>
+      <header>固定的导航标题</header>
+      
+      {/* 慢数据 1 */}
+      <Suspense fallback={<SkeletonA />}>
+        <SlowComponentA />
+      </Suspense>
+      
+      {/* 慢数据 2 — 不相互阻塞 */}
+      <Suspense fallback={<SkeletonB />}>
+        <SlowComponentB />
+      </Suspense>
+    </div>
+  );
+}
+
+// ❌ 避免：所有数据放在一个 async 组件中
+export default async function Page() {
+  // 方案 A 不好：必须等三个都完成才能显示任何内容
+  const a = await slowA(); // 2s
+  const b = await slowB(); // 1s
+  const c = await slowC(); // 3s
+  // 总计等待：2 + 1 + 3 = 6s
+  return <div>{a}{b}{c}</div>;
+}
+\`\`\`
+
+### 7.4 'use client' 最小化原则
+
+\`\`\`typescript
+// ✅ 推荐：交互逻辑抽离到最小的客户端组件
+
+// app/products/page.tsx — 服务端组件（负责数据和布局）
+export default async function ProductsPage() {
+  const products = await getProducts();
+  return (
+    <div>
+      <h1>所有商品</h1>
+      <ProductGrid>
+        {products.map(p => (
+          <ProductCard key={p.id} product={p}>
+            <AddToCartButton productId={p.id} /> {/* ← 只有这个是客户端组件 */}
+          </ProductCard>
+        ))}
+      </ProductGrid>
+    </div>
+  );
+}
+
+// components/AddToCartButton.tsx
+'use client';
+export function AddToCartButton({ productId }: { productId: string }) {
+  const [added, setAdded] = useState(false);
+  return (
+    <button onClick={() => setAdded(true)} disabled={added}>
+      {added ? '已加入' : '加入购物车'}
+    </button>
+  );
+}
+
+// ❌ 不推荐：整个页面变成客户端组件
+// 'use client'; ← 为了一个小小的按钮就把整个页面客户端化
+// export default function ProductsPage() { ... }
+\`\`\`
+
+### 7.5 缓存策略选择
+
+\`\`\`typescript
+// 按"数据变化频率"选择缓存策略：
+
+// 1. 几乎不变 → 默认静态
+export default async function Page() {
+  const data = await fetch(url); // 默认 force-cache
+  return <div>{data}</div>;
+}
+
+// 2. 定期更新 → ISR（revalidate）
+export default async function Page() {
+  const data = await fetch(url, {
+    next: { revalidate: 3600 }, // 每小时更新一次
+  });
+  return <div>{data}</div>;
+}
+
+// 3. 每次请求都最新 → no-store
+export default async function Page() {
+  const data = await fetch(url, {
+    cache: 'no-store',
+  });
+  return <div>{data}</div>;
+}
+
+// 4. 按需更新 → ISR + revalidateTag
+export default async function Page() {
+  const data = await fetch(url, {
+    next: { tags: ['my-data'] },
+  });
+  return <div>{data}</div>;
+}
+// 在 Server Action 中：revalidateTag('my-data')
+\`\`\`
+
+### 7.6 避免的反模式
+
+\`\`\`typescript
+// ❌ 反模式 1：服务端组件中导入客户端 Hook
+// app/page.tsx
+// import { useRouter } from 'next/navigation'; // ❌ 服务端组件不能使用
+// export default function Page() {
+//   const router = useRouter(); // 会报错
+//   return <div>...</div>;
+// }
+
+// ✅ 正确：将需要客户端 Hook 的逻辑抽到客户端组件中
+
+// ❌ 反模式 2：客户端组件做服务端该做的事
+// 'use client';
+// import { useEffect, useState } from 'react';
+// export default function Page() {
+//   const [data, setData] = useState(null);
+//   useEffect(() => {
+//     fetch('/api/data').then(r => r.json()).then(setData);
+//   }, []);
+//   // 这就是 CSR——失去了 RSC 的所有好处
+// }
+
+// ✅ 正确：用服务端组件获取数据
+
+// ❌ 反模式 3：不必要的 'use client' 传播
+// 一个父组件标记了 'use client'，所有子组件都变成客户端
+
+// ✅ 正确：只在叶子上用 'use client'
+
+// ❌ 反模式 4：忽略 Suspense 的流式传输能力
+// export default async function Page() {
+//   const [slow, fast] = await Promise.all([slowData(), fastData()]);
+//   // 页面要等两个都完成
+//   return <div>{slow}{fast}</div>;
+// }
+
+// ✅ 正确：用 Suspense 让快数据先展示
+\`\`\`
+
+---
+
+## 八、面试要点
+
+### 8.1 高频问题层级
+
+| 层级 | 问题 | 期望 |
+|------|------|------|
+| 入门 | CSR/SSR/SSG/ISR 的区别？服务端组件和客户端组件的区别？Suspense 的作用？ | 基本概念清晰 |
+| 中等 | RSC Payload 是什么？Streaming 如何实现？loading.tsx 的工作原理？ | 理解渲染机制 |
+| 进阶 | SSR 和 RSC 的协同关系？客户端导航时的渲染流程？缓存策略如何选择？ | 掌握渲染管线 |
+| 深入 | PPR 的原理和意义？水合的性能影响？RSC 序列化限制的原因？ | 底层机制理解 |
+
+### 8.2 合格 vs 优秀
+
+**合格回答：**
+- 能说出 CSR/SSR/SSG/ISR 的基本区别
+- 知道服务端组件默认，客户端组件需要 \`'use client'\`
+- 了解 Suspense 可以显示加载状态
+- 知道静态渲染和动态渲染的概念
+- 会用 \`revalidate\` 做 ISR
+
+**优秀回答：**
+- 能清晰说明 RSC Payload 与 HTML 的区别，以及 RSC 与 SSR 的协同关系
+- 理解 Streaming 的"边渲染边发送"机制以及 Suspense 边界的粒度控制
+- 能解释客户端导航时，传输的是 RSC Payload（而非 HTML）的增量更新机制
+- 知道动态渲染的"动态传播"方向（向子树，不向父级）
+- 理解水合的性能代价，以及为什么 RSC 能减少水合负担
+- 能结合业务场景选择渲染策略（SSG vs ISR vs SSR vs CSR）
+- 理解 PPR 作为未来方向，以及它解决了什么问题
+
+### 8.3 常见追问
+
+1. **SSR 和 RSC 有什么区别？** SSR 是服务端渲染 HTML 的技术；RSC 是服务端运行组件输出 RSC Payload 的范式。两者协同工作：RSC 输出组件树结构，SSR 将其转为 HTML 用于首屏展示。
+
+2. **为什么 App Router 默认是静态渲染？** 因为 Next.js 假设尽可能多的内容应该是静态的（可缓存的），只有明确使用动态 API 时才退回到动态渲染。这种"默认静态，按需动态"的设计哲学最大化性能。
+
+3. **loading.tsx 和 Suspense 的关系是什么？** loading.tsx 是 App Router 对 React Suspense 的路由级封装。它在当前层级自动用 Suspense 包裹 page.tsx，以 loading.tsx 作为 fallback。
+
+4. **Streaming SSR 和传统 SSR 相比有什么优势？** 传统 SSR 需要等待所有数据就绪才返回完整 HTML；Streaming SSR 允许"谁先就绪谁先发送"，浏览器可以逐步渲染页面，降低感知延迟。
+
+5. **一个页面中既有静态内容又有动态内容怎么办？** 可以用 Suspense 包裹动态部分，静态部分在构建时生成，动态部分流式传输。或者启用 PPR（实验性），精确控制哪些部分是静态外壳。
+
+6. **如何判断一个组件应该是服务端还是客户端？** 是否需要交互、浏览器 API、React Hooks？如果都不需要，就是服务端组件。核心原则是"尽可能服务端，必要时客户端"。
+
+7. **ISR 中 revalidate=60 是什么意思？** 表示页面最多缓存 60 秒。60 秒内的请求返回缓存，60 秒后的第一个请求触发后台重新生成，用户可能看到旧数据（stale-while-revalidate），下次请求得到新内容。
+
+8. **客户端导航时，服务端组件会重新执行吗？** 会的。导航到新路由时，服务端会重新执行该路由的服务端组件，生成新的 RSC Payload，客户端用新 Payload 更新组件树。
+
+9. **RSC 和 SSR 都需要服务端运行组件，有什么不同？** SSR 为了生成 HTML（用于首屏展示和 SEO）；RSC 为了生成组件树描述（用于客户端恢复 React 树）。两者是不同层面的技术：SSR 是渲染策略，RSC 是组件范式。
+
+10. **什么是水合，为什么它重要？** 水合是客户端让静态 HTML 恢复交互能力的过程。水合越重，TTI 越晚。RSC 的零 JS 客户端体积本质上是"减少需要水合的组件数量"。
+
+---
+
+## 九、扩展延伸
+
+### 相关话题
+
+- **[Next.js App Router 完全指南：路由篇](nextjs-app-router.md)** — 本系列第 1 篇，涵盖路由体系、特殊文件、平行路由等
+- **Next.js 数据获取与缓存篇** — 本系列第 3 篇（待更新），深入数据获取、Server Actions、缓存策略
+- **[React 源码核心（Fiber、并发模式）](../React/react-core-source.md)** — 理解 React 18 的并发渲染是理解 Suspense 和 Streaming 的基础
+- **[shadcn/ui 使用指南](../React/shadcn-ui-guide.md)** — Next.js + shadcn/ui 的工程实践
+
+### 延伸思考
+
+- **RSC 与 SEO**：RSC Payload 本身对爬虫不可见，但配合 SSR 可以生成完整 HTML 供爬虫使用。Google 已经从 2024 年开始支持 JavaScript 渲染的页面索引，但确保服务端渲染完整 HTML 仍是更可靠的 SEO 策略。
+
+- **ISR 的适用边界**：ISR 适用于内容更新不那么频繁的场景（几分钟到几小时）。如果数据需要秒级实时性（如库存、价格频繁变动），ISR 的 stale-while-revalidate 模型可能不够——这时应该用 SSR 或客户端实时获取。
+
+- **Streaming 与 Web 标准**：Streaming 的核心是 HTTP 的 Transfer-Encoding: chunked 或 Fetch API 的 ReadableStream。Next.js 的 Streaming SSR 在底层使用 React 的 \`renderToPipeableStream\`（Node.js）或 \`renderToReadableStream\`（Edge Runtime）。
+
+- **渲染策略的选择权衡**：没有"银弹"渲染策略。选择时需要考虑：数据实时性要求、流量规模、服务端成本、开发复杂度、SEO 需求。一个实际项目通常是多种策略的组合。
+
+- **水合的演进方向**：React 团队正在研究"选择性水合"（Selective Hydration）和"部分水合"（Partial Hydration），进一步减少水合性能开销。RSC + Streaming + 选择性水合是 React 19/20 的重要方向。
+
+- **与其它框架的对比**：Astro 的岛屿架构（Islands Architecture）和 RSC 有相似的理念——减少客户端 JS。不同在于 Astro 默认零 JS，只有明确标记的交互组件才有 JS；RSC 通过服务端/客户端组件的分界实现类似效果。Qwik 的"可恢复性"（Resumability）则更进一步，完全不需要水合。
+`,mn=`---
 title: "职业规划回答技巧：明确、可行、与公司对齐"
 category: "Other"
 tags: ["interview", "career", "plan", "communication"]
@@ -25036,7 +28228,7 @@ function validateCareerPlan(plan) {
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,dn=`---
+**版本**：v2.0（深入版）`,fn=`---
 title: "Git 操作详解：基础、进阶与实战"
 category: "Other"
 tags: ["git", "version-control", "workflow", "best-practices"]
@@ -25758,7 +28950,7 @@ Git 操作详解
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,mn=`---
+**版本**：v2.0（深入版）`,gn=`---
 title: "离职原因回答技巧：诚实、积极、有远见"
 category: "Other"
 tags: ["interview", "resign", "behavioral", "communication"]
@@ -26164,7 +29356,7 @@ function validateResignReason(reason) {
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,fn=`---
+**版本**：v2.0（深入版）`,hn=`---
 title: "自我介绍回答技巧：结构化、量化、差异化"
 category: "Other"
 tags: ["interview", "self-intro", "behavioral", "communication"]
@@ -26587,7 +29779,7 @@ function validateSelfIntro(intro) {
 ---
 
 **更新时间**：2025-07-01  
-**版本**：v2.0（深入版）`,gn=`---
+**版本**：v2.0（深入版）`,vn=`---
 title: "React 源码核心：Fiber 架构、响应式原理、Diff 算法"
 category: "React"
 tags: ["react", "fiber", "diff", "reactive", "virtual-dom", "concurrent-mode"]
@@ -28180,7 +31372,7 @@ function updateMemoComponent(current, workInProgress, Component, ...) {
 > - [React Design Principles](https://react.dev/community/design-principles) — 官方设计原则
 > - [React Fiber Architecture (ACDL)](https://github.com/acdlite/react-fiber-architecture) — Dan Abramov 的同事写的经典文章
 > - [React 并发模式介绍](https://react.dev/blog/2022/03/29/react-v18) — React 18 发布说明
-> - [Inside Fiber: React 的 reconciler 内部实现](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react) — InDepth 的深度源码分析`,hn=`# React 19 高薪技术完全免费平替学习路线\r
+> - [Inside Fiber: React 的 reconciler 内部实现](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react) — InDepth 的深度源码分析`,Sn=`# React 19 高薪技术完全免费平替学习路线\r
 \r
 > 目标：替代《React 19 高薪技术 从入门到进阶》类课程路线  \r
 > 方向：React 高级工程师 / 大厂前端 / 企业级项目开发\r
@@ -28796,7 +31988,7 @@ React 工程师\r
 再到：\r
 \r
 \r
-具备架构能力的高级前端工程师`,vn=`---
+具备架构能力的高级前端工程师`,yn=`---
 title: "shadcn/ui 完全指南：设计理念、与 Tailwind/Ant Design 的对比及工程实践"
 category: "React"
 tags: ["shadcn/ui", "Tailwind CSS", "Ant Design", "UI组件库", "React", "设计系统"]
@@ -29509,7 +32701,7 @@ describe('Button', () => {
 - **对于团队协作的影响**：「Own the source」模式意味着组件代码需要纳入代码审查，不再是「黑盒」。这提高了代码质量要求，但也降低了调试成本。
 - **未来的更新机制**：社区正在探索更好的升级方案，如 CLI 的 diff 展示、patch 模式等，让 shadcn/ui 既保留「Own the source」的优势，又改善升级体验。
 - **Monorepo 的场景优势**：在 monorepo 中，可以将 shadcn/ui 组件集中到 packages/ui 目录，多项目共享同一套组件代码，定制一次、提升所有项目。
-`,yn=`---
+`,bn=`---
 title: "Vue 组件间通信：从父子到跨层级的完整方案"
 category: "Vue"
 tags: ["component", "communication", "props", "emit", "provide", "inject", "pinia", "event-bus"]
@@ -30393,7 +33585,7 @@ store.login(credentials);
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加目录结构、Vue2/Vue3 对比、Pinia 实战、面试问答和选型建议`,bn=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加目录结构、Vue2/Vue3 对比、Pinia 实战、面试问答和选型建议`,xn=`---
 title: "Vue3 响应式原理：Proxy 代理、依赖收集与触发更新"
 category: "Vue"
 tags: ["reactivity", "proxy", "effect", "track", "trigger", "ref", "reactive"]
@@ -31316,7 +34508,7 @@ Proxy 代理层
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度源码级解析版本，增加目录结构、源码分析、面试问答和最佳实践`,Sn=`---
+> - 2026-07-01: 从基础版升级为深度源码级解析版本，增加目录结构、源码分析、面试问答和最佳实践`,Cn=`---
 title: "Vue Mixins 的使用与替代方案：从 Mixins 到 Composables"
 category: "Vue"
 tags: ["mixins", "composition", "reuse", "composables", "vue2", "vue3"]
@@ -32145,7 +35337,7 @@ export function useUser() {
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度解析版本，增加 Mixins 问题分析、Composables 实现、迁移指南和面试问答`,Cn=`---
+> - 2026-07-01: 从基础版升级为深度解析版本，增加 Mixins 问题分析、Composables 实现、迁移指南和面试问答`,Pn=`---
 title: "Vue2 与 Vue3 的全面对比：从响应式到架构设计"
 category: "Vue"
 tags: ["vue2", "vue3", "comparison", "composition-api", "proxy", "reactivity"]
@@ -32985,11 +36177,11 @@ npx vue-codemod
 ---
 
 > **更新日志**
-> - 2026-07-01: 从基础版升级为深度对比版本，增加响应式原理、性能优化、迁移指南和面试问答`,xn=`---
+> - 2026-07-01: 从基础版升级为深度对比版本，增加响应式原理、性能优化、迁移指南和面试问答`,Tn=`---
 title: "面试题目录"
 description: "前端面试知识库目录，方便查找和定位"
 version: "2.1.0"
-updatedAt: "2026-07-13"
+updatedAt: "2026-07-27"
 ---
 
 # 面试题目录
@@ -33007,6 +36199,7 @@ knowledgeBase/
 ├── Network/       # 计算机网络相关知识
 ├── Build/         # 构建打包相关知识
 ├── React/         # React 框架相关知识
+├── Next.js/       # Next.js 框架相关知识
 ├── Vue/           # Vue 框架相关知识
 ├── SystemDesign/  # 系统设计相关知识
 ├── Algorithms/    # 算法与数据结构
@@ -33077,6 +36270,13 @@ knowledgeBase/
 | [React 源码核心（Fiber、Diff、响应式原理、Hooks）](React/react-core-source.md) | 高 | react, fiber, diff, reactive, virtual-dom, concurrent-mode |
 | [shadcn/ui 完全指南：设计理念、与 Tailwind/Ant Design 的对比及工程实践](React/shadcn-ui-guide.md) | 中等 | shadcn/ui, Tailwind CSS, Ant Design, 组件库, 设计系统 |
 
+### Next.js
+
+| 文档 | 难度 | 标签 |
+|------|------|------|
+| [Next.js App Router 完全指南：路由篇](Next.js/nextjs-app-router.md) | 中等 | Next.js, App Router, 路由, Route Handlers, 中间件, React Server Components, 布局, 并行路由, 拦截路由 |
+| [Next.js App Router 完全指南：渲染篇](Next.js/nextjs-rendering.md) | 中等 | Next.js, App Router, 渲染, RSC, SSR, SSG, ISR, Streaming, Suspense, PPR |
+
 ### Vue
 
 | 文档 | 难度 | 标签 |
@@ -33146,7 +36346,7 @@ knowledgeBase/
 
 ## 更新日志
 
-- **2026-07-13**: 新增 JavaScript 原型链与继承、Promise 与 async/await、数据类型与类型检测、内存管理，新增 React/shadcn-ui-guide，更新 index 目录至 v2.1
+- **2026-07-13**: 新增 JavaScript 原型链与继承、Promise 与 async/await、数据类型与类型检测、内存管理、TypeScript、Next.js 路由篇，拆分 Next.js 为独立合集，更新 index 至 v2.1
 - **2025-07-01**: 全面升级所有知识库文档至 v2.0 深入版，新增 Browser/css-reflow-repaint.md，更新 AI 和 Other 分类下所有文档
-- **2026-06-24**: 识别 todo/images 下的图片，创建大量知识库文档，包括 JavaScript、CSS、Vue、Network、Build、Other 等分类`,Pn=/^---\s*\n([\s\S]*?)\n---\s*\n/;function Tn(n){const e={};return n.split(`
-`).forEach(t=>{const i=t.match(/^(\w+):\s*(.+)$/);if(i){const s=i[1];let o=i[2].trim();o.startsWith('"')&&o.endsWith('"')?o=o.slice(1,-1):o.startsWith("[")&&o.endsWith("]")&&(o=JSON.parse(o)),e[s]=o}}),e}function kn(n){const e=n.match(Pn);let r={title:"",category:"",tags:[],difficulty:"medium",filePath:"",lastModified:""},t=n;if(e){const s=Tn(e[1]);r={title:s.title||"",category:s.category||"",tags:s.tags||[],difficulty:s.difficulty||"medium",filePath:"",lastModified:""},t=n.slice(e[0].length)}const i=jn(t);return{meta:r,content:t,toc:i}}function wn(n){return n.toLowerCase().replace(/[^a-z0-9\u4e00-\u9fa5]+/g,"")}function jn(n){const e=/^(#{2,3})\s+(.+)$/gm,r=[];let t;for(;(t=e.exec(n))!==null;){const i=t[1].length,s=t[2].trim(),o=wn(s);r.push({id:o,text:s,level:i})}return r}function An(n){const e=n.split(/\r?\n/),r=[];let t="";return e.forEach(i=>{const s=i.match(/^###\s+(.+)$/);if(s){t=s[1].trim();return}const o=i.match(/^\|\s*\[(.+?)\]\((.+?)\)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*$/);if(o){const d=o[1],u=o[2],p=o[3].trim(),y={简单:"easy",中等:"medium",高:"hard"}[p]||"medium",b=o[4].split(",").map(h=>h.trim()).filter(Boolean);r.push({title:d,category:t,tags:b,difficulty:y,filePath:u,lastModified:""})}}),r}function In(n,e,r){if(!e.trim())return[];const t=e.toLowerCase(),i=[];return n.forEach(s=>{let o=0;const d=[];s.title.toLowerCase().includes(t)&&(o+=50,d.push({text:s.title,highlight:x(s.title,t)})),s.tags.forEach(p=>{p.toLowerCase().includes(t)&&(o+=20,d.push({text:p,highlight:x(p,t)}))});const u=r.get(s.filePath);if(u){const p=u.toLowerCase();if(p.includes(t)){o+=30;const v=p.indexOf(t),y=Math.max(0,v-30),b=Math.min(u.length,v+t.length+30),h=u.slice(y,b);d.push({text:h,highlight:x(h,t)})}}o>0&&i.push({document:s,matches:d,score:o})}),i.sort((s,o)=>o.score-s.score)}function x(n,e){const r=new RegExp(`(${e})`,"gi");return n.replace(r,'<mark class="bg-accent-500 text-white px-0.5 rounded">$1</mark>')}const P="knowledge_base_favorites";function S(){try{const n=localStorage.getItem(P);return n?JSON.parse(n):[]}catch{return[]}}function Mn(n){const e=S();e.some(t=>t.filePath===n.filePath)||(e.push(n),localStorage.setItem(P,JSON.stringify(e)))}function On(n){const e=S().filter(r=>r.filePath!==n);localStorage.setItem(P,JSON.stringify(e))}function w(n){return S().some(e=>e.filePath===n)}const En="FaceNoteReadStats",m="readStats",Rn=1;function T(){return new Promise((n,e)=>{const r=indexedDB.open(En,Rn);r.onupgradeneeded=()=>{const t=r.result;t.objectStoreNames.contains(m)||t.createObjectStore(m,{keyPath:"filePath"})},r.onsuccess=()=>n(r.result),r.onerror=()=>e(new Error("IndexedDB 打开失败"))})}async function Dn(){try{const n=await T();return await new Promise((e,r)=>{const s=n.transaction(m,"readonly").objectStore(m).getAll();s.onsuccess=()=>e(s.result),s.onerror=()=>r(new Error("读取阅读统计失败"))})}catch{return[]}}async function Nn(n){try{const e=await T();return await new Promise((r,t)=>{const o=e.transaction(m,"readonly").objectStore(m).get(n);o.onsuccess=()=>r(o.result??void 0),o.onerror=()=>t(new Error("读取阅读统计失败"))})}catch{return}}async function Fn(n){const e=await T(),r=await Nn(n),t=((r==null?void 0:r.totalReadCount)??0)+1;return await new Promise((i,s)=>{const u=e.transaction(m,"readwrite").objectStore(m).put({filePath:n,totalReadCount:t,lastReadTimestamp:Date.now()});u.onsuccess=()=>i(t),u.onerror=()=>s(new Error("保存阅读统计失败"))})}const Ln=O("knowledge",()=>{const n=g([]),e=g(new Map),r=g(null),t=g(null),i=g([]),s=g(!1),o=g(new Map);async function d(){const a=await Dn(),l=new Map;a.forEach(c=>l.set(c.filePath,c.totalReadCount)),o.value=l}function u(a){return o.value.get(a)??0}async function p(a){const l=await Fn(a);o.value.set(a,l)}const v=k(()=>{const a=new Map;n.value.forEach(c=>{a.set(c.category,(a.get(c.category)||0)+1)});const l={"JavaScript/TypeScript":"Code",CSS:"Palette",Vue:"Box",React:"Atom",Network:"Globe",Browser:"Monitor",Build:"Package",Other:"FileQuestion",AI:"Brain",Security:"Shield",Performance:"Zap",SystemDesign:"Network",Algorithms:"Binary",Architecture:"Layers"};return Array.from(a.entries()).map(([c,f])=>({name:c,label:c,icon:l[c]||"FileText",count:f}))}),y=k(()=>{let a=[...n.value];return r.value&&(a=a.filter(l=>l.category===r.value)),t.value&&(a=a.filter(l=>l.difficulty===t.value)),a.sort((l,c)=>l.title.localeCompare(c.title))});async function b(){s.value=!0;try{const a=Object.assign({"../knowledgeBase/AI/prompt-engineering.md":E,"../knowledgeBase/Browser/css-reflow-repaint.md":R,"../knowledgeBase/Browser/javascript-single-thread.md":D,"../knowledgeBase/Browser/url-lifecycle.md":N,"../knowledgeBase/Build/build-optimization.md":F,"../knowledgeBase/Build/webpack-chunk.md":H,"../knowledgeBase/CSS/bfc.md":B,"../knowledgeBase/CSS/element-centering.md":L,"../knowledgeBase/CSS/flexbox-layout.md":_,"../knowledgeBase/CSS/hide-element.md":W,"../knowledgeBase/CSS/reflow-repaint.md":V,"../knowledgeBase/JavaScript/closure.md":U,"../knowledgeBase/JavaScript/data-types-typeof.md":J,"../knowledgeBase/JavaScript/debounce-throttle.md":G,"../knowledgeBase/JavaScript/deep-shallow-copy.md":q,"../knowledgeBase/JavaScript/event-loop.md":z,"../knowledgeBase/JavaScript/i18n.md":X,"../knowledgeBase/JavaScript/memory-heap-stack.md":K,"../knowledgeBase/JavaScript/nodejs-capabilities.md":$,"../knowledgeBase/JavaScript/promise-async-await.md":Q,"../knowledgeBase/JavaScript/prototype-inheritance.md":Y,"../knowledgeBase/JavaScript/reflect.md":Z,"../knowledgeBase/JavaScript/this-binding.md":nn,"../knowledgeBase/JavaScript/typescript-core.md":en,"../knowledgeBase/JavaScript/var-let-const.md":tn,"../knowledgeBase/JavaScript/virtual-list.md":on,"../knowledgeBase/Network/cors.md":rn,"../knowledgeBase/Network/http-cache.md":an,"../knowledgeBase/Network/http-protocol.md":sn,"../knowledgeBase/Network/mcp-principle.md":cn,"../knowledgeBase/Network/sse-polling.md":ln,"../knowledgeBase/Network/xss-attack.md":un,"../knowledgeBase/Other/career-plan.md":pn,"../knowledgeBase/Other/git-operations.md":dn,"../knowledgeBase/Other/resign-reasons.md":mn,"../knowledgeBase/Other/self-introduction.md":fn,"../knowledgeBase/React/react-core-source.md":gn,"../knowledgeBase/React/react-study-plan.md":hn,"../knowledgeBase/React/shadcn-ui-guide.md":vn,"../knowledgeBase/Vue/component-communication.md":yn,"../knowledgeBase/Vue/reactivity-principle.md":bn,"../knowledgeBase/Vue/vue-mixins.md":Sn,"../knowledgeBase/Vue/vue2-vs-vue3.md":Cn,"../knowledgeBase/index.md":xn}),l=a["../knowledgeBase/index.md"]||"";n.value=An(l),n.value.forEach(c=>{const f=`../knowledgeBase/${c.filePath}`,C=a[f];C?e.value.set(c.filePath,C):e.value.set(c.filePath,"")}),i.value=S()}catch(a){console.error("Failed to load documents:",a)}finally{s.value=!1}}function h(a){const l=e.value.get(a);if(!l)return null;const c=kn(l);c.meta.filePath=a;const f=n.value.find(C=>C.filePath===a);return f&&(c.meta.category=f.category,c.meta.lastModified=f.lastModified),c}function j(a){return In(n.value,a,e.value)}function A(a){w(a.filePath)?On(a.filePath):Mn(a),i.value=S()}function I(a){return w(a)}return{documents:n,contentMap:e,currentCategory:r,currentDifficulty:t,favorites:i,isLoading:s,readStatsMap:o,categories:v,filteredDocuments:y,loadDocuments:b,loadReadStats:d,getReadCount:u,recordRead:p,getDocumentContent:h,search:j,toggleFavorite:A,isDocFavorite:I}});export{Bn as H,Ln as u};
+- **2026-06-24**: 识别 todo/images 下的图片，创建大量知识库文档，包括 JavaScript、CSS、Vue、Network、Build、Other 等分类`,kn=/^---\s*\n([\s\S]*?)\n---\s*\n/;function wn(n){const e={};return n.split(`
+`).forEach(t=>{const i=t.match(/^(\w+):\s*(.+)$/);if(i){const s=i[1];let o=i[2].trim();o.startsWith('"')&&o.endsWith('"')?o=o.slice(1,-1):o.startsWith("[")&&o.endsWith("]")&&(o=JSON.parse(o)),e[s]=o}}),e}function jn(n){const e=n.match(kn);let r={title:"",category:"",tags:[],difficulty:"medium",filePath:"",lastModified:""},t=n;if(e){const s=wn(e[1]);r={title:s.title||"",category:s.category||"",tags:s.tags||[],difficulty:s.difficulty||"medium",filePath:"",lastModified:""},t=n.slice(e[0].length)}const i=An(t);return{meta:r,content:t,toc:i}}function Rn(n){return n.toLowerCase().replace(/[^a-z0-9\u4e00-\u9fa5]+/g,"")}function An(n){const e=/^(#{2,3})\s+(.+)$/gm,r=[];let t;for(;(t=e.exec(n))!==null;){const i=t[1].length,s=t[2].trim(),o=Rn(s);r.push({id:o,text:s,level:i})}return r}function In(n){const e=n.split(/\r?\n/),r=[];let t="";return e.forEach(i=>{const s=i.match(/^###\s+(.+)$/);if(s){t=s[1].trim();return}const o=i.match(/^\|\s*\[(.+?)\]\((.+?)\)\s*\|\s*(.+?)\s*\|\s*(.+?)\s*\|\s*$/);if(o){const d=o[1],u=o[2],p=o[3].trim(),S={简单:"easy",中等:"medium",高:"hard"}[p]||"medium",y=o[4].split(",").map(h=>h.trim()).filter(Boolean);r.push({title:d,category:t,tags:y,difficulty:S,filePath:u,lastModified:""})}}),r}function Mn(n,e,r){if(!e.trim())return[];const t=e.toLowerCase(),i=[];return n.forEach(s=>{let o=0;const d=[];s.title.toLowerCase().includes(t)&&(o+=50,d.push({text:s.title,highlight:C(s.title,t)})),s.tags.forEach(p=>{p.toLowerCase().includes(t)&&(o+=20,d.push({text:p,highlight:C(p,t)}))});const u=r.get(s.filePath);if(u){const p=u.toLowerCase();if(p.includes(t)){o+=30;const v=p.indexOf(t),S=Math.max(0,v-30),y=Math.min(u.length,v+t.length+30),h=u.slice(S,y);d.push({text:h,highlight:C(h,t)})}}o>0&&i.push({document:s,matches:d,score:o})}),i.sort((s,o)=>o.score-s.score)}function C(n,e){const r=new RegExp(`(${e})`,"gi");return n.replace(r,'<mark class="bg-accent-500 text-white px-0.5 rounded">$1</mark>')}const P="knowledge_base_favorites";function b(){try{const n=localStorage.getItem(P);return n?JSON.parse(n):[]}catch{return[]}}function On(n){const e=b();e.some(t=>t.filePath===n.filePath)||(e.push(n),localStorage.setItem(P,JSON.stringify(e)))}function En(n){const e=b().filter(r=>r.filePath!==n);localStorage.setItem(P,JSON.stringify(e))}function w(n){return b().some(e=>e.filePath===n)}const Dn="FaceNoteReadStats",m="readStats",Nn=1;function T(){return new Promise((n,e)=>{const r=indexedDB.open(Dn,Nn);r.onupgradeneeded=()=>{const t=r.result;t.objectStoreNames.contains(m)||t.createObjectStore(m,{keyPath:"filePath"})},r.onsuccess=()=>n(r.result),r.onerror=()=>e(new Error("IndexedDB 打开失败"))})}async function Ln(){try{const n=await T();return await new Promise((e,r)=>{const s=n.transaction(m,"readonly").objectStore(m).getAll();s.onsuccess=()=>e(s.result),s.onerror=()=>r(new Error("读取阅读统计失败"))})}catch{return[]}}async function Hn(n){try{const e=await T();return await new Promise((r,t)=>{const o=e.transaction(m,"readonly").objectStore(m).get(n);o.onsuccess=()=>r(o.result??void 0),o.onerror=()=>t(new Error("读取阅读统计失败"))})}catch{return}}async function Fn(n){const e=await T(),r=await Hn(n),t=((r==null?void 0:r.totalReadCount)??0)+1;return await new Promise((i,s)=>{const u=e.transaction(m,"readwrite").objectStore(m).put({filePath:n,totalReadCount:t,lastReadTimestamp:Date.now()});u.onsuccess=()=>i(t),u.onerror=()=>s(new Error("保存阅读统计失败"))})}const Wn=M("knowledge",()=>{const n=g([]),e=g(new Map),r=g(null),t=g(null),i=g([]),s=g(!1),o=g(new Map);async function d(){const a=await Ln(),l=new Map;a.forEach(c=>l.set(c.filePath,c.totalReadCount)),o.value=l}function u(a){return o.value.get(a)??0}async function p(a){const l=await Fn(a);o.value.set(a,l)}const v=k(()=>{const a=new Map;n.value.forEach(c=>{a.set(c.category,(a.get(c.category)||0)+1)});const l={"JavaScript/TypeScript":"Code",CSS:"Palette",Vue:"Box",React:"Atom",Network:"Globe",Browser:"Monitor",Build:"Package",Other:"FileQuestion",AI:"Brain",Security:"Shield",Performance:"Zap",SystemDesign:"Network",Algorithms:"Binary",Architecture:"Layers"};return Array.from(a.entries()).map(([c,f])=>({name:c,label:c,icon:l[c]||"FileText",count:f}))}),S=k(()=>{let a=[...n.value];return r.value&&(a=a.filter(l=>l.category===r.value)),t.value&&(a=a.filter(l=>l.difficulty===t.value)),a.sort((l,c)=>l.title.localeCompare(c.title))});async function y(){s.value=!0;try{const a=Object.assign({"../knowledgeBase/AI/prompt-engineering.md":O,"../knowledgeBase/Browser/css-reflow-repaint.md":E,"../knowledgeBase/Browser/javascript-single-thread.md":D,"../knowledgeBase/Browser/url-lifecycle.md":N,"../knowledgeBase/Build/build-optimization.md":L,"../knowledgeBase/Build/webpack-chunk.md":H,"../knowledgeBase/CSS/bfc.md":F,"../knowledgeBase/CSS/element-centering.md":B,"../knowledgeBase/CSS/flexbox-layout.md":_,"../knowledgeBase/CSS/hide-element.md":W,"../knowledgeBase/CSS/reflow-repaint.md":U,"../knowledgeBase/JavaScript/closure.md":V,"../knowledgeBase/JavaScript/data-types-typeof.md":q,"../knowledgeBase/JavaScript/debounce-throttle.md":G,"../knowledgeBase/JavaScript/deep-shallow-copy.md":J,"../knowledgeBase/JavaScript/event-loop.md":z,"../knowledgeBase/JavaScript/i18n.md":X,"../knowledgeBase/JavaScript/memory-heap-stack.md":$,"../knowledgeBase/JavaScript/nodejs-capabilities.md":K,"../knowledgeBase/JavaScript/promise-async-await.md":Q,"../knowledgeBase/JavaScript/prototype-inheritance.md":Y,"../knowledgeBase/JavaScript/reflect.md":Z,"../knowledgeBase/JavaScript/this-binding.md":nn,"../knowledgeBase/JavaScript/typescript-core.md":en,"../knowledgeBase/JavaScript/var-let-const.md":tn,"../knowledgeBase/JavaScript/virtual-list.md":on,"../knowledgeBase/Network/cors.md":rn,"../knowledgeBase/Network/http-cache.md":an,"../knowledgeBase/Network/http-protocol.md":sn,"../knowledgeBase/Network/mcp-principle.md":cn,"../knowledgeBase/Network/sse-polling.md":ln,"../knowledgeBase/Network/xss-attack.md":un,"../knowledgeBase/Next.js/nextjs-app-router.md":pn,"../knowledgeBase/Next.js/nextjs-rendering.md":dn,"../knowledgeBase/Other/career-plan.md":mn,"../knowledgeBase/Other/git-operations.md":fn,"../knowledgeBase/Other/resign-reasons.md":gn,"../knowledgeBase/Other/self-introduction.md":hn,"../knowledgeBase/React/react-core-source.md":vn,"../knowledgeBase/React/react-study-plan.md":Sn,"../knowledgeBase/React/shadcn-ui-guide.md":yn,"../knowledgeBase/Vue/component-communication.md":bn,"../knowledgeBase/Vue/reactivity-principle.md":xn,"../knowledgeBase/Vue/vue-mixins.md":Cn,"../knowledgeBase/Vue/vue2-vs-vue3.md":Pn,"../knowledgeBase/index.md":Tn}),l=a["../knowledgeBase/index.md"]||"";n.value=In(l),n.value.forEach(c=>{const f=`../knowledgeBase/${c.filePath}`,x=a[f];x?e.value.set(c.filePath,x):e.value.set(c.filePath,"")}),i.value=b()}catch(a){console.error("Failed to load documents:",a)}finally{s.value=!1}}function h(a){const l=e.value.get(a);if(!l)return null;const c=jn(l);c.meta.filePath=a;const f=n.value.find(x=>x.filePath===a);return f&&(c.meta.category=f.category,c.meta.lastModified=f.lastModified),c}function j(a){return Mn(n.value,a,e.value)}function R(a){w(a.filePath)?En(a.filePath):On(a),i.value=b()}function A(a){return w(a)}return{documents:n,contentMap:e,currentCategory:r,currentDifficulty:t,favorites:i,isLoading:s,readStatsMap:o,categories:v,filteredDocuments:S,loadDocuments:y,loadReadStats:d,getReadCount:u,recordRead:p,getDocumentContent:h,search:j,toggleFavorite:R,isDocFavorite:A}});export{_n as H,Wn as u};
